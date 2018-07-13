@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef>
+    <thingClass>RWAutoSell.ASShoppingList</thingClass>		
+	  <defName>ASShoppingList</defName>
+    <label>Shopping List</label>
+    <description>A Shopping list that can be carried by caravans.</description>
+    <graphicData>
+	  <drawSize>(0.8,0.8)</drawSize>
+      <texPath>Things/Manufactured/ShoppingList</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>  
+	  <MaxHitPoints>50</MaxHitPoints>    
+      <MarketValue>0</MarketValue>
+	  <Mass>0.1</Mass>
+	  <Beauty>-4</Beauty>		
+    </statBases>  	
+	  <category>Item</category>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <scatterableOnMapGen>false</scatterableOnMapGen>
+	  <tradeability>None</tradeability>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>1</stackLimit>
+    <tickerType>Rare</tickerType>
+    <alwaysHaulable>true</alwaysHaulable>		
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>    
+    <comps>
+   <!--   <li>
+        <compClass>RWAutoSell.Comp_AutoSeller</compClass>
+      </li>-->
+	  <li Class="CompProperties_Forbiddable"/>	  
+    </comps>
+    <pathCost>15</pathCost>
+    <resourceReadoutPriority>Last</resourceReadoutPriority>
+    <drawGUIOverlay>true</drawGUIOverlay>    
+	<soundInteract>Standard_Drop</soundInteract>
+	<soundDrop>Standard_Drop</soundDrop>
+  </ThingDef>
+</Defs>

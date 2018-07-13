@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>2c8bfe9a-b7e0-4e27-bba9-36023c33470c</ID>
+  <ModName>Auto Seller</ModName>
+  <Version>2.0.0.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>SupesSolutions</Owner>
+    <Project>RWAutoSeller</Project>
+    <AboutDir>RWAutoSell/About</AboutDir>
+    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <Branch>master</Branch>	  
+  </Host>
+</ModSyncNinjaData>

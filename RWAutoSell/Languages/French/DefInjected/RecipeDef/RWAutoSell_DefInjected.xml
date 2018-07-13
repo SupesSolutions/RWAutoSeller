@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASMakeShoppingList.label>faire une liste de courses</ASMakeShoppingList.label>
+  <ASMakeShoppingList.description>Créer une liste de courses pouvant être transportée</ASMakeShoppingList.description>
+  <ASMakeShoppingList.jobString>Faire une liste d'achats.</ASMakeShoppingList.jobString>
+
+  <ASRecycleShoppingList.label>recycler la liste de courses</ASRecycleShoppingList.label>
+  <ASRecycleShoppingList.description>déchiqueter une vieille liste de courses pour récupérer certaines de ses ressources.</ASRecycleShoppingList.description>
+  <ASRecycleShoppingList.jobString>Liste de courses de recyclage.</ASRecycleShoppingList.jobString>
+</LanguageData>

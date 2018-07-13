@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASBargain.label>Schnäppchen mit Händler</ASBargain.label>
+  <ASBargain.verb>Schnäppchen</ASBargain.verb>
+  <ASBargain.gerund>Verhandeln</ASBargain.gerund>
+
+  <ASPawnBargain.label>Schnäppchen mit Händler</ASPawnBargain.label>
+  <ASPawnBargain.verb>Schnäppchen</ASPawnBargain.verb>
+  <ASPawnBargain.gerund>Verhandeln</ASPawnBargain.gerund>
+
+  <ASDoBillsShoppingLists.label>Einkaufslisten am Handelsdrucker erstellen</ASDoBillsShoppingLists.label>
+  <ASDoBillsShoppingLists.verb>drucken</ASDoBillsShoppingLists.verb>
+  <ASDoBillsShoppingLists.gerund>drucken</ASDoBillsShoppingLists.gerund>
+</LanguageData>

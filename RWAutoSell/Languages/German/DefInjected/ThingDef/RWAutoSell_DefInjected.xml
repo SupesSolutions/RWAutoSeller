@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASReportsPrinter.label>Handelsberichte Drucker</ASReportsPrinter.label>
+  <ASReportsPrinter.description>Zeichnet Handelsregeln für diese Kolonie auf und wendet sie an. Es kann nur einen Handel Drucker oder Protokoll pro Kolonie geben.</ASReportsPrinter.description>
+
+  <ASReportsLog.label>Handelsberichte log</ASReportsLog.label>
+  <ASReportsLog.description>Ein primitives Protokoll, das Handelsregeln für diese Kolonie aufzeichnet und anwendet. Es kann nur einen Handelsdrucker oder ein Protokoll pro Kolonie geben.</ASReportsLog.description>
+
+  <ASShoppingList.label>Einkaufsliste</ASShoppingList.label>
+  <ASShoppingList.description>Eine Einkaufsliste, die von Caravans getragen werden kann.</ASShoppingList.description>
+</LanguageData>

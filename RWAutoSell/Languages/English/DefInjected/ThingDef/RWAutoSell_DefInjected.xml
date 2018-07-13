@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASReportsPrinter.label>trade reports printer</ASReportsPrinter.label>
+  <ASReportsPrinter.description>Records and applies trading rules for this colony.  There can only be one trade printer or log per colony</ASReportsPrinter.description>
+
+  <ASReportsLog.label>trade reports log</ASReportsLog.label>
+  <ASReportsLog.description>A primitive log that records and applies trading rules for this colony.  There can only be one trade printer or log per colony.</ASReportsLog.description>
+
+  <ASShoppingList.label>Shopping List</ASShoppingList.label>
+  <ASShoppingList.description>A Shopping list that can be carried by caravans.</ASShoppingList.description>
+
+</LanguageData>

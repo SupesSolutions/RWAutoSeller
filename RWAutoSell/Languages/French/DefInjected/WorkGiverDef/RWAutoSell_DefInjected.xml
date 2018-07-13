@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASBargain.label>négocier avec le commerçant</ASBargain.label>
+  <ASBargain.verb>négocier</ASBargain.verb>
+  <ASBargain.gerund>négociation</ASBargain.gerund>
+
+  <ASPawnBargain.label>négocier avec le commerçant</ASPawnBargain.label>
+  <ASPawnBargain.verb>négocier</ASPawnBargain.verb>
+  <ASPawnBargain.gerund>négociation</ASPawnBargain.gerund>
+
+  <ASDoBillsShoppingLists.label>créer des listes de courses à l'imprimante commerciale</ASDoBillsShoppingLists.label>
+  <ASDoBillsShoppingLists.verb>imprimer</ASDoBillsShoppingLists.verb>
+  <ASDoBillsShoppingLists.gerund>Impression</ASDoBillsShoppingLists.gerund>
+</LanguageData>

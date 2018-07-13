@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- Dialogs (Common) -->
+  <RWAutoSell.AutoSellButton>Auto Verkaufen</RWAutoSell.AutoSellButton>
+  <!-- Rule Data Strings -->
+  <RWAutoSell.RootLabel>Wurzel</RWAutoSell.RootLabel>
+  <RWAutoSell.GroupLabel>Neue Gruppe</RWAutoSell.GroupLabel>
+  <RWAutoSell.RuleDesc>Regelbeschreibung</RWAutoSell.RuleDesc>  
+  <RWAutoSell.Quantity>Menge</RWAutoSell.Quantity> 
+  <RWAutoSell.SellPoint>Verkaufen, wenn vorbei</RWAutoSell.SellPoint>  
+  <RWAutoSell.BuyPoint>Kaufen, wenn unten</RWAutoSell.BuyPoint>
+  <RWAutoSell.BuyLevel>Kaufen bis zum Level</RWAutoSell.BuyLevel>
+  <RWAutoSell.TreatDefSeperate>Behandle Defs als Getrennt</RWAutoSell.TreatDefSeperate>  
+  <!-- Root Names -->  
+  <RWAutoSell.Trade>Handel</RWAutoSell.Trade>
+  <!-- Node Dialog -->
+  <RWAutoSell.PropGroup>Gruppe</RWAutoSell.PropGroup>
+  <RWAutoSell.PropTest>Prüfung</RWAutoSell.PropTest>
+  <RWAutoSell.PropFilter>Filter</RWAutoSell.PropFilter>
+  <RWAutoSell.DeleteGroup>Gruppe löschen</RWAutoSell.DeleteGroup>
+  <RWAutoSell.DeleteFilter>Filter löschen</RWAutoSell.DeleteFilter>
+  <RWAutoSell.AddGroup>Neue Gruppe hinzufügen</RWAutoSell.AddGroup>
+  <RWAutoSell.CutGroup>Schnittgruppe</RWAutoSell.CutGroup>
+  <RWAutoSell.CopyGroup>Gruppe kopieren</RWAutoSell.CopyGroup>
+  <RWAutoSell.PasteGroup>Gruppe einfügen</RWAutoSell.PasteGroup>
+  <RWAutoSell.OperatorOr>Ändern Sie den Gruppenoperator in OR</RWAutoSell.OperatorOr>
+  <RWAutoSell.OperatorAnd>Ändern Sie den Gruppenoperator in AND</RWAutoSell.OperatorAnd>  
+  <RWAutoSell.TogActive>Aktiv schalten</RWAutoSell.TogActive>
+  <RWAutoSell.TogInactive>Inaktiv schalten</RWAutoSell.TogInactive>
+  <RWAutoSell.TogNegateOff>Toggle Negate Aus</RWAutoSell.TogNegateOff>
+  <RWAutoSell.TogNegateOn>Toggle Negiere ein</RWAutoSell.TogNegateOn>
+  <RWAutoSell.ConvertFilters>Konvertieren von Filtern in Untergruppen</RWAutoSell.ConvertFilters>
+  <RWAutoSell.AddFilter>Neuen Filter hinzufügen</RWAutoSell.AddFilter>
+  <RWAutoSell.Unknown>unbekannte</RWAutoSell.Unknown>
+  <RWAutoSell.Unnamed>Unbenannt</RWAutoSell.Unnamed>
+  <!-- Main Tab -->
+  <RWAutoSell.AutoSellTitle>Einstellungen für automatischen Verkauf</RWAutoSell.AutoSellTitle>
+  <RWAutoSell.CreateRuleShort>Regel erstellen</RWAutoSell.CreateRuleShort>
+  <RWAutoSell.Delete>Löschen</RWAutoSell.Delete>
+  <RWAutoSell.TabTrading>Handel</RWAutoSell.TabTrading>  
+  <!-- Filters Names -->  
+  <RWAutoSell.FilterAge>Alter Jahre</RWAutoSell.FilterAge>
+  <RWAutoSell.FilterBonded>Gebundenes Tier</RWAutoSell.FilterBonded>
+  <RWAutoSell.FilterCat>Kategorie</RWAutoSell.FilterCat>
+  <RWAutoSell.FilterGender>Geschlecht</RWAutoSell.FilterGender>
+  <RWAutoSell.FilterHp>Gesundheit/Trefferpunkte</RWAutoSell.FilterHp>
+  <RWAutoSell.FilterLow>Geringe Lagerbestände</RWAutoSell.FilterLow>
+  <RWAutoSell.FilterNamed>Genannt</RWAutoSell.FilterNamed>
+  <RWAutoSell.FilterRace>Rasse</RWAutoSell.FilterRace>
+  <RWAutoSell.FilterIll>Derzeit krank</RWAutoSell.FilterIll>
+  <RWAutoSell.FilterStuff>Hergestellt aus Materialien</RWAutoSell.FilterStuff>
+  <RWAutoSell.FilterTrait>Merkmal</RWAutoSell.FilterTrait>
+  <RWAutoSell.FilterApparel>Bekleidung</RWAutoSell.FilterApparel>
+  <RWAutoSell.FilterBuyPrice>Kaufen Preisniveau</RWAutoSell.FilterBuyPrice>
+  <!-- Filters WidgetLabels -->
+  <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
+  <RWAutoSell.FilterAgeChr>Chronologische Jahre</RWAutoSell.FilterAgeChr>
+  <RWAutoSell.Minimum>Minimum</RWAutoSell.Minimum>
+  <RWAutoSell.Maximum>Maximum</RWAutoSell.Maximum>  
+  <RWAutoSell.FilterBondedIs>Ist verbunden</RWAutoSell.FilterBondedIs>
+  <RWAutoSell.FilterLowFlagIf>Markieren Sie, ob darunter Halde liegt</RWAutoSell.FilterLowFlagIf>
+  <RWAutoSell.FilterNamedCol>Zeige Kolonisten</RWAutoSell.FilterNamedCol>
+  <RWAutoSell.FilterNamedPrs>Zeige Gefangene</RWAutoSell.FilterNamedPrs>
+  <RWAutoSell.FilterNamedAnm>Zeige Tiere</RWAutoSell.FilterNamedAnm>
+  <RWAutoSell.FilterRaceHumi>Irgendein Humanoid</RWAutoSell.FilterRaceHumi>  
+  <RWAutoSell.FilterRaceAnm>Jedes Tier</RWAutoSell.FilterRaceAnm>
+  <RWAutoSell.FilterRaceMech>Irgendein Mechanoid</RWAutoSell.FilterRaceMech>
+  <RWAutoSell.FilterIllChkInf>Überprüfen Sie, ob eine Infektion/Krankheit vorliegt</RWAutoSell.FilterIllChkInf>
+  <RWAutoSell.FilterIllChkBld>Überprüfen Sie, ob es blutet</RWAutoSell.FilterIllChkBld>
+  <RWAutoSell.FilterIllIgrRcv>Wiederherstellung ignorieren ignorieren</RWAutoSell.FilterIllIgrRcv>
+  <RWAutoSell.FilterStuffNone>Kein Material</RWAutoSell.FilterStuffNone>
+  <RWAutoSell.FilterStuffAny>Beliebig {0}</RWAutoSell.FilterStuffAny>
+  <RWAutoSell.FilterAppCkTainted>Überprüfen Sie verdorben</RWAutoSell.FilterAppCkTainted>
+  <RWAutoSell.FilterAppIsTainted>Ist verdorben</RWAutoSell.FilterAppIsTainted>
+  <RWAutoSell.FilterAppNotTainted>Nicht verdorben</RWAutoSell.FilterAppNotTainted>
+  <RWAutoSell.FilterAppCkDamage>Überprüfen Sie Beschädigt</RWAutoSell.FilterAppCkDamage>
+  <RWAutoSell.FilterAppIsTattered>Ist zerfetzt</RWAutoSell.FilterAppIsTattered>
+  <RWAutoSell.FilterAppIsFrayed>Ist ausgefranst</RWAutoSell.FilterAppIsFrayed>
+  <!-- Filters Tags -->
+  <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
+  <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>
+  <RWAutoSell.TagItems>Artikel</RWAutoSell.TagItems>
+  <RWAutoSell.TagFood>Essen</RWAutoSell.TagFood>
+  
+  <!--Legacy-->
+  <RWAutoSell.NoTP>Handelsdrucker erforderlich</RWAutoSell.NoTP>
+  <RWAutoSell.SellValue>Einheitswert Maximum</RWAutoSell.SellValue>
+  <RWAutoSell.SubCat>Unterkategorien einschließen</RWAutoSell.SubCat>  
+  <!-- Trading Behaviour Dialog -->
+  <RWAutoSell.TradeBehaviour>Handelsverhalten</RWAutoSell.TradeBehaviour>
+  <RWAutoSell.MapBehaviour>Kartenverhalten: {0}</RWAutoSell.MapBehaviour>
+  <RWAutoSell.Stacktoggle>Verbessertes stapelbares Verkaufsverhalten</RWAutoSell.Stacktoggle>
+  <RWAutoSell.AIToggle>AI-Handel</RWAutoSell.AIToggle>  
+  <RWAutoSell.Allowpartial>Erlaube teilweisen Handel</RWAutoSell.Allowpartial>
+  <RWAutoSell.IncludeUnavailable>Nicht verfügbare Elemente einschließen</RWAutoSell.IncludeUnavailable>
+  <!-- Import Dialog -->
+  <RWAutoSell.ImportRules>importieren/exportieren Regeln</RWAutoSell.ImportRules>
+  <RWAutoSell.Import>Einführen</RWAutoSell.Import>
+  
+  <!-- Misc -->  
+  <!--Report Label Order
+  0 = Negotiator
+  1 = earned/spent
+  2 = silver number
+  3 = Sold List
+  4 = bought list
+  -->
+  <RWAutoSell.BargainReport>{0} has bei dieser Transaktion {2} Silber {1}.\n\n{3}\n\n{4}</RWAutoSell.BargainReport>
+  <RWAutoSell.BargainReportSold>Artikel ausverkauft</RWAutoSell.BargainReportSold>
+  <RWAutoSell.BargainReportBought>Artikel gekauft</RWAutoSell.BargainReportBought>  
+  <RWAutoSell.BargainReportGained>verdient</RWAutoSell.BargainReportGained>
+  <RWAutoSell.BargainReportLost>verbraucht</RWAutoSell.BargainReportLost>
+  <RWAutoSell.BargainReportTitle>Handelsbericht für {0}</RWAutoSell.BargainReportTitle>
+  <RWAutoSell.QuickCreate>Schnell erstellen</RWAutoSell.QuickCreate>
+  <RWAutoSell.PWOnlyOne>Nur eins erlaubt</RWAutoSell.PWOnlyOne>
+  <RWAutoSell.AutoSellMerge>Zusammenführung mit {0}</RWAutoSell.AutoSellMerge>
+</LanguageData>

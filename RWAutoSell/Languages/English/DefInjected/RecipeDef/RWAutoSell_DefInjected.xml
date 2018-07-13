@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASMakeShoppingList.label>make shopping list</ASMakeShoppingList.label>
+  <ASMakeShoppingList.description>Create a Shopping List that can be carried.</ASMakeShoppingList.description>
+  <ASMakeShoppingList.jobString>Making Shopping List.</ASMakeShoppingList.jobString>
+
+  <ASRecycleShoppingList.label>recycle shopping list</ASRecycleShoppingList.label>
+  <ASRecycleShoppingList.description>shred an old Shopping List to regain some of its resources.</ASRecycleShoppingList.description>
+  <ASRecycleShoppingList.jobString>Recycling Shopping List.</ASRecycleShoppingList.jobString>
+</LanguageData>

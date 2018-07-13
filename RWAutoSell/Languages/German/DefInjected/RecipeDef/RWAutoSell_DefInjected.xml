@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASMakeShoppingList.label>eine Einkaufsliste schreiben</ASMakeShoppingList.label>
+  <ASMakeShoppingList.description>Erstellen Sie eine Einkaufsliste, die mitgeführt werden kann.</ASMakeShoppingList.description>
+  <ASMakeShoppingList.jobString>Einkaufsliste erstellen</ASMakeShoppingList.jobString>
+
+  <ASRecycleShoppingList.label>Einkaufsliste recyceln</ASRecycleShoppingList.label>
+  <ASRecycleShoppingList.description>vernichte eine alte Einkaufsliste, um einige ihrer Ressourcen wiederzuerlangen.</ASRecycleShoppingList.description>
+  <ASRecycleShoppingList.jobString>Recycling-Einkaufsliste.</ASRecycleShoppingList.jobString>
+</LanguageData>

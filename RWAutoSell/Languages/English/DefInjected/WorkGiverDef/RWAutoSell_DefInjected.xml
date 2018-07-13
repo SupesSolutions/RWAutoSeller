@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASBargain.label>bargain with trader</ASBargain.label>
+  <ASBargain.verb>bargain</ASBargain.verb>
+  <ASBargain.gerund>bargaining</ASBargain.gerund>
+
+  <ASPawnBargain.label>bargain with trader</ASPawnBargain.label>
+  <ASPawnBargain.verb>bargain</ASPawnBargain.verb>
+  <ASPawnBargain.gerund>bargaining</ASPawnBargain.gerund>
+
+  <ASDoBillsShoppingLists.label>create shopping lists at trading printer</ASDoBillsShoppingLists.label>
+  <ASDoBillsShoppingLists.verb>print</ASDoBillsShoppingLists.verb>
+  <ASDoBillsShoppingLists.gerund>printing</ASDoBillsShoppingLists.gerund>
+</LanguageData>

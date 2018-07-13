@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <MainButtonDef>
+    <defName>AutoSell</defName>
+    <label>autosell</label>
+    <description>Create rules for mass selling.</description>
+    <tabWindowClass>RWAutoSell.MainTabWindow_AutoSell</tabWindowClass>
+    <order>276</order>
+  </MainButtonDef>
+
+</Defs>

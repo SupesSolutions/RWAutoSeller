@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- Dialogs (Common) -->
+  <RWAutoSell.AutoSellButton>Auto Sell</RWAutoSell.AutoSellButton>
+  <!-- Rule Data Strings -->
+  <RWAutoSell.RootLabel>Root</RWAutoSell.RootLabel>
+  <RWAutoSell.GroupLabel>New Group</RWAutoSell.GroupLabel>
+  <RWAutoSell.RuleDesc>Rule Description</RWAutoSell.RuleDesc>
+  <RWAutoSell.Quantity>Quantity</RWAutoSell.Quantity>  
+  <RWAutoSell.SellPoint>Sell When Over</RWAutoSell.SellPoint>
+  <RWAutoSell.BuyPoint>Buy When Below</RWAutoSell.BuyPoint>
+  <RWAutoSell.BuyLevel>Buy Upto Level</RWAutoSell.BuyLevel>
+  <RWAutoSell.TreatDefSeperate>Treat Defs as Seperate</RWAutoSell.TreatDefSeperate>  
+  <!-- Root Names -->
+  <RWAutoSell.Trade>Trade</RWAutoSell.Trade>  
+  <!-- Node Dialog -->
+  <RWAutoSell.PropGroup>Group</RWAutoSell.PropGroup>
+  <RWAutoSell.PropTest>Test</RWAutoSell.PropTest>
+  <RWAutoSell.PropFilter>Filter</RWAutoSell.PropFilter>
+  <RWAutoSell.DeleteGroup>Delete Group</RWAutoSell.DeleteGroup>
+  <RWAutoSell.DeleteFilter>Delete Filter</RWAutoSell.DeleteFilter>
+  <RWAutoSell.AddGroup>Add New Group</RWAutoSell.AddGroup>
+  <RWAutoSell.CutGroup>Cut Group</RWAutoSell.CutGroup>
+  <RWAutoSell.CopyGroup>Copy Group</RWAutoSell.CopyGroup>
+  <RWAutoSell.PasteGroup>Paste Group</RWAutoSell.PasteGroup>
+  <RWAutoSell.OperatorOr>Change Group Operator to OR</RWAutoSell.OperatorOr>
+  <RWAutoSell.OperatorAnd>Change Group Operator to AND</RWAutoSell.OperatorAnd>
+  <RWAutoSell.TogActive>Toggle Active</RWAutoSell.TogActive>
+  <RWAutoSell.TogInactive>Toggle Inactive</RWAutoSell.TogInactive>
+  <RWAutoSell.TogNegateOff>Toggle Negate Off</RWAutoSell.TogNegateOff>
+  <RWAutoSell.TogNegateOn>Toggle Negate On</RWAutoSell.TogNegateOn>
+  <RWAutoSell.ConvertFilters>Convert Filters to Sub-Groups</RWAutoSell.ConvertFilters>
+  <RWAutoSell.AddFilter>Add New Filter</RWAutoSell.AddFilter>
+  <RWAutoSell.Unknown>Unknown</RWAutoSell.Unknown>
+  <RWAutoSell.Unnamed>Unnamed</RWAutoSell.Unnamed>
+  <!-- Main Tab -->
+  <RWAutoSell.AutoSellTitle>Auto Sell Settings</RWAutoSell.AutoSellTitle>
+  <RWAutoSell.CreateRuleShort>Create Rule</RWAutoSell.CreateRuleShort>
+  <RWAutoSell.Delete>Delete</RWAutoSell.Delete>
+  <RWAutoSell.TabTrading>Trading</RWAutoSell.TabTrading>    
+  <!-- Filters Names -->
+  <RWAutoSell.FilterAge>Age Years</RWAutoSell.FilterAge>
+  <RWAutoSell.FilterBonded>Bonded Animal</RWAutoSell.FilterBonded>
+  <RWAutoSell.FilterCat>Category</RWAutoSell.FilterCat>
+  <RWAutoSell.FilterGender>Gender</RWAutoSell.FilterGender>
+  <RWAutoSell.FilterHp>Health/Hitpoints</RWAutoSell.FilterHp>
+  <RWAutoSell.FilterLow>Low Stockpile</RWAutoSell.FilterLow>
+  <RWAutoSell.FilterNamed>Named</RWAutoSell.FilterNamed>
+  <RWAutoSell.FilterRace>Race</RWAutoSell.FilterRace>
+  <RWAutoSell.FilterIll>Currently Ill</RWAutoSell.FilterIll>
+  <RWAutoSell.FilterStuff>Made of Materials</RWAutoSell.FilterStuff>
+  <RWAutoSell.FilterTrait>Trait</RWAutoSell.FilterTrait>
+  <RWAutoSell.FilterApparel>Apparel</RWAutoSell.FilterApparel>
+  <RWAutoSell.FilterBuyPrice>Buy Price Level</RWAutoSell.FilterBuyPrice>
+  <!-- Filters WidgetLabels -->
+  <RWAutoSell.FilterAgeBio>Biological Years</RWAutoSell.FilterAgeBio>
+  <RWAutoSell.FilterAgeChr>Chronological Years</RWAutoSell.FilterAgeChr>
+  <RWAutoSell.Minimum>Minimum</RWAutoSell.Minimum>
+  <RWAutoSell.Maximum>Maximum</RWAutoSell.Maximum>  
+  <RWAutoSell.FilterBondedIs>Is Bonded</RWAutoSell.FilterBondedIs>
+  <RWAutoSell.FilterLowFlagIf>Flag if stockpile under this</RWAutoSell.FilterLowFlagIf>
+  <RWAutoSell.FilterNamedCol>Show Colonists</RWAutoSell.FilterNamedCol>
+  <RWAutoSell.FilterNamedPrs>Show Prisoners</RWAutoSell.FilterNamedPrs>
+  <RWAutoSell.FilterNamedAnm>Show Animals</RWAutoSell.FilterNamedAnm>
+  <RWAutoSell.FilterRaceHumi>Any Humanoid</RWAutoSell.FilterRaceHumi>  
+  <RWAutoSell.FilterRaceAnm>Any Animal</RWAutoSell.FilterRaceAnm>
+  <RWAutoSell.FilterRaceMech>Any Mechanoid</RWAutoSell.FilterRaceMech>
+  <RWAutoSell.FilterIllChkInf>Check if has Infection/Disease</RWAutoSell.FilterIllChkInf>
+  <RWAutoSell.FilterIllChkBld>Check if Bleeding</RWAutoSell.FilterIllChkBld>
+  <RWAutoSell.FilterIllIgrRcv>Ignore Recovering</RWAutoSell.FilterIllIgrRcv>
+  <RWAutoSell.FilterStuffNone>No Material</RWAutoSell.FilterStuffNone>
+  <RWAutoSell.FilterStuffAny>Any {0}</RWAutoSell.FilterStuffAny>
+  <RWAutoSell.FilterAppCkTainted>Check Tainted</RWAutoSell.FilterAppCkTainted>
+  <RWAutoSell.FilterAppIsTainted>Is Tainted</RWAutoSell.FilterAppIsTainted>
+  <RWAutoSell.FilterAppNotTainted>Not Tainted</RWAutoSell.FilterAppNotTainted>
+  <RWAutoSell.FilterAppCkDamage>Check Damaged</RWAutoSell.FilterAppCkDamage>
+  <RWAutoSell.FilterAppIsTattered>Is Tattered</RWAutoSell.FilterAppIsTattered>
+  <RWAutoSell.FilterAppIsFrayed>Is Frayed</RWAutoSell.FilterAppIsFrayed>
+  <!-- Filters Tags -->
+  <RWAutoSell.TagAnimals>Animals</RWAutoSell.TagAnimals>
+  <RWAutoSell.TagPeople>People</RWAutoSell.TagPeople>
+  <RWAutoSell.TagItems>Items</RWAutoSell.TagItems>
+  <RWAutoSell.TagFood>Food</RWAutoSell.TagFood>
+  
+  <!--Legacy-->
+  <RWAutoSell.NoTP>Trade Printer Required</RWAutoSell.NoTP>
+  <RWAutoSell.SellValue>Unit Value Maximum</RWAutoSell.SellValue>
+  <RWAutoSell.SubCat>Include Sub Categories</RWAutoSell.SubCat>  
+  <!-- Trading Behaviour Dialog -->
+  <RWAutoSell.TradeBehaviour>Trading Behaviour</RWAutoSell.TradeBehaviour>
+  <RWAutoSell.MapBehaviour>Map Behaviour: {0}</RWAutoSell.MapBehaviour>
+  <RWAutoSell.Stacktoggle>Improved Stackable Sell Behaviour</RWAutoSell.Stacktoggle>
+  <RWAutoSell.AIToggle>AI Trading</RWAutoSell.AIToggle>  
+  <RWAutoSell.Allowpartial>Allow Partial Trading</RWAutoSell.Allowpartial>
+  <RWAutoSell.IncludeUnavailable>Include Unavailable Items</RWAutoSell.IncludeUnavailable>
+  <!-- Import Dialog -->
+  <RWAutoSell.ImportRules>Import/Export Rules</RWAutoSell.ImportRules>
+  <RWAutoSell.Import>Import</RWAutoSell.Import>
+    
+  <!-- Misc -->  
+  <!--Report Label Order
+  0 = Negotiator
+  1 = earned/spent
+  2 = silver number
+  3 = Sold List
+  4 = bought list
+  -->
+  <RWAutoSell.BargainReport>{0} has {1} {2} Silver on this transaction.\n\n{3}\n\n{4}</RWAutoSell.BargainReport>
+  <RWAutoSell.BargainReportSold>Item Sold</RWAutoSell.BargainReportSold>
+  <RWAutoSell.BargainReportBought>Item Bought</RWAutoSell.BargainReportBought>  
+  <RWAutoSell.BargainReportGained>earned</RWAutoSell.BargainReportGained>
+  <RWAutoSell.BargainReportLost>spent</RWAutoSell.BargainReportLost>
+  <RWAutoSell.BargainReportTitle>Trade Report for {0}</RWAutoSell.BargainReportTitle>
+  <RWAutoSell.QuickCreate>Quick Create</RWAutoSell.QuickCreate>
+  <RWAutoSell.PWOnlyOne>Only one allowed</RWAutoSell.PWOnlyOne>
+  <RWAutoSell.AutoSellMerge>Merge with {0}</RWAutoSell.AutoSellMerge>  
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASReportsPrinter.label>imprimante de rapports commerciaux</ASReportsPrinter.label>
+  <ASReportsPrinter.description>Enregistre et applique les règles de négociation pour cette colonie. Il ne peut y avoir qu'une seule imprimante commerciale ou journal commercial par colonie.</ASReportsPrinter.description>
+
+  <ASReportsLog.label>journal des rapports commerciaux</ASReportsLog.label>
+  <ASReportsLog.description>Un journal primitif qui enregistre et applique les règles de négociation pour cette colonie. Il ne peut y avoir qu'une imprimante commerciale ou un journal par colonie.</ASReportsLog.description>
+
+  <ASShoppingList.label>Liste de courses</ASShoppingList.label>
+  <ASShoppingList.description>Une liste de courses pouvant être transportée par des caravanes.</ASShoppingList.description>
+</LanguageData>
