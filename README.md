@@ -50,3 +50,7 @@ When creating complex rules with multiple branches of Groups, it is highly recom
 You can invert the results of a group by right clicking and selecting Negate, this can be used for creating exceptions which I will get into later as it is an advanced topic.
 
 If you want do prevent a rule from firing but not delete it, you can click the S next to the Rule on the AutoSeller Overview.  while on the topic of deactivating rules, you can deactivate part of a rule by editing the rule and right clicking the Group you wish to deactivate.
+
+There are multiple ways to Manipulate Groups, you can cut and paste a Group onto another Group, or you can simply drag the Group over to where you want.
+
+Did you know that you can copy/paste a group from one rule to different rule, you can even do this with different extension Rules.
