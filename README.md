@@ -6,8 +6,6 @@ You can create rules for damage equipment, sell only of a certain quality, or ev
 
 Additional Info
 
-You'll now need to build a Trade Reports Printer so you can create rules for you colony, and if you have more than one colony, you'll need to build one there as well since each colony can have its own set of buy/sell rules.
-
 If you plan to use AutoSeller with caravans, you'll need to build a Trade Reports Printer and create a shopping list, and be sure to take the Shopping List with you. A Shopping List will connect your caravan with the original colony the list was created on (as long as that colony still has a trade printer) use when sending your caravan to trade with other faction bases.
 
 If AI Selling is enabled it will, by default give a job to the best negotiator avaibable, some social skill is also gained during the job.
@@ -18,7 +16,7 @@ Specific AutoSeller 2 features
 
 Users of the old AutoSeller might scream AHHH! at the new rule creating interface, however the new modular design allows for more complex rule creation while still allowing you to create a rule in under 20 seconds if you want (yes I've tried it).
 
-Another advantage of the new modular design is that there aren't different Rule Types for different things (gone are the days of Items/Livestock/Building rules) for different things.
+Another advantage of the new modular design is that there aren't different Rule Types for trading different things (gone are the days of Items/Livestock/Building rules).
 
 You get to choose which filters to add, if you want to sell all of something regardless of health, you don't have to use the health filter.
 
