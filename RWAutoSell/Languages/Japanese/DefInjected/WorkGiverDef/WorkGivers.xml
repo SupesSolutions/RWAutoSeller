@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ASBargain.label>トレーダーとの商取引</ASBargain.label>
+  <ASBargain.verb>取引</ASBargain.verb>
+  <ASBargain.gerund>取引中</ASBargain.gerund>
+
+  <ASPawnBargain.label>トレーダーとの商取引</ASPawnBargain.label>
+  <ASPawnBargain.verb>取引</ASPawnBargain.verb>
+  <ASPawnBargain.gerund>取引中</ASPawnBargain.gerund>
+
+  <ASDoBillsShoppingLists.label>貿易報告装置で買い物リストを作成する</ASDoBillsShoppingLists.label>
+  <ASDoBillsShoppingLists.verb>を作成する</ASDoBillsShoppingLists.verb>
+  <ASDoBillsShoppingLists.gerund>を作成する</ASDoBillsShoppingLists.gerund>
+
+
+</LanguageData>

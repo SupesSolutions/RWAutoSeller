@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ASReportsPrinter.label>貿易報告装置</ASReportsPrinter.label>
+  <ASReportsPrinter.description>このコロニーの取引ルールを記録して適用します。コロニーごとに貿易報告装置または貿易報告証書は1つしか設置できません。</ASReportsPrinter.description>
+  <Blueprint_ASReportsPrinter.label>貿易報告装置(設計)</Blueprint_ASReportsPrinter.label>
+  <Blueprint_Install_ASReportsPrinter.label>貿易報告装置(移動先)</Blueprint_Install_ASReportsPrinter.label>
+  <Frame_ASReportsPrinter.label>貿易報告装置(施工)</Frame_ASReportsPrinter.label>
+  <Frame_ASReportsPrinter.description>このコロニーの取引ルールを記録して適用します。コロニーごとに貿易報告装置または貿易報告証書は1つしか設置できません。</Frame_ASReportsPrinter.description>
+
+  <ASReportsLog.label>貿易報告証書</ASReportsLog.label>
+  <ASReportsLog.description>このコロニーの取引ルールを記録して適用します。コロニーごとに貿易報告装置または貿易報告証書は1つしか設置できません。</ASReportsLog.description>
+  <Blueprint_ASReportsLog.label>貿易報告証書(設計)</Blueprint_ASReportsLog.label>
+  <Blueprint_Install_ASReportsLog.label>貿易報告証書(移動先)</Blueprint_Install_ASReportsLog.label>
+  <Frame_ASReportsLog.label>貿易報告証書(施工)</Frame_ASReportsLog.label>
+  <Frame_ASReportsLog.description>このコロニーの取引ルールを記録して適用します。コロニーごとに貿易報告装置または貿易報告証書は1つしか設置できません。</Frame_ASReportsLog.description>
+
+
+</LanguageData>
