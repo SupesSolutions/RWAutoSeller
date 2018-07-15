@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ASMakeShoppingList.label>買い物リストを作る</ASMakeShoppingList.label>
+  <ASMakeShoppingList.description>持ち運ぶことができる買い物リストを作成します。</ASMakeShoppingList.description>
+  <ASMakeShoppingList.jobString>買い物リストを製作中</ASMakeShoppingList.jobString>
+
+  <ASRecycleShoppingList.label>買い物リストを解体する</ASRecycleShoppingList.label>
+  <ASRecycleShoppingList.description>古い買い物リストを細断して、その資源の一部を取り戻します。</ASRecycleShoppingList.description>
+  <ASRecycleShoppingList.jobString>買い物リストを解体中</ASRecycleShoppingList.jobString>
+
+
+</LanguageData>
