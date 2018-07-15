@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Dialogs (Common) -->
+  <RWAutoSell.AutoSellButton>自動売却</RWAutoSell.AutoSellButton>
+  <!-- Rule Data Strings -->
+  <RWAutoSell.RootLabel>ルート</RWAutoSell.RootLabel>
+  <RWAutoSell.GroupLabel>新規グループ</RWAutoSell.GroupLabel>
+  <RWAutoSell.RuleDesc>ルールの説明</RWAutoSell.RuleDesc>
+  <RWAutoSell.Quantity>数量</RWAutoSell.Quantity>
+  <RWAutoSell.SellPoint>以上で売却</RWAutoSell.SellPoint>
+  <RWAutoSell.BuyPoint>以下で売却</RWAutoSell.BuyPoint>
+  <RWAutoSell.BuyLevel>レベルまで購入する</RWAutoSell.BuyLevel>
+  <RWAutoSell.TreatDefSeperate>Defsを別々に扱う</RWAutoSell.TreatDefSeperate>
+  <!-- Root Names -->
+  <RWAutoSell.Trade>交易</RWAutoSell.Trade>
+  <!-- Node Dialog -->
+  <RWAutoSell.PropGroup>グループ</RWAutoSell.PropGroup>
+  <RWAutoSell.PropTest>テスト</RWAutoSell.PropTest>
+  <RWAutoSell.PropFilter>フィルター</RWAutoSell.PropFilter>
+  <RWAutoSell.DeleteGroup>グループ削除</RWAutoSell.DeleteGroup>
+  <RWAutoSell.DeleteFilter>フィルター削除</RWAutoSell.DeleteFilter>
+  <RWAutoSell.AddGroup>新規グループ追加</RWAutoSell.AddGroup>
+  <RWAutoSell.CutGroup>切り取り(グループ)</RWAutoSell.CutGroup>
+  <RWAutoSell.CopyGroup>コピー(グループ)</RWAutoSell.CopyGroup>
+  <RWAutoSell.PasteGroup>貼り付け(グループ)</RWAutoSell.PasteGroup>
+  <RWAutoSell.OperatorOr>グループの条件をORに切替</RWAutoSell.OperatorOr>
+  <RWAutoSell.OperatorAnd>グループの条件をANDに切替</RWAutoSell.OperatorAnd>
+  <RWAutoSell.TogActive>有効化する</RWAutoSell.TogActive>
+  <RWAutoSell.TogInactive>無効化する</RWAutoSell.TogInactive>
+  <RWAutoSell.TogNegateOff>条件否定をOffにする</RWAutoSell.TogNegateOff>
+  <RWAutoSell.TogNegateOn>条件否定をOnにする</RWAutoSell.TogNegateOn>
+  <RWAutoSell.ConvertFilters>サブグループにフィルタを変換</RWAutoSell.ConvertFilters>
+  <RWAutoSell.AddFilter>新規フィルターを追加</RWAutoSell.AddFilter>
+  <RWAutoSell.Unknown>不明</RWAutoSell.Unknown>
+  <RWAutoSell.Unnamed>名無し</RWAutoSell.Unnamed>
+  <!-- Main Tab -->
+  <RWAutoSell.AutoSellTitle>自動売却の設定</RWAutoSell.AutoSellTitle>
+  <RWAutoSell.CreateRuleShort>ルール作成</RWAutoSell.CreateRuleShort>
+  <RWAutoSell.Delete>削除</RWAutoSell.Delete>
+  <RWAutoSell.TabTrading>取引</RWAutoSell.TabTrading>
+  <!-- Filters Names -->
+  <RWAutoSell.FilterAge>年齢</RWAutoSell.FilterAge>
+  <RWAutoSell.FilterBonded>絆付きの動物</RWAutoSell.FilterBonded>
+  <RWAutoSell.FilterCat>カテゴリー</RWAutoSell.FilterCat>
+  <RWAutoSell.FilterGender>性別</RWAutoSell.FilterGender>
+  <RWAutoSell.FilterHp>健康/HP</RWAutoSell.FilterHp>
+  <RWAutoSell.FilterLow>在庫が少ない</RWAutoSell.FilterLow>
+  <RWAutoSell.FilterNamed>名前有り</RWAutoSell.FilterNamed>
+  <RWAutoSell.FilterRace>種族</RWAutoSell.FilterRace>
+  <RWAutoSell.FilterIll>現在病気</RWAutoSell.FilterIll>
+  <RWAutoSell.FilterStuff>資源を産む</RWAutoSell.FilterStuff>
+  <RWAutoSell.FilterTrait>タレント</RWAutoSell.FilterTrait>
+  <RWAutoSell.FilterApparel>衣服</RWAutoSell.FilterApparel>
+  <RWAutoSell.FilterBuyPrice>価格レベルまで購入</RWAutoSell.FilterBuyPrice>
+  <!-- Filters WidgetLabels -->
+  <RWAutoSell.FilterAgeBio>生体上の年齢</RWAutoSell.FilterAgeBio>
+  <RWAutoSell.FilterAgeChr>暦上の年齢</RWAutoSell.FilterAgeChr>
+  <RWAutoSell.Minimum>最小</RWAutoSell.Minimum>
+  <RWAutoSell.Maximum>最大</RWAutoSell.Maximum>
+  <RWAutoSell.FilterBondedIs>絆有り</RWAutoSell.FilterBondedIs>
+  <RWAutoSell.FilterLowFlagIf>これを基準に備蓄する際のフラグ</RWAutoSell.FilterLowFlagIf>
+  <RWAutoSell.FilterNamedCol>入植者を表示</RWAutoSell.FilterNamedCol>
+  <RWAutoSell.FilterNamedPrs>囚人を表示</RWAutoSell.FilterNamedPrs>
+  <RWAutoSell.FilterNamedAnm>動物を表示</RWAutoSell.FilterNamedAnm>
+  <RWAutoSell.FilterRaceHumi>他の人間種</RWAutoSell.FilterRaceHumi>
+  <RWAutoSell.FilterRaceAnm>他の動物種</RWAutoSell.FilterRaceAnm>
+  <RWAutoSell.FilterRaceMech>メカノイド類</RWAutoSell.FilterRaceMech>
+  <RWAutoSell.FilterIllChkInf>感染症/病気の有無を確認</RWAutoSell.FilterIllChkInf>
+  <RWAutoSell.FilterIllChkBld>出血の有無を確認</RWAutoSell.FilterIllChkBld>
+  <RWAutoSell.FilterIllIgrRcv>治療中を無視する</RWAutoSell.FilterIllIgrRcv>
+  <RWAutoSell.FilterStuffNone>資源なし</RWAutoSell.FilterStuffNone>
+  <RWAutoSell.FilterStuffAny>任意の{0}</RWAutoSell.FilterStuffAny>
+  <RWAutoSell.FilterAppCkTainted>死者の服か確認</RWAutoSell.FilterAppCkTainted>
+  <RWAutoSell.FilterAppIsTainted>(霊)付</RWAutoSell.FilterAppIsTainted>
+  <RWAutoSell.FilterAppNotTainted>なし</RWAutoSell.FilterAppNotTainted>
+  <RWAutoSell.FilterAppCkDamage>ダメージ確認</RWAutoSell.FilterAppCkDamage>
+  <RWAutoSell.FilterAppIsTattered>ぼろぼろ</RWAutoSell.FilterAppIsTattered>
+  <RWAutoSell.FilterAppIsFrayed>すり切れた</RWAutoSell.FilterAppIsFrayed>
+  <!-- Filters Tags -->
+  <RWAutoSell.TagAnimals>動物</RWAutoSell.TagAnimals>
+  <RWAutoSell.TagPeople>人間</RWAutoSell.TagPeople>
+  <RWAutoSell.TagItems>アイテム</RWAutoSell.TagItems>
+  <RWAutoSell.TagFood>食糧</RWAutoSell.TagFood>
+  <!--Legacy-->
+  <RWAutoSell.NoTP>貿易報告装置が必要</RWAutoSell.NoTP>
+  <RWAutoSell.SellValue>単価の最大値</RWAutoSell.SellValue>
+  <RWAutoSell.SubCat>サブカテゴリを含む</RWAutoSell.SubCat>
+  <!-- Trading Behaviour Dialog -->
+  <RWAutoSell.TradeBehaviour>取引動作</RWAutoSell.TradeBehaviour>
+  <RWAutoSell.MapBehaviour>マップ動作：{0}</RWAutoSell.MapBehaviour>
+  <RWAutoSell.Stacktoggle>スタック可能な売却行動の改良</RWAutoSell.Stacktoggle>
+  <RWAutoSell.AIToggle>AIに委任</RWAutoSell.AIToggle>
+  <RWAutoSell.Allowpartial>個別取引を許可</RWAutoSell.Allowpartial>
+  <RWAutoSell.IncludeUnavailable>利用不可なアイテムを含む</RWAutoSell.IncludeUnavailable>
+  <!-- Import Dialog -->
+  <RWAutoSell.ImportRules>ルールの読み出し/書き出し</RWAutoSell.ImportRules>
+  <RWAutoSell.Import>読み出し</RWAutoSell.Import>
+  <!-- Misc -->
+  <!--Report Label Order
+  0 = Negotiator
+  1 = earned/spent
+  2 = silver number
+  3 = Sold List
+  4 = bought list
+  -->
+  <RWAutoSell.BargainReport>{0}はこの取引で{1} {2}シルバーを持っています。\n\n{3}\n\n{4}</RWAutoSell.BargainReport>
+  <RWAutoSell.BargainReportSold>売却商品</RWAutoSell.BargainReportSold>
+  <RWAutoSell.BargainReportBought>購入商品</RWAutoSell.BargainReportBought>
+  <RWAutoSell.BargainReportGained>利益</RWAutoSell.BargainReportGained>
+  <RWAutoSell.BargainReportLost>支払い</RWAutoSell.BargainReportLost>
+  <RWAutoSell.BargainReportTitle>{0}の取引報告</RWAutoSell.BargainReportTitle>
+  <RWAutoSell.QuickCreate>簡易作成</RWAutoSell.QuickCreate>
+  <RWAutoSell.PWOnlyOne>1つだけ許可</RWAutoSell.PWOnlyOne>
+  <RWAutoSell.AutoSellMerge>{0}と結合</RWAutoSell.AutoSellMerge>
+</LanguageData>
