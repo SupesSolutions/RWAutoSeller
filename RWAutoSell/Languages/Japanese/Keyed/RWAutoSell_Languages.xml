@@ -92,6 +92,7 @@
   <RWAutoSell.AIToggle>AIに委任</RWAutoSell.AIToggle>
   <RWAutoSell.Allowpartial>個別取引を許可</RWAutoSell.Allowpartial>
   <RWAutoSell.IncludeUnavailable>利用不可なアイテムを含む</RWAutoSell.IncludeUnavailable>
+  <RWAutoSell.Repitition>繰り返し</RWAutoSell.Repitition>
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>ルールの読み出し/書き出し</RWAutoSell.ImportRules>
   <RWAutoSell.Import>読み出し</RWAutoSell.Import>

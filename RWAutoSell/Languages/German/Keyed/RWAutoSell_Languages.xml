@@ -93,6 +93,7 @@
   <RWAutoSell.AIToggle>AI-Handel</RWAutoSell.AIToggle>  
   <RWAutoSell.Allowpartial>Erlaube teilweisen Handel</RWAutoSell.Allowpartial>
   <RWAutoSell.IncludeUnavailable>Nicht verfügbare Elemente einschließen</RWAutoSell.IncludeUnavailable>
+  <RWAutoSell.Repitition>Wiederholung</RWAutoSell.Repitition>
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>importieren/exportieren Regeln</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Einführen</RWAutoSell.Import>
