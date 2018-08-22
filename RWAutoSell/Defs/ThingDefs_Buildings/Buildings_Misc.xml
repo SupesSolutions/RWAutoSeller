@@ -28,13 +28,13 @@
     <size>(2,1)</size>
     <rotatable>true</rotatable>
     <altitudeLayer>Building</altitudeLayer>
-	<building>
-			<workSpeedPenaltyOutdoors>true</workSpeedPenaltyOutdoors>
-			<workSpeedPenaltyTemperature>true</workSpeedPenaltyTemperature>
-	      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
-		    <unpoweredWorkTableWorkSpeedFactor>0.5</unpoweredWorkTableWorkSpeedFactor>		
-	</building>
-	<thingCategories>
+    <building>
+      <workSpeedPenaltyOutdoors>true</workSpeedPenaltyOutdoors>
+      <workSpeedPenaltyTemperature>true</workSpeedPenaltyTemperature>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <unpoweredWorkTableWorkSpeedFactor>0.5</unpoweredWorkTableWorkSpeedFactor>
+    </building>
+    <thingCategories>
       <li>BuildingsMisc</li>
     </thingCategories>
     <passability>PassThroughOnly</passability>

@@ -52,6 +52,7 @@
   <RWAutoSell.FilterTrait>Merkmal</RWAutoSell.FilterTrait>
   <RWAutoSell.FilterApparel>Bekleidung</RWAutoSell.FilterApparel>
   <RWAutoSell.FilterBuyPrice>Kaufen Preisniveau</RWAutoSell.FilterBuyPrice>
+  <RWAutoSell.FilterWorkTag>Arbeitsfähig</RWAutoSell.FilterWorkTag>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>Chronologische Jahre</RWAutoSell.FilterAgeChr>

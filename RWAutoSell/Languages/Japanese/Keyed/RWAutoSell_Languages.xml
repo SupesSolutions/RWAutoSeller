@@ -52,6 +52,7 @@
   <RWAutoSell.FilterTrait>タレント</RWAutoSell.FilterTrait>
   <RWAutoSell.FilterApparel>衣服</RWAutoSell.FilterApparel>
   <RWAutoSell.FilterBuyPrice>価格レベルまで購入</RWAutoSell.FilterBuyPrice>
+  <RWAutoSell.FilterWorkTag>働ける</RWAutoSell.FilterWorkTag>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.FilterAgeBio>生体上の年齢</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>暦上の年齢</RWAutoSell.FilterAgeChr>

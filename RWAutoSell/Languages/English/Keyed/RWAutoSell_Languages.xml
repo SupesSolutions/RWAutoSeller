@@ -52,6 +52,7 @@
   <RWAutoSell.FilterTrait>Trait</RWAutoSell.FilterTrait>
   <RWAutoSell.FilterApparel>Apparel</RWAutoSell.FilterApparel>
   <RWAutoSell.FilterBuyPrice>Buy Price Level</RWAutoSell.FilterBuyPrice>
+  <RWAutoSell.FilterWorkTag>Work Capable</RWAutoSell.FilterWorkTag>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.FilterAgeBio>Biological Years</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>Chronological Years</RWAutoSell.FilterAgeChr>
