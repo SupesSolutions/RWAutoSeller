@@ -4,7 +4,7 @@ So, You've been hoarding a ton of weapons and apparel you've been hoping to sell
 
 You can create rules for damage equipment, sell only of a certain quality, or even items made from a certain material.  Do you have a surplus of stock but don't want to sell everything, you can do that aswell.
 
-Additional Info
+**Additional Info**
 
 If you plan to use AutoSeller with caravans, you'll need to build a Trade Reports Printer and create a shopping list, and be sure to take the Shopping List with you. A Shopping List will connect your caravan with the original colony the list was created on (as long as that colony still has a trade printer) use when sending your caravan to trade with other faction bases.
 
@@ -12,7 +12,7 @@ If AI Selling is enabled it will, by default give a job to the best negotiator a
 
 Buying Rules can be set buy creating a rule as normal, and setting the Reorder Point and Restock Levels. when your stock goes below the Reorder Point, you will buy stock up to the Restock Level. By setting Sell Point and Reorder Points, you can avoid getting too low levels of stock or storing too much of an item.
 
-Specific AutoSeller 2 features
+**Specific AutoSeller 2 features**
 
 Users of the old AutoSeller might scream AHHH! at the new rule creating interface, however the new modular design allows for more complex rule creation while still allowing you to create a rule in under 20 seconds if you want (yes I've tried it).
 
@@ -23,7 +23,7 @@ You get to choose which filters to add, if you want to sell all of something reg
 AutoSeller is an Extendable Framework, and can use Filters outside of the main mod, aswell as extensions to create rules that can be used outside of Trading.
 
 
-Creating a rule in AutoSeller 2
+**Creating a rule in AutoSeller 2**
 
 
 Rules now consist of Groups and Filters.  Rule options/settings are at the top of the interface, be sure to set the Rule Description, since unlike AutoSeller 1, Rules are not named for you (this is because rules can become very complex)
@@ -37,7 +37,7 @@ With a Group selected, and from the Group Properties tab on the right side of th
 Click accept to save your rule.
 
 
-Tips
+**Tips**
 
 You can test your rule to see what items match it on the Test tab during rule creation, please note that this matches against what is in your colony (note that quantiy is delibrately not shown since this can vary greatly when trading) so if your colony doesn't have an item matching, it wont show.
 
