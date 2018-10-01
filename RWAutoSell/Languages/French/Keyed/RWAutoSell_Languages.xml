@@ -53,6 +53,7 @@
   <RWAutoSell.FilterApparel>Vêtements</RWAutoSell.FilterApparel>
   <RWAutoSell.FilterBuyPrice>Acheter le niveau de prix</RWAutoSell.FilterBuyPrice>
   <RWAutoSell.FilterWorkTag>Capacité de travail</RWAutoSell.FilterWorkTag>
+  <RWAutoSell.FilterSkill>Niveau de compétence</RWAutoSell.FilterSkill>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.FilterAgeBio>Années biologiques</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>Années chronologiques</RWAutoSell.FilterAgeChr>
@@ -95,6 +96,7 @@
   <RWAutoSell.Allowpartial>Autoriser les échanges partiels</RWAutoSell.Allowpartial>
   <RWAutoSell.IncludeUnavailable>Inclure les éléments non disponibles</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Répétition</RWAutoSell.Repitition>
+  <RWAutoSell.Negotiator>Négociateur</RWAutoSell.Negotiator>
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>Règles d'importation/exportation</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Importer</RWAutoSell.Import>

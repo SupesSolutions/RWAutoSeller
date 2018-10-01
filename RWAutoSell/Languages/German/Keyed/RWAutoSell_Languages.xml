@@ -53,6 +53,7 @@
   <RWAutoSell.FilterApparel>Bekleidung</RWAutoSell.FilterApparel>
   <RWAutoSell.FilterBuyPrice>Kaufen Preisniveau</RWAutoSell.FilterBuyPrice>
   <RWAutoSell.FilterWorkTag>Arbeitsfähig</RWAutoSell.FilterWorkTag>
+  <RWAutoSell.FilterSkill>Fähigkeits Level</RWAutoSell.FilterSkill>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>Chronologische Jahre</RWAutoSell.FilterAgeChr>
@@ -95,6 +96,7 @@
   <RWAutoSell.Allowpartial>Erlaube teilweisen Handel</RWAutoSell.Allowpartial>
   <RWAutoSell.IncludeUnavailable>Nicht verfügbare Elemente einschließen</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Wiederholung</RWAutoSell.Repitition>
+  <RWAutoSell.Negotiator>Unterhändler</RWAutoSell.Negotiator>
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>importieren/exportieren Regeln</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Einführen</RWAutoSell.Import>
