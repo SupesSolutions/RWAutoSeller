@@ -54,6 +54,8 @@
   <RWAutoSell.FilterBuyPrice>Kaufen Preisniveau</RWAutoSell.FilterBuyPrice>
   <RWAutoSell.FilterWorkTag>Arbeitsfähig</RWAutoSell.FilterWorkTag>
   <RWAutoSell.FilterSkill>Fähigkeits Level</RWAutoSell.FilterSkill>
+  <RWAutoSell.FilterStatistics>Statistik</RWAutoSell.FilterStatistics>
+  <RWAutoSell.FilterAnimal>Tier</RWAutoSell.FilterAnimal>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>Chronologische Jahre</RWAutoSell.FilterAgeChr>
@@ -78,6 +80,10 @@
   <RWAutoSell.FilterAppCkDamage>Überprüfen Sie Beschädigt</RWAutoSell.FilterAppCkDamage>
   <RWAutoSell.FilterAppIsTattered>Ist zerfetzt</RWAutoSell.FilterAppIsTattered>
   <RWAutoSell.FilterAppIsFrayed>Ist ausgefranst</RWAutoSell.FilterAppIsFrayed>
+  <RWAutoSell.FilterSearch>Suche</RWAutoSell.FilterSearch>
+  <RWAutoSell.FilterPregnant>Überprüfen Sie die Schwangerschaft</RWAutoSell.FilterPregnant>
+  <RWAutoSell.FilterIntelligence>Minimale Intelligenz</RWAutoSell.FilterIntelligence>
+  <RWAutoSell.FilterTraining>Hat Training</RWAutoSell.FilterTraining>
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>

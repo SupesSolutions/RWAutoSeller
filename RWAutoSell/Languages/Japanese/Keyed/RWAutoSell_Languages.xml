@@ -54,6 +54,8 @@
   <RWAutoSell.FilterBuyPrice>価格レベルまで購入</RWAutoSell.FilterBuyPrice>
   <RWAutoSell.FilterWorkTag>働ける</RWAutoSell.FilterWorkTag>
   <RWAutoSell.FilterSkill>スキルレベル</RWAutoSell.FilterSkill>
+  <RWAutoSell.FilterStatistics>統計</RWAutoSell.FilterStatistics>
+  <RWAutoSell.FilterAnimal>動物</RWAutoSell.FilterAnimal>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.FilterAgeBio>生体上の年齢</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>暦上の年齢</RWAutoSell.FilterAgeChr>
@@ -78,6 +80,10 @@
   <RWAutoSell.FilterAppCkDamage>ダメージ確認</RWAutoSell.FilterAppCkDamage>
   <RWAutoSell.FilterAppIsTattered>ぼろぼろ</RWAutoSell.FilterAppIsTattered>
   <RWAutoSell.FilterAppIsFrayed>すり切れた</RWAutoSell.FilterAppIsFrayed>
+  <RWAutoSell.FilterSearch>サーチ</RWAutoSell.FilterSearch>
+  <RWAutoSell.FilterPregnant>妊娠をチェックする</RWAutoSell.FilterPregnant>
+  <RWAutoSell.FilterIntelligence>最小知能</RWAutoSell.FilterIntelligence>
+  <RWAutoSell.FilterTraining>トレーニングを受けている</RWAutoSell.FilterTraining>
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>動物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人間</RWAutoSell.TagPeople>
