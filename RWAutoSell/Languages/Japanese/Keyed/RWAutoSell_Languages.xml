@@ -45,6 +45,10 @@
   <RWAutoSell.AddFilter>新規フィルターを追加</RWAutoSell.AddFilter>
   <RWAutoSell.Unknown>不明</RWAutoSell.Unknown>
   <RWAutoSell.Unnamed>名無し</RWAutoSell.Unnamed>
+  <!--Group Properties List ToolTips-->
+  <RWAutoSell.DescGroupNavigate>ダブルクリックで親グループへ誘導</RWAutoSell.DescGroupNavigate>
+  <RWAutoSell.DescGroupSelect>ダブルクリックでこのサブグループへ誘導</RWAutoSell.DescGroupSelect>
+  <RWAutoSell.DescFilterSelect>ダブルクリックでフィルターを編集</RWAutoSell.DescFilterSelect>
   <!-- Main Tab -->
   <RWAutoSell.AutoSellTitle>自動売却の設定</RWAutoSell.AutoSellTitle>
   <RWAutoSell.CreateRuleShort>ルール作成</RWAutoSell.CreateRuleShort>
@@ -101,6 +105,7 @@
   <RWAutoSell.TagPeople>人間</RWAutoSell.TagPeople>
   <RWAutoSell.TagItems>アイテム</RWAutoSell.TagItems>
   <RWAutoSell.TagFood>食糧</RWAutoSell.TagFood>
+
   <!--Legacy-->
   <RWAutoSell.NoTP>貿易報告装置が必要</RWAutoSell.NoTP>
   <RWAutoSell.SellValue>単価の最大値</RWAutoSell.SellValue>
@@ -117,6 +122,7 @@
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>ルールの読み出し/書き出し</RWAutoSell.ImportRules>
   <RWAutoSell.Import>読み出し</RWAutoSell.Import>
+
   <!-- Misc -->
   <!--Report Label Order
   0 = Negotiator
