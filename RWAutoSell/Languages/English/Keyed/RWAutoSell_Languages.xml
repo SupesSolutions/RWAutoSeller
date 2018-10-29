@@ -10,13 +10,25 @@
   <RWAutoSell.SellPoint>Sell When Over</RWAutoSell.SellPoint>
   <RWAutoSell.BuyPoint>Buy When Below</RWAutoSell.BuyPoint>
   <RWAutoSell.BuyLevel>Buy Upto Level</RWAutoSell.BuyLevel>
-  <RWAutoSell.TreatDefSeperate>Treat Defs as Seperate</RWAutoSell.TreatDefSeperate>  
+  <RWAutoSell.TreatDefSeperate>Treat Defs as Seperate</RWAutoSell.TreatDefSeperate>
+  <!-- Rule Data Descriptions -->  
+  <RWAutoSell.DescRuleDesc>This is the description that shows on the overview page</RWAutoSell.DescRuleDesc>  
+  <RWAutoSell.DescSellPoint>Keep this number of items in your stockpile, but sell any excess of items over this value.</RWAutoSell.DescSellPoint>
+  <RWAutoSell.DescBuyPoint>If the amount of items in your stockpile is below this number, allow buying of items.</RWAutoSell.DescBuyPoint>
+  <RWAutoSell.DescBuyLevel>When buying, you will end up with this amount in your stockpile.</RWAutoSell.DescBuyLevel>
+  <RWAutoSell.DescTreatDefSeperate>With this checked, each different type of item is treated separately with their own count for each, but when unchecked, all filtered items are combined into one big shared count.</RWAutoSell.DescTreatDefSeperate>
   <!-- Root Names -->
   <RWAutoSell.Trade>Trade</RWAutoSell.Trade>  
   <!-- Node Dialog -->
+  <!--Properties Tabs-->
+  <RWAutoSell.DescGroupName>Type here to name the current group.  Useful if working with many groups and you need to uniquely identify a group.</RWAutoSell.DescGroupName>
   <RWAutoSell.PropGroup>Group</RWAutoSell.PropGroup>
   <RWAutoSell.PropTest>Test</RWAutoSell.PropTest>
   <RWAutoSell.PropFilter>Filter</RWAutoSell.PropFilter>
+  <RWAutoSell.DescPropGroup>This is the group properties tab, it shows any sub-groups and filters that are in current group, and allows the creation of new filters or groups.</RWAutoSell.DescPropGroup>
+  <RWAutoSell.DescPropTest>This allows you to check what items from your colony are returned by your rule.  It also allows you to check if there are any problems with your current rule.</RWAutoSell.DescPropTest>
+  <RWAutoSell.DescPropFilter>This tab will display filter properties, double clicking a filter in group properties will take you here.</RWAutoSell.DescPropFilter>
+  <!--Group/Filter Menu Options-->
   <RWAutoSell.DeleteGroup>Delete Group</RWAutoSell.DeleteGroup>
   <RWAutoSell.DeleteFilter>Delete Filter</RWAutoSell.DeleteFilter>
   <RWAutoSell.AddGroup>Add New Group</RWAutoSell.AddGroup>
@@ -30,9 +42,13 @@
   <RWAutoSell.TogNegateOff>Toggle Negate Off</RWAutoSell.TogNegateOff>
   <RWAutoSell.TogNegateOn>Toggle Negate On</RWAutoSell.TogNegateOn>
   <RWAutoSell.ConvertFilters>Convert Filters to Sub-Groups</RWAutoSell.ConvertFilters>
-  <RWAutoSell.AddFilter>Add New Filter</RWAutoSell.AddFilter>
+  <RWAutoSell.AddFilter>Add New Filter</RWAutoSell.AddFilter>  
   <RWAutoSell.Unknown>Unknown</RWAutoSell.Unknown>
   <RWAutoSell.Unnamed>Unnamed</RWAutoSell.Unnamed>
+  <!--Group Properties List ToolTips-->
+  <RWAutoSell.DescGroupNavigate>Double Click to navigate into parent group</RWAutoSell.DescGroupNavigate>
+  <RWAutoSell.DescGroupSelect>Double Click to navigate into this sub group</RWAutoSell.DescGroupSelect>
+  <RWAutoSell.DescFilterSelect>Double Click to edit filter</RWAutoSell.DescFilterSelect>
   <!-- Main Tab -->
   <RWAutoSell.AutoSellTitle>Auto Sell Settings</RWAutoSell.AutoSellTitle>
   <RWAutoSell.CreateRuleShort>Create Rule</RWAutoSell.CreateRuleShort>

@@ -11,12 +11,24 @@
   <RWAutoSell.BuyPoint>Acheter quand ci-dessous</RWAutoSell.BuyPoint>
   <RWAutoSell.BuyLevel>Acheter jusqu'à</RWAutoSell.BuyLevel>
   <RWAutoSell.TreatDefSeperate>Traiter Defs comme séparé</RWAutoSell.TreatDefSeperate>
+  <!-- Rule Data Descriptions -->
+  <RWAutoSell.DescRuleDesc>Ceci est la description qui apparaît sur la vue d'ensemble</RWAutoSell.DescRuleDesc>
+  <RWAutoSell.DescSellPoint>Conservez ce nombre d'objets dans votre stock, mais vendez tout excédent d'objets au-dessus de cette valeur.</RWAutoSell.DescSellPoint>
+  <RWAutoSell.DescBuyPoint>Si la quantité d'articles dans votre stock est inférieure à ce nombre, autorisez l'achat d'articles.</RWAutoSell.DescBuyPoint>
+  <RWAutoSell.DescBuyLevel>En achetant, vous vous retrouverez avec ce montant dans votre stock.</RWAutoSell.DescBuyLevel>
+  <RWAutoSell.DescTreatDefSeperate>Lorsque cette case est cochée, chaque type d'élément est traité séparément avec son propre nombre, mais lorsqu'il n'est pas coché, tous les éléments filtrés sont combinés en un seul grand nombre partagé.</RWAutoSell.DescTreatDefSeperate>
   <!-- Root Names -->
   <RWAutoSell.Trade>Commerce</RWAutoSell.Trade>
   <!-- Node Dialog -->
+  <!--Properties Tabs-->
+  <RWAutoSell.DescGroupName>Tapez ici pour nommer le groupe actuel. Utile si vous travaillez avec plusieurs groupes et que vous devez identifier un groupe de manière unique.</RWAutoSell.DescGroupName>
   <RWAutoSell.PropGroup>Groupe</RWAutoSell.PropGroup>
   <RWAutoSell.PropTest>Tester</RWAutoSell.PropTest>
   <RWAutoSell.PropFilter>Filtre</RWAutoSell.PropFilter>
+  <RWAutoSell.DescPropGroup>Il s'agit de l'onglet Propriétés du groupe. Il affiche tous les sous-groupes et filtres appartenant au groupe actuel et permet la création de nouveaux filtres ou groupes.</RWAutoSell.DescPropGroup>
+  <RWAutoSell.DescPropTest>Cela vous permet de vérifier quels articles de votre colonie sont retournés par votre règle. Cela vous permet également de vérifier s'il y a des problèmes avec votre règle actuelle.</RWAutoSell.DescPropTest>
+  <RWAutoSell.DescPropFilter>Cet onglet affiche les propriétés du filtre. Un double-clic sur un filtre dans les propriétés du groupe vous emmène ici.</RWAutoSell.DescPropFilter>
+  <!--Group/Filter Menu Options-->
   <RWAutoSell.DeleteGroup>Supprimer le groupe</RWAutoSell.DeleteGroup>
   <RWAutoSell.DeleteFilter>Supprimer le filtre</RWAutoSell.DeleteFilter>
   <RWAutoSell.AddGroup>Ajouter un nouveau groupe</RWAutoSell.AddGroup>  

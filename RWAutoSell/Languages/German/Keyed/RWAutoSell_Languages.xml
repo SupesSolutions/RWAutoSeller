@@ -10,13 +10,25 @@
   <RWAutoSell.SellPoint>Verkaufen, wenn vorbei</RWAutoSell.SellPoint>  
   <RWAutoSell.BuyPoint>Kaufen, wenn unten</RWAutoSell.BuyPoint>
   <RWAutoSell.BuyLevel>Kaufen bis zum Level</RWAutoSell.BuyLevel>
-  <RWAutoSell.TreatDefSeperate>Behandle Defs als Getrennt</RWAutoSell.TreatDefSeperate>  
+  <RWAutoSell.TreatDefSeperate>Behandle Defs als Getrennt</RWAutoSell.TreatDefSeperate>
+  <!-- Rule Data Descriptions -->
+  <RWAutoSell.DescRuleDesc>Dies ist die Beschreibung, die auf der Übersicht erscheint</RWAutoSell.DescRuleDesc>
+  <RWAutoSell.DescSellPoint>Behalten Sie diese Anzahl an Artikeln in Ihrem Vorrat, verkaufen Sie jedoch überschüssige Artikel über diesen Wert.</RWAutoSell.DescSellPoint>
+  <RWAutoSell.DescBuyPoint>Wenn die Anzahl der Artikel in Ihrem Lagerbestand unter dieser Anzahl liegt, können Sie Artikel kaufen.</RWAutoSell.DescBuyPoint>
+  <RWAutoSell.DescBuyLevel>Wenn Sie kaufen, landen Sie diesen Betrag in Ihrem Vorrat.</RWAutoSell.DescBuyLevel>
+  <RWAutoSell.DescTreatDefSeperate>Wenn diese Option aktiviert ist, wird jeder unterschiedliche Elementtyp separat mit einer eigenen Anzahl für jedes Element behandelt. Wenn diese Option deaktiviert ist, werden alle gefilterten Elemente zu einem großen gemeinsamen Wert zusammengefasst.</RWAutoSell.DescTreatDefSeperate>
   <!-- Root Names -->  
   <RWAutoSell.Trade>Handel</RWAutoSell.Trade>
   <!-- Node Dialog -->
+  <!--Properties Tabs-->
   <RWAutoSell.PropGroup>Gruppe</RWAutoSell.PropGroup>
   <RWAutoSell.PropTest>Prüfung</RWAutoSell.PropTest>
   <RWAutoSell.PropFilter>Filter</RWAutoSell.PropFilter>
+  <RWAutoSell.DescPropGroup>Dies ist die Registerkarte für die Gruppeneigenschaften. Sie zeigt alle Untergruppen und Filter der aktuellen Gruppe an und ermöglicht das Erstellen neuer Filter oder Gruppen.</RWAutoSell.DescPropGroup>
+  <RWAutoSell.DescPropTest>Auf diese Weise können Sie überprüfen, welche Elemente Ihrer Kolonie von Ihrer Regel zurückgegeben werden. Außerdem können Sie überprüfen, ob Probleme mit Ihrer aktuellen Regel vorliegen.</RWAutoSell.DescPropTest>
+  <RWAutoSell.DescPropFilter>Auf dieser Registerkarte werden Filtereigenschaften angezeigt. Wenn Sie auf einen Filter in den Gruppeneigenschaften doppelklicken, gelangen Sie hierher.</RWAutoSell.DescPropFilter>
+  <!--Group/Filter Menu Options-->
+  <RWAutoSell.DescGroupName>Geben Sie hier ein, um die aktuelle Gruppe zu benennen. Nützlich, wenn Sie mit vielen Gruppen arbeiten und eine Gruppe eindeutig identifizieren müssen.</RWAutoSell.DescGroupName>
   <RWAutoSell.DeleteGroup>Gruppe löschen</RWAutoSell.DeleteGroup>
   <RWAutoSell.DeleteFilter>Filter löschen</RWAutoSell.DeleteFilter>
   <RWAutoSell.AddGroup>Neue Gruppe hinzufügen</RWAutoSell.AddGroup>

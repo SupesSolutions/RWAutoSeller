@@ -11,12 +11,24 @@
   <RWAutoSell.BuyPoint>以下で売却</RWAutoSell.BuyPoint>
   <RWAutoSell.BuyLevel>レベルまで購入する</RWAutoSell.BuyLevel>
   <RWAutoSell.TreatDefSeperate>Defsを別々に扱う</RWAutoSell.TreatDefSeperate>
+  <!-- Rule Data Descriptions -->
+  <RWAutoSell.DescRuleDesc>概要に表示される説明です</RWAutoSell.DescRuleDesc>
+  <RWAutoSell.DescSellPoint>それはあなたの備蓄のこの数のアイテムを保持しますが、この金額を上回るアイテムの超過分を販売します。</RWAutoSell.DescSellPoint>
+  <RWAutoSell.DescBuyPoint>備蓄品目の数量がこの数より少ない場合は、品物の購入を許可します。</RWAutoSell.DescBuyPoint>
+  <RWAutoSell.DescBuyLevel>買うと、あなたはこの金額であなたの備蓄に終わるでしょう。</RWAutoSell.DescBuyLevel>
+  <RWAutoSell.DescTreatDefSeperate>これをチェックすると、それぞれの異なるタイプのアイテムがそれぞれ個別のカウントで処理されますが、チェックされていないと、すべてのフィルタリングされたアイテムが1つの大きな共有カウントに結合されます。</RWAutoSell.DescTreatDefSeperate>
   <!-- Root Names -->
   <RWAutoSell.Trade>交易</RWAutoSell.Trade>
   <!-- Node Dialog -->
+  <!--Properties Tabs-->
+  <RWAutoSell.DescGroupName>現在のグループに名前を付けるには、ここに入力します。多くのグループで作業し、グループを一意に識別する必要がある場合に役立ちます。</RWAutoSell.DescGroupName>
   <RWAutoSell.PropGroup>グループ</RWAutoSell.PropGroup>
   <RWAutoSell.PropTest>テスト</RWAutoSell.PropTest>
   <RWAutoSell.PropFilter>フィルター</RWAutoSell.PropFilter>
+  <RWAutoSell.DescPropGroup>これはグループプロパティのタブで、現在のグループに属するサブグループやフィルタを表示し、新しいフィルタやグループの作成を許可します。</RWAutoSell.DescPropGroup>
+  <RWAutoSell.DescPropTest>これにより、あなたのコロニーからどのアイテムがあなたのルールによって返されたかを確認することができます。また、現在のルールに問題がないかどうかを確認することもできます。</RWAutoSell.DescPropTest>
+  <RWAutoSell.DescPropFilter>このタブには現在のフィルタのプロパティが表示され、グループプロパティでフィルタをダブルクリックするとここに移動します。</RWAutoSell.DescPropFilter>
+  <!--Group/Filter Menu Options-->
   <RWAutoSell.DeleteGroup>グループ削除</RWAutoSell.DeleteGroup>
   <RWAutoSell.DeleteFilter>フィルター削除</RWAutoSell.DeleteFilter>
   <RWAutoSell.AddGroup>新規グループ追加</RWAutoSell.AddGroup>
