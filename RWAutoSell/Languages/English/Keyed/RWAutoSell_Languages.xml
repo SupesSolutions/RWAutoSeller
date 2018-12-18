@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   <!-- Dialogs (Common) -->
+  <RWAutoSell.Add>Add</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>Auto Sell</RWAutoSell.AutoSellButton>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Root</RWAutoSell.RootLabel>
@@ -73,6 +74,7 @@
   <RWAutoSell.FilterStatistics>Statistic</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>Animal</RWAutoSell.FilterAnimal>  
   <!-- Filters WidgetLabels -->
+  <RWAutoSell.SubCat>Include Sub-categories when adding a Category</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biological Years</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>Chronological Years</RWAutoSell.FilterAgeChr>
   <RWAutoSell.Minimum>Minimum</RWAutoSell.Minimum>
@@ -106,10 +108,14 @@
   <RWAutoSell.TagItems>Items</RWAutoSell.TagItems>
   <RWAutoSell.TagFood>Food</RWAutoSell.TagFood>
   
+  <!-- Quick Create Dialog-->
+  <RWAutoSell.QuickCreate>Quick Create</RWAutoSell.QuickCreate>
+  <RWAutoSell.QuickExisting>Existing Rules</RWAutoSell.QuickExisting>  
+  <RWAutoSell.QuickNew>New Rule with selected filters</RWAutoSell.QuickNew>
+  
   <!--Legacy-->
   <RWAutoSell.NoTP>Trade Printer Required</RWAutoSell.NoTP>
-  <RWAutoSell.SellValue>Unit Value Maximum</RWAutoSell.SellValue>
-  <RWAutoSell.SubCat>Include Sub Categories</RWAutoSell.SubCat>  
+  <RWAutoSell.SellValue>Unit Value Maximum</RWAutoSell.SellValue>  
   <!-- Trading Behaviour Dialog -->
   <RWAutoSell.TradeBehaviour>Trading Behaviour</RWAutoSell.TradeBehaviour>
   <RWAutoSell.MapBehaviour>Map Behaviour: {0}</RWAutoSell.MapBehaviour>
@@ -136,8 +142,7 @@
   <RWAutoSell.BargainReportBought>Item Bought</RWAutoSell.BargainReportBought>  
   <RWAutoSell.BargainReportGained>earned</RWAutoSell.BargainReportGained>
   <RWAutoSell.BargainReportLost>spent</RWAutoSell.BargainReportLost>
-  <RWAutoSell.BargainReportTitle>Trade Report for {0}</RWAutoSell.BargainReportTitle>
-  <RWAutoSell.QuickCreate>Quick Create</RWAutoSell.QuickCreate>
+  <RWAutoSell.BargainReportTitle>Trade Report for {0}</RWAutoSell.BargainReportTitle>    
   <RWAutoSell.PWOnlyOne>Only one allowed</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>Merge with {0}</RWAutoSell.AutoSellMerge>  
 </LanguageData>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- Dialogs (Common) -->
+  <RWAutoSell.Add>追加</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>自動売却</RWAutoSell.AutoSellButton>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>ルート</RWAutoSell.RootLabel>
@@ -72,7 +73,8 @@
   <RWAutoSell.FilterSkill>スキルレベル</RWAutoSell.FilterSkill>
   <RWAutoSell.FilterStatistics>統計</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>動物</RWAutoSell.FilterAnimal>
-  <!-- Filters WidgetLabels -->
+  <!-- Filters WidgetLabels -->  
+  <RWAutoSell.SubCat>カテゴリを追加するときにサブカテゴリを含める</RWAutoSell.SubCat>  <!--old text サブカテゴリを含む  / old english: Include Subcategories / current english: Include subcategories when adding a category-->
   <RWAutoSell.FilterAgeBio>生体上の年齢</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>暦上の年齢</RWAutoSell.FilterAgeChr>
   <RWAutoSell.Minimum>最小</RWAutoSell.Minimum>
@@ -106,10 +108,15 @@
   <RWAutoSell.TagItems>アイテム</RWAutoSell.TagItems>
   <RWAutoSell.TagFood>食糧</RWAutoSell.TagFood>
 
+  <!-- Quick Create Dialog-->
+  <RWAutoSell.QuickCreate>簡易作成</RWAutoSell.QuickCreate>
+  <RWAutoSell.QuickExisting>既存のルール</RWAutoSell.QuickExisting>  <!-- new translation / Existing Rules -->
+  <RWAutoSell.QuickNew>選択したフィルタによる新しいルール</RWAutoSell.QuickNew> <!-- new translation / New rule with selected filters -->
+  
   <!--Legacy-->
   <RWAutoSell.NoTP>貿易報告装置が必要</RWAutoSell.NoTP>
   <RWAutoSell.SellValue>単価の最大値</RWAutoSell.SellValue>
-  <RWAutoSell.SubCat>サブカテゴリを含む</RWAutoSell.SubCat>
+  
   <!-- Trading Behaviour Dialog -->
   <RWAutoSell.TradeBehaviour>取引動作</RWAutoSell.TradeBehaviour>
   <RWAutoSell.MapBehaviour>マップ動作：{0}</RWAutoSell.MapBehaviour>
@@ -136,8 +143,7 @@
   <RWAutoSell.BargainReportBought>購入商品</RWAutoSell.BargainReportBought>
   <RWAutoSell.BargainReportGained>利益</RWAutoSell.BargainReportGained>
   <RWAutoSell.BargainReportLost>支払い</RWAutoSell.BargainReportLost>
-  <RWAutoSell.BargainReportTitle>{0}の取引報告</RWAutoSell.BargainReportTitle>
-  <RWAutoSell.QuickCreate>簡易作成</RWAutoSell.QuickCreate>
+  <RWAutoSell.BargainReportTitle>{0}の取引報告</RWAutoSell.BargainReportTitle>  
   <RWAutoSell.PWOnlyOne>1つだけ許可</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>{0}と結合</RWAutoSell.AutoSellMerge>
 </LanguageData>

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   <!-- Dialogs (Common) -->
+  <RWAutoSell.Add>Hinzufügen</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>Auto Verkaufen</RWAutoSell.AutoSellButton>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Wurzel</RWAutoSell.RootLabel>
@@ -69,6 +70,7 @@
   <RWAutoSell.FilterStatistics>Statistik</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>Tier</RWAutoSell.FilterAnimal>
   <!-- Filters WidgetLabels -->
+  <RWAutoSell.SubCat>Beim Hinzufügen einer Kategorie Unterkategorien einbeziehen</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>Chronologische Jahre</RWAutoSell.FilterAgeChr>
   <RWAutoSell.Minimum>Minimum</RWAutoSell.Minimum>
@@ -101,11 +103,15 @@
   <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>
   <RWAutoSell.TagItems>Artikel</RWAutoSell.TagItems>
   <RWAutoSell.TagFood>Essen</RWAutoSell.TagFood>
-  
+
+  <!-- Quick Create Dialog-->
+  <RWAutoSell.QuickCreate>Schnell erstellen</RWAutoSell.QuickCreate>
+  <RWAutoSell.QuickExisting>Bestehende Regeln</RWAutoSell.QuickExisting>
+  <RWAutoSell.QuickNew>Neue Regel mit ausgewählten Filtern</RWAutoSell.QuickNew>
+
   <!--Legacy-->
   <RWAutoSell.NoTP>Handelsdrucker erforderlich</RWAutoSell.NoTP>
-  <RWAutoSell.SellValue>Einheitswert Maximum</RWAutoSell.SellValue>
-  <RWAutoSell.SubCat>Unterkategorien einschließen</RWAutoSell.SubCat>  
+  <RWAutoSell.SellValue>Einheitswert Maximum</RWAutoSell.SellValue>  
   <!-- Trading Behaviour Dialog -->
   <RWAutoSell.TradeBehaviour>Handelsverhalten</RWAutoSell.TradeBehaviour>
   <RWAutoSell.MapBehaviour>Kartenverhalten: {0}</RWAutoSell.MapBehaviour>
@@ -133,7 +139,7 @@
   <RWAutoSell.BargainReportGained>verdient</RWAutoSell.BargainReportGained>
   <RWAutoSell.BargainReportLost>verbraucht</RWAutoSell.BargainReportLost>
   <RWAutoSell.BargainReportTitle>Handelsbericht für {0}</RWAutoSell.BargainReportTitle>
-  <RWAutoSell.QuickCreate>Schnell erstellen</RWAutoSell.QuickCreate>
+  
   <RWAutoSell.PWOnlyOne>Nur eins erlaubt</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>Zusammenführung mit {0}</RWAutoSell.AutoSellMerge>
 </LanguageData>

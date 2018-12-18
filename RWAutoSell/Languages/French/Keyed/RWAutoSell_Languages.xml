@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   <!-- Dialogs (Common) -->
+  <RWAutoSell.Add>Ajouter</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>Auto vendre</RWAutoSell.AutoSellButton>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Racine</RWAutoSell.RootLabel>
@@ -69,6 +70,7 @@
   <RWAutoSell.FilterStatistics>Statistique</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>Animal</RWAutoSell.FilterAnimal>
   <!-- Filters WidgetLabels -->
+  <RWAutoSell.SubCat>Inclure des sous-catégories lors de l'ajout d'une catégorie</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Années biologiques</RWAutoSell.FilterAgeBio>
   <RWAutoSell.FilterAgeChr>Années chronologiques</RWAutoSell.FilterAgeChr>
   <RWAutoSell.Minimum>Minimum</RWAutoSell.Minimum>
@@ -101,11 +103,15 @@
   <RWAutoSell.TagPeople>Gens</RWAutoSell.TagPeople>
   <RWAutoSell.TagItems>Articles</RWAutoSell.TagItems>
   <RWAutoSell.TagFood>Aliments</RWAutoSell.TagFood>
+
+  <!-- Quick Create Dialog-->
+  <RWAutoSell.QuickCreate>Création rapide</RWAutoSell.QuickCreate>
+  <RWAutoSell.QuickExisting>Règles existantes</RWAutoSell.QuickExisting>
+  <RWAutoSell.QuickNew>Nouvelle règle avec les filtres sélectionnés</RWAutoSell.QuickNew>
   
   <!--Legacy-->
   <RWAutoSell.NoTP>Imprimante commerciale requise</RWAutoSell.NoTP>
-  <RWAutoSell.SellValue>Valeur unitaire maximum</RWAutoSell.SellValue>
-  <RWAutoSell.SubCat>Inclure les sous-catégories</RWAutoSell.SubCat>  
+  <RWAutoSell.SellValue>Valeur unitaire maximum</RWAutoSell.SellValue>  
   <!-- Trading Behaviour Dialog -->
   <RWAutoSell.MapBehaviour>Comportement de la carte: {0}</RWAutoSell.MapBehaviour>
   <RWAutoSell.TradeBehaviour>Comportement de trading</RWAutoSell.TradeBehaviour>
@@ -133,7 +139,6 @@
   <RWAutoSell.BargainReportGained>gagné</RWAutoSell.BargainReportGained>
   <RWAutoSell.BargainReportLost>dépensé</RWAutoSell.BargainReportLost>
   <RWAutoSell.BargainReportTitle>Rapport de commerce pour {0}</RWAutoSell.BargainReportTitle>
-  <RWAutoSell.QuickCreate>Création rapide</RWAutoSell.QuickCreate>
   <RWAutoSell.PWOnlyOne>Un seul autorisé</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>Fusionner avec {0}</RWAutoSell.AutoSellMerge>
 </LanguageData>
