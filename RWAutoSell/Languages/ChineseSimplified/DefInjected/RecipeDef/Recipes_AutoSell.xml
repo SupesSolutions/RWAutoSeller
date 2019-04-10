@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ASMakeShoppingList.label>制造购物清单</ASMakeShoppingList.label>
+  <ASMakeShoppingList.description>创建可悲携带的购物清单.</ASMakeShoppingList.description>
+  <ASMakeShoppingList.jobString>制造购物清单中.</ASMakeShoppingList.jobString>
+
+  <ASRecycleShoppingList.label>回收购物清单</ASRecycleShoppingList.label>
+  <ASRecycleShoppingList.description>回收老旧购物清单以充分利用资源.</ASRecycleShoppingList.description>
+  <ASRecycleShoppingList.jobString>回收购物清单中.</ASRecycleShoppingList.jobString>
+
+
+</LanguageData>
