@@ -102,6 +102,8 @@
   <RWAutoSell.FilterPregnant>检查是否怀孕</RWAutoSell.FilterPregnant>
   <RWAutoSell.FilterIntelligence>最小智力</RWAutoSell.FilterIntelligence>
   <RWAutoSell.FilterTraining>已有训练</RWAutoSell.FilterTraining>
+  <RWAutoSell.FilterLowRowDef>行项目</RWAutoSell.FilterLowRowDef>  <!-- Row Def -->
+  <RWAutoSell.FilterLowSpecDef>具体项目</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>动物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人类</RWAutoSell.TagPeople>
@@ -145,5 +147,10 @@
   <RWAutoSell.BargainReportTitle>交易报告： {0}</RWAutoSell.BargainReportTitle>
   <RWAutoSell.PWOnlyOne>只允许一个</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>合并 {0}</RWAutoSell.AutoSellMerge>
-
+  
+  <RWAutoSell.SetAsChain>设为链</RWAutoSell.SetAsChain>  <!-- Set as Chain -->  
+  <RWAutoSell.SetAsNormal>设置正常</RWAutoSell.SetAsNormal>  <!-- Set as Normal -->
+  <RWAutoSell.AdvancedMenu>高级规则选项</RWAutoSell.AdvancedMenu>  <!-- Advanced Rule Options -->
+  <RWAutoSell.Chain>连锁规则</RWAutoSell.Chain>  <!-- Chain Rule -->
+  <RWAutoSell.ChainDesc>链规则本身不做任何事情，但是如果正常规则连接到链规则（可以通过将正常规则从主要概述拖放到链规则上来完成）那么这些规则将被进一步过滤使用链规则的结果。</RWAutoSell.ChainDesc>  <!-- A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule. -->
 </LanguageData>
