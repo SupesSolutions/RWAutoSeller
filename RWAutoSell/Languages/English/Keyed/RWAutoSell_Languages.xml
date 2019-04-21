@@ -3,6 +3,8 @@
   <!-- Dialogs (Common) -->
   <RWAutoSell.Add>Add</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>Auto Sell</RWAutoSell.AutoSellButton>
+  <RWAutoSell.Undo>Undo</RWAutoSell.Undo> <!--Undo-->
+  <RWAutoSell.Redo>Redo</RWAutoSell.Redo> <!--Redo-->
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Root</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>New Group</RWAutoSell.GroupLabel>

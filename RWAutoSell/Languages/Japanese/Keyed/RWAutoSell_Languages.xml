@@ -3,6 +3,8 @@
   <!-- Dialogs (Common) -->
   <RWAutoSell.Add>追加</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>自動売却</RWAutoSell.AutoSellButton>
+  <RWAutoSell.Undo>元に戻す</RWAutoSell.Undo>  <!--Undo-->
+  <RWAutoSell.Redo>やり直し</RWAutoSell.Redo>  <!--Redo-->
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>ルート</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>新規グループ</RWAutoSell.GroupLabel>

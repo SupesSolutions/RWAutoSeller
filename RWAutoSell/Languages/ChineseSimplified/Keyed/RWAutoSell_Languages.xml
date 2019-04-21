@@ -3,6 +3,8 @@
   <!-- Dialogs (Common) -->
   <RWAutoSell.Add>添加</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>自动交易</RWAutoSell.AutoSellButton>
+  <RWAutoSell.Undo>解开</RWAutoSell.Undo>  <!--Undo-->
+  <RWAutoSell.Redo>重做</RWAutoSell.Redo>  <!--Redo-->
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>根组</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>新建组</RWAutoSell.GroupLabel>
