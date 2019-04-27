@@ -2,13 +2,13 @@ This Rimworld mod adds the ability to Auto Sell items from the trade window usin
 
 So, You've been hoarding a ton of weapons and apparel you've been hoping to sell, or you're frequently harvesting and selling something, but you're getting sick of adjusting sliders for all your hundreds of items.  This is mod will make your life easier. After you setup your rules for selling on the overview tab, selling will be only one button press away.
 
-You can create rules for damage equipment, sell only of a certain quality, or even items made from a certain material.  Do you have a surplus of stock but don't want to sell everything, you can do that aswell.
+You can create rules for damage equipment, sell only of a certain quality, or even items made from a certain material.  Do you have a surplus of stock but don't want to sell everything, you can do that as well.
 
 **Additional Info**
 
 If you plan to use AutoSeller with caravans, you'll need to build a Trade Reports Printer and create a shopping list, and be sure to take the Shopping List with you. A Shopping List will connect your caravan with the original colony the list was created on (as long as that colony still has a trade printer) use when sending your caravan to trade with other faction bases.
 
-If AI Selling is enabled it will, by default give a job to the best negotiator avaibable, some social skill is also gained during the job.
+If AI Selling is enabled it will, by default give a job to the best negotiator available, some social skill is also gained during the job.
 
 Buying Rules can be set buy creating a rule as normal, and setting the Reorder Point and Restock Levels. when your stock goes below the Reorder Point, you will buy stock up to the Restock Level. By setting Sell Point and Reorder Points, you can avoid getting too low levels of stock or storing too much of an item.
 
@@ -20,7 +20,7 @@ Another advantage of the new modular design is that there aren't different Rule 
 
 You get to choose which filters to add, if you want to sell all of something regardless of health, you don't have to use the health filter.
 
-AutoSeller is an Extendable Framework, and can use Filters outside of the main mod, aswell as extensions to create rules that can be used outside of Trading.
+AutoSeller is an Extendible Framework, and can use Filters outside of the main mod, as well as extensions to create rules that can be used outside of Trading.
 
 
 **Creating a rule in AutoSeller 2**
@@ -39,11 +39,11 @@ Click accept to save your rule.
 
 **Tips**
 
-You can test your rule to see what items match it on the Test tab during rule creation, please note that this matches against what is in your colony (note that quantiy is delibrately not shown since this can vary greatly when trading) so if your colony doesn't have an item matching, it wont show.
+You can test your rule to see what items match it on the Test tab during rule creation, please note that this matches against what is in your colony (note that quantity is deliberately not shown since this can vary greatly when trading) so if your colony doesn't have an item matching, it wont show.
 
-The most used filter is the Category Filter and I suggest using this filter for your first rule.  For the Category Filter, browse through the categories and select which item types or categories to add from the list right of the category list (you can hold shift and ctrl to manipulate this list). Added items/categories will be shown on the list below, to remove items from this list, browse back to it to it from categories and deselect.
+The most used filter is the Category Filter and I suggest using this filter for your first rule.  For the Category Filter, browse through the categories and select which item types or categories to add from the list right of the category list (you can hold shift or/and ctrl to manipulate this list). Added items/categories will be shown on the list below, to remove items from this list, browse back to it to it from categories and deselect.
 
-You can change how a group processes filters by toggling whether a group uses an OR or an AND operator using right click.  These are displayed on the group as a Venn diagram, which is two overlapping circles, OR has both cirles filled where AND has only the intersection between cirles filled. The default group behavoir is AND.  
+You can change how a group processes filters by toggling whether a group uses an OR or an AND operator using right click.  These are displayed on the group as a Venn diagram, which is two overlapping circles, OR has both circles filled where AND has only the intersection between circles filled. The default group behaviour is AND.  
 
 When creating complex rules with multiple branches of Groups, it is highly recommended to name your group (top right of the interface)
 
