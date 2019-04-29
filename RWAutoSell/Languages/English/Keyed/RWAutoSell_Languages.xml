@@ -3,6 +3,8 @@
   <!-- Dialogs (Common) -->
   <RWAutoSell.Add>Add</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>Auto Sell</RWAutoSell.AutoSellButton>
+  <RWAutoSell.Undo>Undo</RWAutoSell.Undo> <!--Undo-->
+  <RWAutoSell.Redo>Redo</RWAutoSell.Redo> <!--Redo-->
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Root</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>New Group</RWAutoSell.GroupLabel>
@@ -102,6 +104,8 @@
   <RWAutoSell.FilterPregnant>Check Pregnancy</RWAutoSell.FilterPregnant>
   <RWAutoSell.FilterIntelligence>Minimum Intelligence</RWAutoSell.FilterIntelligence>
   <RWAutoSell.FilterTraining>Has Training</RWAutoSell.FilterTraining>
+  <RWAutoSell.FilterLowRowDef>Row Def</RWAutoSell.FilterLowRowDef>        <!-- new -->
+  <RWAutoSell.FilterLowSpecDef>Specific Def</RWAutoSell.FilterLowSpecDef> <!-- new -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animals</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>People</RWAutoSell.TagPeople>
@@ -144,5 +148,11 @@
   <RWAutoSell.BargainReportLost>spent</RWAutoSell.BargainReportLost>
   <RWAutoSell.BargainReportTitle>Trade Report for {0}</RWAutoSell.BargainReportTitle>    
   <RWAutoSell.PWOnlyOne>Only one allowed</RWAutoSell.PWOnlyOne>
-  <RWAutoSell.AutoSellMerge>Merge with {0}</RWAutoSell.AutoSellMerge>  
+  <RWAutoSell.AutoSellMerge>Merge with {0}</RWAutoSell.AutoSellMerge>
+
+  <RWAutoSell.SetAsChain>Set as Chain</RWAutoSell.SetAsChain>  <!-- new -->
+  <RWAutoSell.SetAsNormal>Set as Normal</RWAutoSell.SetAsNormal>  <!-- new -->
+  <RWAutoSell.AdvancedMenu>Advanced Rule Options</RWAutoSell.AdvancedMenu>  <!-- new -->
+  <RWAutoSell.Chain>Chain Rule</RWAutoSell.Chain>  <!-- new -->
+  <RWAutoSell.ChainDesc>A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule.</RWAutoSell.ChainDesc>  <!-- new -->
 </LanguageData>

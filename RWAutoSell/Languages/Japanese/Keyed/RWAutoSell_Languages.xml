@@ -3,6 +3,8 @@
   <!-- Dialogs (Common) -->
   <RWAutoSell.Add>追加</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>自動売却</RWAutoSell.AutoSellButton>
+  <RWAutoSell.Undo>元に戻す</RWAutoSell.Undo>  <!--Undo-->
+  <RWAutoSell.Redo>やり直し</RWAutoSell.Redo>  <!--Redo-->
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>ルート</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>新規グループ</RWAutoSell.GroupLabel>
@@ -102,6 +104,8 @@
   <RWAutoSell.FilterPregnant>妊娠をチェックする</RWAutoSell.FilterPregnant>
   <RWAutoSell.FilterIntelligence>最小知能</RWAutoSell.FilterIntelligence>
   <RWAutoSell.FilterTraining>トレーニングを受けている</RWAutoSell.FilterTraining>
+  <RWAutoSell.FilterLowRowDef>行定義</RWAutoSell.FilterLowRowDef>  <!-- Row Def -->
+  <RWAutoSell.FilterLowSpecDef>特定の定義</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>動物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人間</RWAutoSell.TagPeople>
@@ -115,8 +119,7 @@
   
   <!--Legacy-->
   <RWAutoSell.NoTP>貿易報告装置が必要</RWAutoSell.NoTP>
-  <RWAutoSell.SellValue>単価の最大値</RWAutoSell.SellValue>
-  
+  <RWAutoSell.SellValue>単価の最大値</RWAutoSell.SellValue>  
   <!-- Trading Behaviour Dialog -->
   <RWAutoSell.TradeBehaviour>取引動作</RWAutoSell.TradeBehaviour>
   <RWAutoSell.MapBehaviour>マップ動作：{0}</RWAutoSell.MapBehaviour>
@@ -146,4 +149,10 @@
   <RWAutoSell.BargainReportTitle>{0}の取引報告</RWAutoSell.BargainReportTitle>  
   <RWAutoSell.PWOnlyOne>1つだけ許可</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>{0}と結合</RWAutoSell.AutoSellMerge>
+
+  <RWAutoSell.SetAsChain>チェーンとして設定</RWAutoSell.SetAsChain>  <!-- Set as Chain -->
+  <RWAutoSell.SetAsNormal>通常に設定</RWAutoSell.SetAsNormal>  <!-- Set as Normal -->
+  <RWAutoSell.AdvancedMenu>高度なルールオプション</RWAutoSell.AdvancedMenu>  <!-- Advanced Rule Options -->
+  <RWAutoSell.Chain>連鎖法則</RWAutoSell.Chain>  <!-- Chain Rule -->
+  <RWAutoSell.ChainDesc>チェーンルールはそれ自体では何もしませんが、通常のルールがチェーンルールに接続されている場合（メインの概要から通常のルールをチェーンルールにドラッグアンドドロップすることで可能です）連鎖ルールの結果を使用する。</RWAutoSell.ChainDesc>  <!-- A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule. -->
 </LanguageData>

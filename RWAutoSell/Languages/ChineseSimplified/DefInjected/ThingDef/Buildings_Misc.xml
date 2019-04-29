@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ASReportsPrinter.label>交易报告打印机</ASReportsPrinter.label>
+  <ASReportsPrinter.description>为此殖民地记录和应用报告.  每个殖民地只能有一个交易报告打印机.</ASReportsPrinter.description>
+  <ASReportsPrinter_Blueprint.label>交易报告打印机 (蓝图)</ASReportsPrinter_Blueprint.label>
+  <ASReportsPrinter_Blueprint_Install.label>交易报告打印机 (蓝图)</ASReportsPrinter_Blueprint_Install.label>
+  <ASReportsPrinter_Frame.label>交易报告打印机 (建造中)</ASReportsPrinter_Frame.label>
+  <ASReportsPrinter_Frame.description>为此殖民地记录和应用报告.  每个殖民地只能有一个交易报告打印机.</ASReportsPrinter_Frame.description>
+
+  <ASReportsLog.label>交易报告日志</ASReportsLog.label>
+  <ASReportsLog.description>一份原始日志，记录并应用此殖民地的交易规则. 每个殖民地只能有一个交易报告日志.</ASReportsLog.description>
+  <ASReportsLog_Blueprint.label>交易报告日志 (蓝图)</ASReportsLog_Blueprint.label>
+  <ASReportsLog_Blueprint_Install.label>交易报告日志 (蓝图)</ASReportsLog_Blueprint_Install.label>
+  <ASReportsLog_Frame.label>交易报告日志 (建造中)</ASReportsLog_Frame.label>
+  <ASReportsLog_Frame.description>一份原始日志，记录并应用此殖民地的交易规则. 每个殖民地只能有一个交易报告日志.</ASReportsLog_Frame.description>
+
+
+</LanguageData>

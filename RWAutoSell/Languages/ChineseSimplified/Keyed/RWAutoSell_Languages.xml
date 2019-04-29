@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Dialogs (Common) -->
+  <RWAutoSell.Add>添加</RWAutoSell.Add>
+  <RWAutoSell.AutoSellButton>自动交易</RWAutoSell.AutoSellButton>
+  <RWAutoSell.Undo>解开</RWAutoSell.Undo>  <!--Undo-->
+  <RWAutoSell.Redo>重做</RWAutoSell.Redo>  <!--Redo-->
+  <!-- Rule Data Strings -->
+  <RWAutoSell.RootLabel>根组</RWAutoSell.RootLabel>
+  <RWAutoSell.GroupLabel>新建组</RWAutoSell.GroupLabel>
+  <RWAutoSell.RuleDesc>规则描述</RWAutoSell.RuleDesc>
+  <RWAutoSell.Quantity>数量</RWAutoSell.Quantity>
+  <RWAutoSell.SellPoint>出售，如果数量大于</RWAutoSell.SellPoint>
+  <RWAutoSell.BuyPoint>购买，如果数量小于</RWAutoSell.BuyPoint>
+  <RWAutoSell.BuyLevel>购买数量目标</RWAutoSell.BuyLevel>
+  <RWAutoSell.TreatDefSeperate>区分不同材质</RWAutoSell.TreatDefSeperate>
+  <!-- Rule Data Descriptions -->
+  <RWAutoSell.DescRuleDesc>这条描述会显示在一览界面</RWAutoSell.DescRuleDesc>
+  <RWAutoSell.DescSellPoint>在存储区内维持这么多的物品, 多余的则出售.</RWAutoSell.DescSellPoint>
+  <RWAutoSell.DescBuyPoint>如果存储区内库存小于这个数目, 则购买.</RWAutoSell.DescBuyPoint>
+  <RWAutoSell.DescBuyLevel>购买时, 以存储区达到这个数量为目标.</RWAutoSell.DescBuyLevel>
+  <RWAutoSell.DescTreatDefSeperate>选中此项后，不同的材质将分别处理，每种材质的物品都有自己的计数，但如果未选中，则所有材质的该物品将共享计数。</RWAutoSell.DescTreatDefSeperate>
+  <!-- Root Names -->
+  <RWAutoSell.Trade>交易</RWAutoSell.Trade>
+  <!-- Node Dialog -->
+  <!--Properties Tabs-->
+  <RWAutoSell.DescGroupName>在此输入当前分组的名称. 如果分组太多，命名会很有帮助.</RWAutoSell.DescGroupName>
+  <RWAutoSell.PropGroup>分组</RWAutoSell.PropGroup>
+  <RWAutoSell.PropTest>测试</RWAutoSell.PropTest>
+  <RWAutoSell.PropFilter>筛选器</RWAutoSell.PropFilter>
+  <RWAutoSell.DescPropGroup>这是组属性选项卡，它显示当前组中的所有子组和筛选器，并允许创建新的筛选器或组。</RWAutoSell.DescPropGroup>
+  <RWAutoSell.DescPropTest>这允许你检查根据规则会退还殖民地的物品。 它还允许你检查当前规则是否存在任何问题。</RWAutoSell.DescPropTest>
+  <RWAutoSell.DescPropFilter>此选项卡将显示筛选器属性，双击组属性中的筛选器将会带你到此处。</RWAutoSell.DescPropFilter>
+  <!--Group/Filter Menu Options-->
+  <RWAutoSell.DeleteGroup>删除分组</RWAutoSell.DeleteGroup>
+  <RWAutoSell.DeleteFilter>删除筛选器</RWAutoSell.DeleteFilter>
+  <RWAutoSell.AddGroup>添加分组</RWAutoSell.AddGroup>
+  <RWAutoSell.CutGroup>剪切分组</RWAutoSell.CutGroup>
+  <RWAutoSell.CopyGroup>复制分组</RWAutoSell.CopyGroup>
+  <RWAutoSell.PasteGroup>粘贴分组</RWAutoSell.PasteGroup>
+  <RWAutoSell.OperatorOr>改变分组操作为 或</RWAutoSell.OperatorOr>
+  <RWAutoSell.OperatorAnd>改变分组操作为 与</RWAutoSell.OperatorAnd>
+  <RWAutoSell.TogActive>切换激活</RWAutoSell.TogActive>
+  <RWAutoSell.TogInactive>切换关闭</RWAutoSell.TogInactive>
+  <RWAutoSell.TogNegateOff>切换否定关闭</RWAutoSell.TogNegateOff>
+  <RWAutoSell.TogNegateOn>切换否定开启</RWAutoSell.TogNegateOn>
+  <RWAutoSell.ConvertFilters>将筛选器转换为子分组</RWAutoSell.ConvertFilters>
+  <RWAutoSell.AddFilter>添加新筛选器</RWAutoSell.AddFilter>
+  <RWAutoSell.Unknown>未知</RWAutoSell.Unknown>
+  <RWAutoSell.Unnamed>未命名</RWAutoSell.Unnamed>
+  <!--Group Properties List ToolTips-->
+  <RWAutoSell.DescGroupNavigate>双击以进入父分组</RWAutoSell.DescGroupNavigate>
+  <RWAutoSell.DescGroupSelect>双击以进入子分组</RWAutoSell.DescGroupSelect>
+  <RWAutoSell.DescFilterSelect>双击以编辑筛选器</RWAutoSell.DescFilterSelect>
+  <!-- Main Tab -->
+  <RWAutoSell.AutoSellTitle>自动交易设置</RWAutoSell.AutoSellTitle>
+  <RWAutoSell.CreateRuleShort>创建规则</RWAutoSell.CreateRuleShort>
+  <RWAutoSell.Delete>删除</RWAutoSell.Delete>
+  <RWAutoSell.TabTrading>交易中</RWAutoSell.TabTrading>
+  <!-- Filters Names -->
+  <RWAutoSell.FilterAge>年龄</RWAutoSell.FilterAge>
+  <RWAutoSell.FilterBonded>牵绊动物</RWAutoSell.FilterBonded>
+  <RWAutoSell.FilterCat>类型</RWAutoSell.FilterCat>
+  <RWAutoSell.FilterGender>性别</RWAutoSell.FilterGender>
+  <RWAutoSell.FilterHp>健康状况</RWAutoSell.FilterHp>
+  <RWAutoSell.FilterLow>低仓储</RWAutoSell.FilterLow>
+  <RWAutoSell.FilterNamed>已命名</RWAutoSell.FilterNamed>
+  <RWAutoSell.FilterRace>种族</RWAutoSell.FilterRace>
+  <RWAutoSell.FilterIll>生病中</RWAutoSell.FilterIll>
+  <RWAutoSell.FilterStuff>制作材料</RWAutoSell.FilterStuff>
+  <RWAutoSell.FilterTrait>特性</RWAutoSell.FilterTrait>
+  <RWAutoSell.FilterApparel>装备</RWAutoSell.FilterApparel>
+  <RWAutoSell.FilterBuyPrice>购入价格水平</RWAutoSell.FilterBuyPrice>
+  <RWAutoSell.FilterWorkTag>工作能力</RWAutoSell.FilterWorkTag>
+  <RWAutoSell.FilterSkill>技能等级</RWAutoSell.FilterSkill>
+  <RWAutoSell.FilterStatistics>统计数据</RWAutoSell.FilterStatistics>
+  <RWAutoSell.FilterAnimal>动物</RWAutoSell.FilterAnimal>
+  <!-- Filters WidgetLabels -->
+  <RWAutoSell.SubCat>添加分类时包括子分类</RWAutoSell.SubCat>
+  <RWAutoSell.FilterAgeBio>生物年龄</RWAutoSell.FilterAgeBio>
+  <RWAutoSell.FilterAgeChr>历法年龄</RWAutoSell.FilterAgeChr>
+  <RWAutoSell.Minimum>最小值</RWAutoSell.Minimum>
+  <RWAutoSell.Maximum>最大值</RWAutoSell.Maximum>
+  <RWAutoSell.FilterBondedIs>已牵绊</RWAutoSell.FilterBondedIs>
+  <RWAutoSell.FilterLowFlagIf>如果储备低于此数则标记</RWAutoSell.FilterLowFlagIf>
+  <RWAutoSell.FilterNamedCol>显示殖民者</RWAutoSell.FilterNamedCol>
+  <RWAutoSell.FilterNamedPrs>显示囚犯</RWAutoSell.FilterNamedPrs>
+  <RWAutoSell.FilterNamedAnm>显示动物</RWAutoSell.FilterNamedAnm>
+  <RWAutoSell.FilterRaceHumi>任何类人生物</RWAutoSell.FilterRaceHumi>
+  <RWAutoSell.FilterRaceAnm>任何动物</RWAutoSell.FilterRaceAnm>
+  <RWAutoSell.FilterRaceMech>任何机械</RWAutoSell.FilterRaceMech>
+  <RWAutoSell.FilterIllChkInf>检查是否有感染/疾病</RWAutoSell.FilterIllChkInf>
+  <RWAutoSell.FilterIllChkBld>检查是否流血</RWAutoSell.FilterIllChkBld>
+  <RWAutoSell.FilterIllIgrRcv>忽略恢复状态</RWAutoSell.FilterIllIgrRcv>
+  <RWAutoSell.FilterStuffNone>无材料</RWAutoSell.FilterStuffNone>
+  <RWAutoSell.FilterStuffAny>任何 {0}</RWAutoSell.FilterStuffAny>
+  <RWAutoSell.FilterAppCkTainted>检查是否污染</RWAutoSell.FilterAppCkTainted>
+  <RWAutoSell.FilterAppIsTainted>已被污染</RWAutoSell.FilterAppIsTainted>
+  <RWAutoSell.FilterAppNotTainted>未被污染</RWAutoSell.FilterAppNotTainted>
+  <RWAutoSell.FilterAppCkDamage>检查损坏状况</RWAutoSell.FilterAppCkDamage>
+  <RWAutoSell.FilterAppIsTattered>已破损</RWAutoSell.FilterAppIsTattered>
+  <RWAutoSell.FilterAppIsFrayed>已磨损</RWAutoSell.FilterAppIsFrayed>
+  <RWAutoSell.FilterSearch>搜索</RWAutoSell.FilterSearch>
+  <RWAutoSell.FilterPregnant>检查是否怀孕</RWAutoSell.FilterPregnant>
+  <RWAutoSell.FilterIntelligence>最小智力</RWAutoSell.FilterIntelligence>
+  <RWAutoSell.FilterTraining>已有训练</RWAutoSell.FilterTraining>
+  <RWAutoSell.FilterLowRowDef>行项目</RWAutoSell.FilterLowRowDef>  <!-- Row Def -->
+  <RWAutoSell.FilterLowSpecDef>具体项目</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
+  <!-- Filters Tags -->
+  <RWAutoSell.TagAnimals>动物</RWAutoSell.TagAnimals>
+  <RWAutoSell.TagPeople>人类</RWAutoSell.TagPeople>
+  <RWAutoSell.TagItems>物品</RWAutoSell.TagItems>
+  <RWAutoSell.TagFood>食物</RWAutoSell.TagFood>
+
+  <!-- Quick Create Dialog-->
+  <RWAutoSell.QuickCreate>快速创建</RWAutoSell.QuickCreate>
+  <RWAutoSell.QuickExisting>已有规则</RWAutoSell.QuickExisting>
+  <RWAutoSell.QuickNew>基于所选筛选器新建规则</RWAutoSell.QuickNew>
+
+  <!--Legacy-->
+  <RWAutoSell.NoTP>需要交易打印机</RWAutoSell.NoTP>
+  <RWAutoSell.SellValue>最大单位价值</RWAutoSell.SellValue>
+  <!-- Trading Behaviour Dialog -->
+  <RWAutoSell.TradeBehaviour>交易行为</RWAutoSell.TradeBehaviour>
+  <RWAutoSell.MapBehaviour>地图行为: {0}</RWAutoSell.MapBehaviour>
+  <RWAutoSell.Stacktoggle>改进堆叠交易行为</RWAutoSell.Stacktoggle>
+  <RWAutoSell.AIToggle>AI 交易</RWAutoSell.AIToggle>
+  <RWAutoSell.Allowpartial>允许特性交易</RWAutoSell.Allowpartial>
+  <RWAutoSell.IncludeUnavailable>包括不可用物品</RWAutoSell.IncludeUnavailable>
+  <RWAutoSell.Repitition>重复</RWAutoSell.Repitition>
+  <RWAutoSell.Negotiator>谈判者</RWAutoSell.Negotiator>
+  <!-- Import Dialog -->
+  <RWAutoSell.ImportRules>导入/导出规则</RWAutoSell.ImportRules>
+  <RWAutoSell.Import>导入</RWAutoSell.Import>
+
+  <!-- Misc -->
+  <!--Report Label Order
+  0 = Negotiator
+  1 = earned/spent
+  2 = silver number
+  3 = Sold List
+  4 = bought list
+  -->
+  <RWAutoSell.BargainReport>{0} 在本次交易中拥有 {1} {2} 白银.\n\n{3}\n\n{4}</RWAutoSell.BargainReport>
+  <RWAutoSell.BargainReportSold>出售物品</RWAutoSell.BargainReportSold>
+  <RWAutoSell.BargainReportBought>购买物品</RWAutoSell.BargainReportBought>
+  <RWAutoSell.BargainReportGained>赚取</RWAutoSell.BargainReportGained>
+  <RWAutoSell.BargainReportLost>花费</RWAutoSell.BargainReportLost>
+  <RWAutoSell.BargainReportTitle>交易报告： {0}</RWAutoSell.BargainReportTitle>
+  <RWAutoSell.PWOnlyOne>只允许一个</RWAutoSell.PWOnlyOne>
+  <RWAutoSell.AutoSellMerge>合并 {0}</RWAutoSell.AutoSellMerge>
+  
+  <RWAutoSell.SetAsChain>设为链</RWAutoSell.SetAsChain>  <!-- Set as Chain -->  
+  <RWAutoSell.SetAsNormal>设置正常</RWAutoSell.SetAsNormal>  <!-- Set as Normal -->
+  <RWAutoSell.AdvancedMenu>高级规则选项</RWAutoSell.AdvancedMenu>  <!-- Advanced Rule Options -->
+  <RWAutoSell.Chain>连锁规则</RWAutoSell.Chain>  <!-- Chain Rule -->
+  <RWAutoSell.ChainDesc>链规则本身不做任何事情，但是如果正常规则连接到链规则（可以通过将正常规则从主要概述拖放到链规则上来完成）那么这些规则将被进一步过滤使用链规则的结果。</RWAutoSell.ChainDesc>  <!-- A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule. -->
+</LanguageData>

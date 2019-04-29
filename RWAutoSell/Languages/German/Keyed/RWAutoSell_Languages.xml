@@ -3,6 +3,8 @@
   <!-- Dialogs (Common) -->
   <RWAutoSell.Add>Hinzufügen</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>Auto Verkaufen</RWAutoSell.AutoSellButton>
+  <RWAutoSell.Undo>Rückgängig machen</RWAutoSell.Undo>  <!--Undo-->
+  <RWAutoSell.Redo>Wiederholen</RWAutoSell.Redo>  <!--Redo-->
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Wurzel</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>Neue Gruppe</RWAutoSell.GroupLabel>
@@ -22,14 +24,14 @@
   <RWAutoSell.Trade>Handel</RWAutoSell.Trade>
   <!-- Node Dialog -->
   <!--Properties Tabs-->
+  <RWAutoSell.DescGroupName>Geben Sie hier ein, um die aktuelle Gruppe zu benennen. Nützlich, wenn Sie mit vielen Gruppen arbeiten und eine Gruppe eindeutig identifizieren müssen.</RWAutoSell.DescGroupName>
   <RWAutoSell.PropGroup>Gruppe</RWAutoSell.PropGroup>
   <RWAutoSell.PropTest>Prüfung</RWAutoSell.PropTest>
   <RWAutoSell.PropFilter>Filter</RWAutoSell.PropFilter>
   <RWAutoSell.DescPropGroup>Dies ist die Registerkarte für die Gruppeneigenschaften. Sie zeigt alle Untergruppen und Filter der aktuellen Gruppe an und ermöglicht das Erstellen neuer Filter oder Gruppen.</RWAutoSell.DescPropGroup>
   <RWAutoSell.DescPropTest>Auf diese Weise können Sie überprüfen, welche Elemente Ihrer Kolonie von Ihrer Regel zurückgegeben werden. Außerdem können Sie überprüfen, ob Probleme mit Ihrer aktuellen Regel vorliegen.</RWAutoSell.DescPropTest>
   <RWAutoSell.DescPropFilter>Auf dieser Registerkarte werden Filtereigenschaften angezeigt. Wenn Sie auf einen Filter in den Gruppeneigenschaften doppelklicken, gelangen Sie hierher.</RWAutoSell.DescPropFilter>
-  <!--Group/Filter Menu Options-->
-  <RWAutoSell.DescGroupName>Geben Sie hier ein, um die aktuelle Gruppe zu benennen. Nützlich, wenn Sie mit vielen Gruppen arbeiten und eine Gruppe eindeutig identifizieren müssen.</RWAutoSell.DescGroupName>
+  <!--Group/Filter Menu Options-->  
   <RWAutoSell.DeleteGroup>Gruppe löschen</RWAutoSell.DeleteGroup>
   <RWAutoSell.DeleteFilter>Filter löschen</RWAutoSell.DeleteFilter>
   <RWAutoSell.AddGroup>Neue Gruppe hinzufügen</RWAutoSell.AddGroup>
@@ -46,6 +48,10 @@
   <RWAutoSell.AddFilter>Neuen Filter hinzufügen</RWAutoSell.AddFilter>
   <RWAutoSell.Unknown>unbekannte</RWAutoSell.Unknown>
   <RWAutoSell.Unnamed>Unbenannt</RWAutoSell.Unnamed>
+  <!--Group Properties List ToolTips-->
+  <RWAutoSell.DescGroupNavigate>Doppelklicken Sie, um in die übergeordnete Gruppe zu navigieren</RWAutoSell.DescGroupNavigate>  <!-- Double Click to navigate into parent group -->
+  <RWAutoSell.DescGroupSelect>Doppelklicken Sie, um in diese Untergruppe zu navigieren</RWAutoSell.DescGroupSelect>  <!-- Double Click to navigate into this sub group -->
+  <RWAutoSell.DescFilterSelect>Doppelklicken Sie, um den Filter zu bearbeiten</RWAutoSell.DescFilterSelect>  <!-- Double Click to edit filter -->
   <!-- Main Tab -->
   <RWAutoSell.AutoSellTitle>Einstellungen für automatischen Verkauf</RWAutoSell.AutoSellTitle>
   <RWAutoSell.CreateRuleShort>Regel erstellen</RWAutoSell.CreateRuleShort>
@@ -98,6 +104,8 @@
   <RWAutoSell.FilterPregnant>Überprüfen Sie die Schwangerschaft</RWAutoSell.FilterPregnant>
   <RWAutoSell.FilterIntelligence>Minimale Intelligenz</RWAutoSell.FilterIntelligence>
   <RWAutoSell.FilterTraining>Hat Training</RWAutoSell.FilterTraining>
+  <RWAutoSell.FilterLowRowDef>Row Def</RWAutoSell.FilterLowRowDef>  <!-- Row Def -->
+  <RWAutoSell.FilterLowSpecDef>Spezifische Def</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>
@@ -138,8 +146,13 @@
   <RWAutoSell.BargainReportBought>Artikel gekauft</RWAutoSell.BargainReportBought>  
   <RWAutoSell.BargainReportGained>verdient</RWAutoSell.BargainReportGained>
   <RWAutoSell.BargainReportLost>verbraucht</RWAutoSell.BargainReportLost>
-  <RWAutoSell.BargainReportTitle>Handelsbericht für {0}</RWAutoSell.BargainReportTitle>
-  
+  <RWAutoSell.BargainReportTitle>Handelsbericht für {0}</RWAutoSell.BargainReportTitle>  
   <RWAutoSell.PWOnlyOne>Nur eins erlaubt</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>Zusammenführung mit {0}</RWAutoSell.AutoSellMerge>
+
+  <RWAutoSell.SetAsChain>Als Kette einstellen</RWAutoSell.SetAsChain>  <!-- Set as Chain -->
+  <RWAutoSell.SetAsNormal>Als Normal einstellen</RWAutoSell.SetAsNormal>  <!-- Set as Normal -->
+  <RWAutoSell.AdvancedMenu>Erweiterte Regeloptionen</RWAutoSell.AdvancedMenu>  <!-- Advanced Rule Options -->
+  <RWAutoSell.Chain>Kettenregel</RWAutoSell.Chain>  <!-- Chain Rule -->
+  <RWAutoSell.ChainDesc>Eine Kettenregel führt selbst nichts aus. Wenn jedoch eine normale Regel mit der Kettenregel verbunden ist (dies kann durch Ziehen und Ablegen einer normalen Regel auf die Kettenregel aus der Hauptübersicht erfolgen), werden diese Regeln weiter gefiltert mit dem Ergebnis der Kettenregel.</RWAutoSell.ChainDesc>  <!-- A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule. -->
 </LanguageData>

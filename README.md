@@ -1,3 +1,20 @@
+**Experimental Branch**
+
+Testing Phase for Chain Rules
+
+Chain Rules do nothing on their own, but do affect the results of rules connected to them.
+
+changes for chains include:
+
+* Rule Reordering Interface changes (drag normal rules onto or off of the chain rule for that rule to be affected)
+* temporary button on rule edit/create dialog for toggling a rule as a chain or normal rule
+
+other changes:
+
+* library changes (the framework all rule types rely on), mostly under the hood stuff to account for chains
+
+---
+
 This Rimworld mod adds the ability to Auto Sell items from the trade window using a set of editable rules.  These rules can be created and edited via the Autosell Tab.
 
 So, You've been hoarding a ton of weapons and apparel you've been hoping to sell, or you're frequently harvesting and selling something, but you're getting sick of adjusting sliders for all your hundreds of items.  This is mod will make your life easier. After you setup your rules for selling on the overview tab, selling will be only one button press away.

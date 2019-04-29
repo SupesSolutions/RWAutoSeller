@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ASBargain.label>与商人讨价还价</ASBargain.label>
+  <ASBargain.verb>讨价还价</ASBargain.verb>
+  <ASBargain.gerund>讨价还价中</ASBargain.gerund>
+
+  <ASPawnBargain.label>与商人讨价还价</ASPawnBargain.label>
+  <ASPawnBargain.verb>讨价还价</ASPawnBargain.verb>
+  <ASPawnBargain.gerund>讨价还价中</ASPawnBargain.gerund>
+
+  <ASDoBillsShoppingLists.label>在交易打印机上创建购物清单</ASDoBillsShoppingLists.label>
+  <ASDoBillsShoppingLists.verb>打印</ASDoBillsShoppingLists.verb>
+  <ASDoBillsShoppingLists.gerund>打印中</ASDoBillsShoppingLists.gerund>
+
+
+</LanguageData>

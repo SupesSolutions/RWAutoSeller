@@ -3,6 +3,8 @@
   <!-- Dialogs (Common) -->
   <RWAutoSell.Add>Ajouter</RWAutoSell.Add>
   <RWAutoSell.AutoSellButton>Auto vendre</RWAutoSell.AutoSellButton>
+  <RWAutoSell.Undo>Annuler</RWAutoSell.Undo>  <!--Undo-->
+  <RWAutoSell.Redo>Refaire</RWAutoSell.Redo>  <!--Redo-->
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Racine</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>Nouveau groupe</RWAutoSell.GroupLabel>
@@ -46,6 +48,10 @@
   <RWAutoSell.AddFilter>Ajouter un nouveau filtre</RWAutoSell.AddFilter>
   <RWAutoSell.Unknown>Inconnu</RWAutoSell.Unknown>
   <RWAutoSell.Unnamed>Anonyme</RWAutoSell.Unnamed>
+  <!--Group Properties List ToolTips-->
+  <RWAutoSell.DescGroupNavigate>Double-cliquez pour naviguer dans le groupe parent</RWAutoSell.DescGroupNavigate>  <!-- Double Click to navigate into parent group -->
+  <RWAutoSell.DescGroupSelect>Double-cliquez pour naviguer dans ce sous-groupe</RWAutoSell.DescGroupSelect>  <!-- Double Click to navigate into this sub group -->
+  <RWAutoSell.DescFilterSelect>Double-cliquez pour éditer le filtre</RWAutoSell.DescFilterSelect>  <!-- Double Click to edit filter -->
   <!-- Main Tab -->
   <RWAutoSell.AutoSellTitle>Paramètres de vente automatique</RWAutoSell.AutoSellTitle>
   <RWAutoSell.CreateRuleShort>Créer une règle</RWAutoSell.CreateRuleShort>
@@ -98,6 +104,8 @@
   <RWAutoSell.FilterPregnant>Vérifier la grossesse</RWAutoSell.FilterPregnant>
   <RWAutoSell.FilterIntelligence>Intelligence minimale</RWAutoSell.FilterIntelligence>
   <RWAutoSell.FilterTraining>A la formation</RWAutoSell.FilterTraining>
+  <RWAutoSell.FilterLowRowDef>Row Def</RWAutoSell.FilterLowRowDef>  <!-- Row Def -->
+  <RWAutoSell.FilterLowSpecDef>Def spécifique</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animaux</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Gens</RWAutoSell.TagPeople>
@@ -141,4 +149,10 @@
   <RWAutoSell.BargainReportTitle>Rapport de commerce pour {0}</RWAutoSell.BargainReportTitle>
   <RWAutoSell.PWOnlyOne>Un seul autorisé</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>Fusionner avec {0}</RWAutoSell.AutoSellMerge>
+
+  <RWAutoSell.SetAsChain>Définir comme chaîne</RWAutoSell.SetAsChain>  <!-- Set as Chain -->
+  <RWAutoSell.SetAsNormal>Définir comme normal</RWAutoSell.SetAsNormal>  <!-- Set as Normal -->
+  <RWAutoSell.AdvancedMenu>Options de règle avancées</RWAutoSell.AdvancedMenu>  <!-- Advanced Rule Options -->
+  <RWAutoSell.Chain>Règle de la chaîne</RWAutoSell.Chain>  <!-- Chain Rule -->
+  <RWAutoSell.ChainDesc>Une règle de chaîne ne fait rien par elle-même. Cependant, si une règle normale est connectée à la règle de chaîne (vous pouvez le faire en glissant-déposant une règle normale sur la règle de chaîne dans l'aperçu principal), ces règles seront filtrées davantage en utilisant le résultat de la règle de chaîne.</RWAutoSell.ChainDesc>  <!-- A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule. -->
 </LanguageData>
