@@ -54,3 +54,5 @@ If you want do prevent a rule from firing but not delete it, you can click the S
 There are multiple ways to Manipulate Groups, you can cut and paste a Group onto another Group, or you can simply drag the Group over to where you want.
 
 Did you know that you can copy/paste a group from one rule to different rule, you can even do this with different extension Rules.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K1UM3H)
