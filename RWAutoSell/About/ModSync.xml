@@ -9,6 +9,6 @@
     <Project>RWAutoSeller</Project>
     <AboutDir>RWAutoSell/About</AboutDir>
     <DownloadFrom>ModSyncReleases</DownloadFrom>
-    <Branch>Master</Branch>	  
+    <Branch>master</Branch>	  
   </Host>
 </ModSyncNinjaData>
