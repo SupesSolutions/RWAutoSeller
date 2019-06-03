@@ -75,6 +75,7 @@
   <RWAutoSell.FilterSkill>技能等级</RWAutoSell.FilterSkill>
   <RWAutoSell.FilterStatistics>统计数据</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>动物</RWAutoSell.FilterAnimal>
+  <RWAutoSell.FilterTime>时间</RWAutoSell.FilterTime> <!-- Time -->
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>添加分类时包括子分类</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>生物年龄</RWAutoSell.FilterAgeBio>
@@ -106,6 +107,8 @@
   <RWAutoSell.FilterTraining>已有训练</RWAutoSell.FilterTraining>
   <RWAutoSell.FilterLowRowDef>行项目</RWAutoSell.FilterLowRowDef>  <!-- Row Def -->
   <RWAutoSell.FilterLowSpecDef>具体项目</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
+  <RWAutoSell.FilterLowIncEqip>包括设备和库存</RWAutoSell.FilterLowIncEqip>  <!-- Include equipment and inventory -->
+  <RWAutoSell.FilterTimeTip>使用鼠标左键激活，使用鼠标右键停用</RWAutoSell.FilterTimeTip>  <!-- Use Left Mouse to activate, Use Right Mouse to deactivate -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>动物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人类</RWAutoSell.TagPeople>
@@ -129,6 +132,8 @@
   <RWAutoSell.IncludeUnavailable>包括不可用物品</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>重复</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>谈判者</RWAutoSell.Negotiator>
+  <RWAutoSell.IncEqip>包括设备</RWAutoSell.IncEqip>  <!-- Include Equipped Items -->
+  <RWAutoSell.IncInv>包括持有的物品</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>导入/导出规则</RWAutoSell.ImportRules>
   <RWAutoSell.Import>导入</RWAutoSell.Import>

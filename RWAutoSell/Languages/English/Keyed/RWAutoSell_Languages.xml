@@ -74,7 +74,8 @@
   <RWAutoSell.FilterWorkTag>Work Capable</RWAutoSell.FilterWorkTag>
   <RWAutoSell.FilterSkill>Skill Level</RWAutoSell.FilterSkill>
   <RWAutoSell.FilterStatistics>Statistic</RWAutoSell.FilterStatistics>
-  <RWAutoSell.FilterAnimal>Animal</RWAutoSell.FilterAnimal>  
+  <RWAutoSell.FilterAnimal>Animal</RWAutoSell.FilterAnimal>
+  <RWAutoSell.FilterTime>Time</RWAutoSell.FilterTime>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Include Sub-categories when adding a Category</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biological Years</RWAutoSell.FilterAgeBio>
@@ -106,6 +107,8 @@
   <RWAutoSell.FilterTraining>Has Training</RWAutoSell.FilterTraining>
   <RWAutoSell.FilterLowRowDef>Row Def</RWAutoSell.FilterLowRowDef>        <!-- new -->
   <RWAutoSell.FilterLowSpecDef>Specific Def</RWAutoSell.FilterLowSpecDef> <!-- new -->
+  <RWAutoSell.FilterLowIncEqip>Include Equipment and Inventories</RWAutoSell.FilterLowIncEqip>  <!-- new -->
+  <RWAutoSell.FilterTimeTip>Use Left Mouse to activate, Use Right Mouse to deactivate</RWAutoSell.FilterTimeTip> <!-- new -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animals</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>People</RWAutoSell.TagPeople>
@@ -129,6 +132,8 @@
   <RWAutoSell.IncludeUnavailable>Include Unavailable Items</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Repetition</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Negotiator</RWAutoSell.Negotiator>
+  <RWAutoSell.IncEqip>Include Equipped Items</RWAutoSell.IncEqip>  <!-- new -->
+  <RWAutoSell.IncInv>Include Inventory Items</RWAutoSell.IncInv>  <!-- new -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>Import/Export Rules</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Import</RWAutoSell.Import>
@@ -155,4 +160,5 @@
   <RWAutoSell.AdvancedMenu>Advanced Rule Options</RWAutoSell.AdvancedMenu>  <!-- new -->
   <RWAutoSell.Chain>Chain Rule</RWAutoSell.Chain>  <!-- new -->
   <RWAutoSell.ChainDesc>A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule.</RWAutoSell.ChainDesc>  <!-- new -->
+
 </LanguageData>

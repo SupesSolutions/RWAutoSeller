@@ -75,6 +75,7 @@
   <RWAutoSell.FilterSkill>Niveau de compétence</RWAutoSell.FilterSkill>
   <RWAutoSell.FilterStatistics>Statistique</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>Animal</RWAutoSell.FilterAnimal>
+  <RWAutoSell.FilterTime>Temps</RWAutoSell.FilterTime>  <!-- Time -->
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Inclure des sous-catégories lors de l'ajout d'une catégorie</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Années biologiques</RWAutoSell.FilterAgeBio>
@@ -106,6 +107,8 @@
   <RWAutoSell.FilterTraining>A la formation</RWAutoSell.FilterTraining>
   <RWAutoSell.FilterLowRowDef>Row Def</RWAutoSell.FilterLowRowDef>  <!-- Row Def -->
   <RWAutoSell.FilterLowSpecDef>Def spécifique</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
+  <RWAutoSell.FilterLowIncEqip>Inclure l'équipement et l'inventaire</RWAutoSell.FilterLowIncEqip>  <!-- Include equipment and inventory -->
+  <RWAutoSell.FilterTimeTip>Utilisez la souris gauche pour activer, Utilisez la souris droite pour désactiver</RWAutoSell.FilterTimeTip> <!-- Use Left Mouse to activate, Use Right Mouse to deactivate -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animaux</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Gens</RWAutoSell.TagPeople>
@@ -129,6 +132,8 @@
   <RWAutoSell.IncludeUnavailable>Inclure les éléments non disponibles</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Répétition</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Négociateur</RWAutoSell.Negotiator>
+  <RWAutoSell.IncEqip>Inclure les articles équipés</RWAutoSell.IncEqip>  <!-- Include Equipped Items -->
+  <RWAutoSell.IncInv>Inclure les articles d'inventaire</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>Règles d'importation/exportation</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Importer</RWAutoSell.Import>
