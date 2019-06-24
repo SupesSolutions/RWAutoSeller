@@ -40,6 +40,7 @@
   <RWAutoSell.PasteGroup>Paste Group</RWAutoSell.PasteGroup>
   <RWAutoSell.OperatorOr>Change Group Operator to OR</RWAutoSell.OperatorOr>
   <RWAutoSell.OperatorAnd>Change Group Operator to AND</RWAutoSell.OperatorAnd>
+  <RWAutoSell.OperatorXor>Change Group Operator to XOR</RWAutoSell.OperatorXor>
   <RWAutoSell.TogActive>Toggle Active</RWAutoSell.TogActive>
   <RWAutoSell.TogInactive>Toggle Inactive</RWAutoSell.TogInactive>
   <RWAutoSell.TogNegateOff>Toggle Negate Off</RWAutoSell.TogNegateOff>

@@ -40,6 +40,7 @@
   <RWAutoSell.PasteGroup>粘贴分组</RWAutoSell.PasteGroup>
   <RWAutoSell.OperatorOr>改变分组操作为 或</RWAutoSell.OperatorOr>
   <RWAutoSell.OperatorAnd>改变分组操作为 与</RWAutoSell.OperatorAnd>
+  <RWAutoSell.OperatorXor>改变分组操作为 独或</RWAutoSell.OperatorXor>
   <RWAutoSell.TogActive>切换激活</RWAutoSell.TogActive>
   <RWAutoSell.TogInactive>切换关闭</RWAutoSell.TogInactive>
   <RWAutoSell.TogNegateOff>切换否定关闭</RWAutoSell.TogNegateOff>

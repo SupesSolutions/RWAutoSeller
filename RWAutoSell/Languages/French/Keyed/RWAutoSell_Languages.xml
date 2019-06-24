@@ -40,6 +40,7 @@
   <RWAutoSell.PasteGroup>Coller le groupe</RWAutoSell.PasteGroup>
   <RWAutoSell.OperatorOr>Changer l'opérateur de groupe à OU</RWAutoSell.OperatorOr>
   <RWAutoSell.OperatorAnd>Changer d'opérateur de groupe pour ET</RWAutoSell.OperatorAnd>
+  <RWAutoSell.OperatorXor>Changer l'opérateur du groupe en exclusif ou</RWAutoSell.OperatorXor>
   <RWAutoSell.TogActive>Basculer Active</RWAutoSell.TogActive>
   <RWAutoSell.TogInactive>Basculer Inactif</RWAutoSell.TogInactive>
   <RWAutoSell.TogNegateOff>Basculer sur annuler</RWAutoSell.TogNegateOff>

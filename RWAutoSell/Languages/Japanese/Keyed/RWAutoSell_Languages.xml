@@ -40,6 +40,7 @@
   <RWAutoSell.PasteGroup>貼り付け(グループ)</RWAutoSell.PasteGroup>
   <RWAutoSell.OperatorOr>グループの条件をORに切替</RWAutoSell.OperatorOr>
   <RWAutoSell.OperatorAnd>グループの条件をANDに切替</RWAutoSell.OperatorAnd>
+  <RWAutoSell.OperatorXor>グループの条件をXORに切替</RWAutoSell.OperatorXor>
   <RWAutoSell.TogActive>有効化する</RWAutoSell.TogActive>
   <RWAutoSell.TogInactive>無効化する</RWAutoSell.TogInactive>
   <RWAutoSell.TogNegateOff>条件否定をOffにする</RWAutoSell.TogNegateOff>

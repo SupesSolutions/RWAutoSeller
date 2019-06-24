@@ -39,7 +39,8 @@
   <RWAutoSell.CopyGroup>Gruppe kopieren</RWAutoSell.CopyGroup>
   <RWAutoSell.PasteGroup>Gruppe einfügen</RWAutoSell.PasteGroup>
   <RWAutoSell.OperatorOr>Ändern Sie den Gruppenoperator in OR</RWAutoSell.OperatorOr>
-  <RWAutoSell.OperatorAnd>Ändern Sie den Gruppenoperator in AND</RWAutoSell.OperatorAnd>  
+  <RWAutoSell.OperatorAnd>Ändern Sie den Gruppenoperator in AND</RWAutoSell.OperatorAnd>
+  <RWAutoSell.OperatorXor>Ändern Sie den Gruppenoperator in XOR</RWAutoSell.OperatorXor>
   <RWAutoSell.TogActive>Aktiv schalten</RWAutoSell.TogActive>
   <RWAutoSell.TogInactive>Inaktiv schalten</RWAutoSell.TogInactive>
   <RWAutoSell.TogNegateOff>Toggle Negate Aus</RWAutoSell.TogNegateOff>
