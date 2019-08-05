@@ -77,6 +77,7 @@
   <RWAutoSell.FilterStatistics>統計</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>動物</RWAutoSell.FilterAnimal>
   <RWAutoSell.FilterTime>時間</RWAutoSell.FilterTime>  <!-- Time -->
+  <RWAutoSell.FilterPerish>腐敗するまでの時間</RWAutoSell.FilterPerish>
   <!-- Filters WidgetLabels -->  
   <RWAutoSell.SubCat>カテゴリを追加するときにサブカテゴリを含める</RWAutoSell.SubCat>  <!--old text サブカテゴリを含む  / old english: Include Subcategories / current english: Include subcategories when adding a category-->
   <RWAutoSell.FilterAgeBio>生体上の年齢</RWAutoSell.FilterAgeBio>
@@ -110,6 +111,9 @@
   <RWAutoSell.FilterLowSpecDef>特定の定義</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
   <RWAutoSell.FilterLowIncEqip>装備品と在庫品を含める</RWAutoSell.FilterLowIncEqip>  <!-- Include equipment and inventory -->
   <RWAutoSell.FilterTimeTip>アクティブにするには左マウスを使用し、非アクティブにするには右マウスを使用</RWAutoSell.FilterTimeTip>  <!-- Use Left Mouse to activate, Use Right Mouse to deactivate -->
+  <RWAutoSell.FilterPerishIgnRfg>温度/冷蔵を無視する</RWAutoSell.FilterPerishIgnRfg>  <!-- Ignore Temperature/Refrigeration -->
+  <RWAutoSell.FilterPerishHours>時間</RWAutoSell.FilterPerishHours>
+  <RWAutoSell.FilterPerishDays>日々</RWAutoSell.FilterPerishDays>
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>動物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人間</RWAutoSell.TagPeople>
@@ -138,7 +142,15 @@
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>ルールの読み出し/書き出し</RWAutoSell.ImportRules>
   <RWAutoSell.Import>読み出し</RWAutoSell.Import>
+  <!-- Merger Control -->
+  <RWAutoSell.MergeControl>マージ制御</RWAutoSell.MergeControl>
+  <RWAutoSell.MergeControlDesc>ここでは、アイテムのマージ方法に関するより多くの条件を有効にできます。これにより、rimworldが行をマージする方法のために通常は不可能であったフィルタの使用が可能になります。</RWAutoSell.MergeControlDesc>
 
+  <RWAutoSell.MergerRequired>マージコントローラが必要</RWAutoSell.MergerRequired>
+  <RWAutoSell.MergerRequiredDesc>{1}フィルターには{0}マージコントローラーが必要です。必要なマージコントローラーを有効にするには、[承認]をクリックします（マージコントローラーは、取引の動作に入ることでいつでも有効/無効にできます）。</RWAutoSell.MergerRequiredDesc>
+  <!-- Mergers -->
+  <RWAutoSell.MergerPerishables>生鮮食品</RWAutoSell.MergerPerishables>
+  
   <!-- Misc -->
   <!--Report Label Order
   0 = Negotiator

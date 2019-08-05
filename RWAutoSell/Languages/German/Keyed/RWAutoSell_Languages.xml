@@ -77,6 +77,7 @@
   <RWAutoSell.FilterStatistics>Statistik</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>Tier</RWAutoSell.FilterAnimal>
   <RWAutoSell.FilterTime>Zeit</RWAutoSell.FilterTime>  <!-- Time -->
+  <RWAutoSell.FilterPerish>Zeit bis zum Verrotten</RWAutoSell.FilterPerish>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Beim Hinzufügen einer Kategorie Unterkategorien einbeziehen</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
@@ -110,6 +111,9 @@
   <RWAutoSell.FilterLowSpecDef>Spezifische Def</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
   <RWAutoSell.FilterLowIncEqip>Ausrüstung und Inventar einschließen</RWAutoSell.FilterLowIncEqip>  <!-- Include equipment and inventory -->
   <RWAutoSell.FilterTimeTip>Zum Aktivieren die linke Maustaste verwenden, zum Deaktivieren die rechte Maustaste verwenden</RWAutoSell.FilterTimeTip>  <!-- Use Left Mouse to activate, Use Right Mouse to deactivate -->
+  <RWAutoSell.FilterPerishIgnRfg>Temperatur / Kühlung ignorieren</RWAutoSell.FilterPerishIgnRfg>  <!-- Ignore Temperature/Refrigeration -->
+  <RWAutoSell.FilterPerishHours>Std</RWAutoSell.FilterPerishHours>
+  <RWAutoSell.FilterPerishDays>Tage</RWAutoSell.FilterPerishDays>
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>
@@ -138,6 +142,14 @@
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>importieren/exportieren Regeln</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Einführen</RWAutoSell.Import>
+  <!-- Merger Control -->
+  <RWAutoSell.MergeControl>Steuerung zusammenführen</RWAutoSell.MergeControl>
+  <RWAutoSell.MergeControlDesc>Hier können Sie weitere Bedingungen für das Zusammenführen von Elementen aktivieren. Dies kann die Verwendung von Filtern ermöglichen, die normalerweise aufgrund der Art und Weise, wie rimworld Zeilen zusammenfügt, nicht möglich sind.</RWAutoSell.MergeControlDesc>
+
+  <RWAutoSell.MergerRequired>Zusammenführungscontroller erforderlich</RWAutoSell.MergerRequired>
+  <RWAutoSell.MergerRequiredDesc>Der {0} Merge-Controller ist für den {1} -Filter erforderlich. Klicken Sie auf Akzeptieren, um den erforderlichen Merge-Controller zu aktivieren.</RWAutoSell.MergerRequiredDesc>
+  <!-- Mergers -->
+  <RWAutoSell.MergerPerishables>Verderbliche Güter</RWAutoSell.MergerPerishables>
   
   <!-- Misc -->  
   <!--Report Label Order

@@ -77,6 +77,7 @@
   <RWAutoSell.FilterStatistics>统计数据</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>动物</RWAutoSell.FilterAnimal>
   <RWAutoSell.FilterTime>时间</RWAutoSell.FilterTime> <!-- Time -->
+  <RWAutoSell.FilterPerish>时间直到腐烂</RWAutoSell.FilterPerish>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>添加分类时包括子分类</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>生物年龄</RWAutoSell.FilterAgeBio>
@@ -110,6 +111,9 @@
   <RWAutoSell.FilterLowSpecDef>具体项目</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
   <RWAutoSell.FilterLowIncEqip>包括设备和库存</RWAutoSell.FilterLowIncEqip>  <!-- Include equipment and inventory -->
   <RWAutoSell.FilterTimeTip>使用鼠标左键激活，使用鼠标右键停用</RWAutoSell.FilterTimeTip>  <!-- Use Left Mouse to activate, Use Right Mouse to deactivate -->
+  <RWAutoSell.FilterPerishIgnRfg>忽略温度/制冷</RWAutoSell.FilterPerishIgnRfg> <!-- Ignore Temperature/Refrigeration -->
+  <RWAutoSell.FilterPerishHours>小时</RWAutoSell.FilterPerishHours>
+  <RWAutoSell.FilterPerishDays>天</RWAutoSell.FilterPerishDays>
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>动物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人类</RWAutoSell.TagPeople>
@@ -138,6 +142,15 @@
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>导入/导出规则</RWAutoSell.ImportRules>
   <RWAutoSell.Import>导入</RWAutoSell.Import>
+
+  <!-- Merger Control -->
+  <RWAutoSell.MergeControl>合并控制</RWAutoSell.MergeControl>
+  <RWAutoSell.MergeControlDesc>您可以在此处为行合并方式启用更多条件。这可以允许使用通常由于rimworld合并行的方式而无法实现的过滤器。</RWAutoSell.MergeControlDesc>
+
+  <RWAutoSell.MergerRequired>合并控制器必需</RWAutoSell.MergerRequired>
+  <RWAutoSell.MergerRequiredDesc>{1}过滤器需要{0}合并控制器，单击“接受”以启用所需的合并控制器（您可以通过输入事务行为随时启用/禁用合并控制器）</RWAutoSell.MergerRequiredDesc>
+  <!-- Mergers -->
+  <RWAutoSell.MergerPerishables>易腐</RWAutoSell.MergerPerishables>
 
   <!-- Misc -->
   <!--Report Label Order
