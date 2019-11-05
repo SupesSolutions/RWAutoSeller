@@ -78,6 +78,7 @@
   <RWAutoSell.FilterAnimal>動物</RWAutoSell.FilterAnimal>
   <RWAutoSell.FilterTime>時間</RWAutoSell.FilterTime>  <!-- Time -->
   <RWAutoSell.FilterPerish>腐敗するまでの時間</RWAutoSell.FilterPerish>
+  <RWAutoSell.FilterCapacity>運搬能力</RWAutoSell.FilterCapacity>
   <!-- Filters WidgetLabels -->  
   <RWAutoSell.SubCat>カテゴリを追加するときにサブカテゴリを含める</RWAutoSell.SubCat>  <!--old text サブカテゴリを含む  / old english: Include Subcategories / current english: Include subcategories when adding a category-->
   <RWAutoSell.FilterAgeBio>生体上の年齢</RWAutoSell.FilterAgeBio>
@@ -114,6 +115,8 @@
   <RWAutoSell.FilterPerishIgnRfg>温度/冷蔵を無視する</RWAutoSell.FilterPerishIgnRfg>  <!-- Ignore Temperature/Refrigeration -->
   <RWAutoSell.FilterPerishHours>時間</RWAutoSell.FilterPerishHours>
   <RWAutoSell.FilterPerishDays>日々</RWAutoSell.FilterPerishDays>
+  <RWAutoSell.FilterCapacityRange>{0}キログラム以内のキャパシティ</RWAutoSell.FilterCapacityRange>
+  <RWAutoSell.FilterCapacityIncNull>容量がゼロの動物/ポーンを含める</RWAutoSell.FilterCapacityIncNull>
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>動物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人間</RWAutoSell.TagPeople>
@@ -139,6 +142,7 @@
   <RWAutoSell.Negotiator>交渉者</RWAutoSell.Negotiator>
   <RWAutoSell.IncEqip>装備品を含める</RWAutoSell.IncEqip>  <!-- Include Equiped Items -->
   <RWAutoSell.IncInv>在庫品目を含める</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
+  <RWAutoSell.AltShop>別の買い物リストの動作</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>ルールの読み出し/書き出し</RWAutoSell.ImportRules>
   <RWAutoSell.Import>読み出し</RWAutoSell.Import>

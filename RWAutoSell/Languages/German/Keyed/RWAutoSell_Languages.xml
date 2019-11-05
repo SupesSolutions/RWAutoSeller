@@ -78,6 +78,7 @@
   <RWAutoSell.FilterAnimal>Tier</RWAutoSell.FilterAnimal>
   <RWAutoSell.FilterTime>Zeit</RWAutoSell.FilterTime>  <!-- Time -->
   <RWAutoSell.FilterPerish>Zeit bis zum Verrotten</RWAutoSell.FilterPerish>
+  <RWAutoSell.FilterCapacity>Tragfähigkeit</RWAutoSell.FilterCapacity>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Beim Hinzufügen einer Kategorie Unterkategorien einbeziehen</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
@@ -114,6 +115,8 @@
   <RWAutoSell.FilterPerishIgnRfg>Temperatur / Kühlung ignorieren</RWAutoSell.FilterPerishIgnRfg>  <!-- Ignore Temperature/Refrigeration -->
   <RWAutoSell.FilterPerishHours>Std</RWAutoSell.FilterPerishHours>
   <RWAutoSell.FilterPerishDays>Tage</RWAutoSell.FilterPerishDays>
+  <RWAutoSell.FilterCapacityRange>Tragfähigkeit innerhalb von {0} kg</RWAutoSell.FilterCapacityRange>
+  <RWAutoSell.FilterCapacityIncNull>Schließen Sie Tiere / Bauern mit einer Kapazität von Null ein</RWAutoSell.FilterCapacityIncNull>
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>
@@ -139,6 +142,7 @@
   <RWAutoSell.Negotiator>Unterhändler</RWAutoSell.Negotiator>
   <RWAutoSell.IncEqip>Ausgestattete Gegenstände einschließen</RWAutoSell.IncEqip>  <!-- Include Equiped Items -->
   <RWAutoSell.IncInv>Inventargegenstände einbeziehen</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
+  <RWAutoSell.AltShop>Alternatives Einkaufslistenverhalten</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>importieren/exportieren Regeln</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Einführen</RWAutoSell.Import>
