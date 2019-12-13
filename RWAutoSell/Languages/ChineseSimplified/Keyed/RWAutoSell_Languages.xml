@@ -5,6 +5,11 @@
   <RWAutoSell.AutoSellButton>自动交易</RWAutoSell.AutoSellButton>
   <RWAutoSell.Undo>解开</RWAutoSell.Undo>  <!--Undo-->
   <RWAutoSell.Redo>重做</RWAutoSell.Redo>  <!--Redo-->
+  <RWAutoSell.SelectSorter>排序方式: {0}</RWAutoSell.SelectSorter>
+  <RWAutoSell.Ascending>升序</RWAutoSell.Ascending>
+  <RWAutoSell.Descending>降序</RWAutoSell.Descending>
+  <RWAutoSell.Unsorted>未分类</RWAutoSell.Unsorted>
+  <RWAutoSell.Cloned>克隆的</RWAutoSell.Cloned>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>根组</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>新建组</RWAutoSell.GroupLabel>
@@ -79,6 +84,7 @@
   <RWAutoSell.FilterTime>时间</RWAutoSell.FilterTime> <!-- Time -->
   <RWAutoSell.FilterPerish>时间直到腐烂</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>承载能力</RWAutoSell.FilterCapacity> <!-- Carry Capacity -->
+  <RWAutoSell.FilterSerum>血清技能</RWAutoSell.FilterSerum>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>添加分类时包括子分类</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>生物年龄</RWAutoSell.FilterAgeBio>

@@ -5,6 +5,11 @@
   <RWAutoSell.AutoSellButton>自動売却</RWAutoSell.AutoSellButton>
   <RWAutoSell.Undo>元に戻す</RWAutoSell.Undo>  <!--Undo-->
   <RWAutoSell.Redo>やり直し</RWAutoSell.Redo>  <!--Redo-->
+  <RWAutoSell.SelectSorter>並び替え: {0}</RWAutoSell.SelectSorter>
+  <RWAutoSell.Ascending>昇順</RWAutoSell.Ascending>
+  <RWAutoSell.Descending>降順</RWAutoSell.Descending>
+  <RWAutoSell.Unsorted>未分類</RWAutoSell.Unsorted>
+  <RWAutoSell.Cloned>クローン</RWAutoSell.Cloned>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>ルート</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>新規グループ</RWAutoSell.GroupLabel>
@@ -79,6 +84,7 @@
   <RWAutoSell.FilterTime>時間</RWAutoSell.FilterTime>  <!-- Time -->
   <RWAutoSell.FilterPerish>腐敗するまでの時間</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>運搬能力</RWAutoSell.FilterCapacity>
+  <RWAutoSell.FilterSerum>血清スキル</RWAutoSell.FilterSerum>
   <!-- Filters WidgetLabels -->  
   <RWAutoSell.SubCat>カテゴリを追加するときにサブカテゴリを含める</RWAutoSell.SubCat>  <!--old text サブカテゴリを含む  / old english: Include Subcategories / current english: Include subcategories when adding a category-->
   <RWAutoSell.FilterAgeBio>生体上の年齢</RWAutoSell.FilterAgeBio>

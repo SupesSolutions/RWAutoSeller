@@ -5,6 +5,11 @@
   <RWAutoSell.AutoSellButton>Auto Verkaufen</RWAutoSell.AutoSellButton>
   <RWAutoSell.Undo>Rückgängig machen</RWAutoSell.Undo>  <!--Undo-->
   <RWAutoSell.Redo>Wiederholen</RWAutoSell.Redo>  <!--Redo-->
+  <RWAutoSell.SelectSorter>Sortiere nach: {0}</RWAutoSell.SelectSorter>
+  <RWAutoSell.Ascending>Aufsteigend</RWAutoSell.Ascending>
+  <RWAutoSell.Descending>Absteigend</RWAutoSell.Descending>
+  <RWAutoSell.Unsorted>Unsortiert</RWAutoSell.Unsorted>
+  <RWAutoSell.Cloned>Geklont</RWAutoSell.Cloned>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Wurzel</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>Neue Gruppe</RWAutoSell.GroupLabel>
@@ -79,6 +84,7 @@
   <RWAutoSell.FilterTime>Zeit</RWAutoSell.FilterTime>  <!-- Time -->
   <RWAutoSell.FilterPerish>Zeit bis zum Verrotten</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>Tragfähigkeit</RWAutoSell.FilterCapacity>
+  <RWAutoSell.FilterSerum>Serum-Fähigkeit</RWAutoSell.FilterSerum>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Beim Hinzufügen einer Kategorie Unterkategorien einbeziehen</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>

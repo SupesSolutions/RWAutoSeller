@@ -5,6 +5,11 @@
   <RWAutoSell.AutoSellButton>Auto vendre</RWAutoSell.AutoSellButton>
   <RWAutoSell.Undo>Annuler</RWAutoSell.Undo>  <!--Undo-->
   <RWAutoSell.Redo>Refaire</RWAutoSell.Redo>  <!--Redo-->
+  <RWAutoSell.SelectSorter>Trier par: {0}</RWAutoSell.SelectSorter>
+  <RWAutoSell.Ascending>Ascendante</RWAutoSell.Ascending>
+  <RWAutoSell.Descending>Descendante</RWAutoSell.Descending>
+  <RWAutoSell.Unsorted>Non trié</RWAutoSell.Unsorted>
+  <RWAutoSell.Cloned>Cloné</RWAutoSell.Cloned>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Racine</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>Nouveau groupe</RWAutoSell.GroupLabel>
@@ -79,6 +84,7 @@
   <RWAutoSell.FilterTime>Temps</RWAutoSell.FilterTime>  <!-- Time -->
   <RWAutoSell.FilterPerish>temps jusqu'à la pourriture</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>Capacite de transport</RWAutoSell.FilterCapacity>  <!-- Carry Capacity -->
+  <RWAutoSell.FilterSerum>Compétence de sérum</RWAutoSell.FilterSerum>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Inclure des sous-catégories lors de l'ajout d'une catégorie</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Années biologiques</RWAutoSell.FilterAgeBio>

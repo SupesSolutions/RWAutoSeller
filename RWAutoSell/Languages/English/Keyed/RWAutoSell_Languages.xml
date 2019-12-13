@@ -5,6 +5,11 @@
   <RWAutoSell.AutoSellButton>Auto Sell</RWAutoSell.AutoSellButton>
   <RWAutoSell.Undo>Undo</RWAutoSell.Undo> <!--Undo-->
   <RWAutoSell.Redo>Redo</RWAutoSell.Redo> <!--Redo-->
+  <RWAutoSell.SelectSorter>Sort By: {0}</RWAutoSell.SelectSorter>
+  <RWAutoSell.Ascending>Ascending</RWAutoSell.Ascending>
+  <RWAutoSell.Descending>Descending</RWAutoSell.Descending>
+  <RWAutoSell.Unsorted>Unsorted</RWAutoSell.Unsorted>
+  <RWAutoSell.Cloned>Cloned</RWAutoSell.Cloned>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Root</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>New Group</RWAutoSell.GroupLabel>
@@ -79,6 +84,7 @@
   <RWAutoSell.FilterTime>Time</RWAutoSell.FilterTime>
   <RWAutoSell.FilterPerish>Time until rot</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>Carrying Capacity</RWAutoSell.FilterCapacity>
+  <RWAutoSell.FilterSerum>Serum Skill</RWAutoSell.FilterSerum>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Include Sub-categories when adding a Category</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biological Years</RWAutoSell.FilterAgeBio>
