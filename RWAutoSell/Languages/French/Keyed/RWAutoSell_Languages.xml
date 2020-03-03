@@ -149,6 +149,8 @@
   <RWAutoSell.IncEqip>Inclure les articles équipés</RWAutoSell.IncEqip>  <!-- Include Equipped Items -->
   <RWAutoSell.IncInv>Inclure les articles d'inventaire</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>Autre comportement de liste de courses</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->
+  <RWAutoSell.PostFractionCheck>Vérification postérieure des fractions</RWAutoSell.PostFractionCheck>  <!-- Post checking of fractions -->
+  <RWAutoSell.NotifyZeroTrades>Avertir des transactions à valeur zéro de l'AI</RWAutoSell.NotifyZeroTrades>  <!-- Notify of AI zero valued trades -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>Règles d'importation/exportation</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Importer</RWAutoSell.Import>

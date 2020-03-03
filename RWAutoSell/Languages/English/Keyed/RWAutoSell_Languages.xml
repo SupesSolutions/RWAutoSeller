@@ -147,9 +147,11 @@
   <RWAutoSell.IncludeUnavailable>Include Unavailable Items</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Repetition</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Negotiator</RWAutoSell.Negotiator>
-  <RWAutoSell.IncEqip>Include Equipped Items</RWAutoSell.IncEqip>  <!-- new -->
-  <RWAutoSell.IncInv>Include Inventory Items</RWAutoSell.IncInv>  <!-- new -->
-  <RWAutoSell.AltShop>Alternate Shopping List Behaviour</RWAutoSell.AltShop>  <!-- new -->
+  <RWAutoSell.IncEqip>Include Equipped Items</RWAutoSell.IncEqip>
+  <RWAutoSell.IncInv>Include Inventory Items</RWAutoSell.IncInv>
+  <RWAutoSell.AltShop>Alternate Shopping List Behaviour</RWAutoSell.AltShop>
+  <RWAutoSell.PostFractionCheck>Post checking of fractions</RWAutoSell.PostFractionCheck>  <!-- new -->
+  <RWAutoSell.NotifyZeroTrades>Notify of AI zero valued trades</RWAutoSell.NotifyZeroTrades>  <!-- new -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>Import/Export Rules</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Import</RWAutoSell.Import>

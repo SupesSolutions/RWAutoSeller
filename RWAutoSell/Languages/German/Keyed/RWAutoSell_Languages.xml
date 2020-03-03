@@ -149,6 +149,8 @@
   <RWAutoSell.IncEqip>Ausgestattete Gegenstände einschließen</RWAutoSell.IncEqip>  <!-- Include Equiped Items -->
   <RWAutoSell.IncInv>Inventargegenstände einbeziehen</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>Alternatives Einkaufslistenverhalten</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->
+  <RWAutoSell.PostFractionCheck>Nachprüfung von Brüchen</RWAutoSell.PostFractionCheck>  <!-- Post checking of fractions -->
+  <RWAutoSell.NotifyZeroTrades>Benachrichtigen Sie über AI-Geschäfte mit dem Wert Null</RWAutoSell.NotifyZeroTrades>  <!-- Notify of AI zero valued trades -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>importieren/exportieren Regeln</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Einführen</RWAutoSell.Import>
