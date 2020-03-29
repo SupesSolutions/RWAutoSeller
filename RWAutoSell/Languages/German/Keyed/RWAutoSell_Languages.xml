@@ -85,6 +85,8 @@
   <RWAutoSell.FilterPerish>Zeit bis zum Verrotten</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>Tragfähigkeit</RWAutoSell.FilterCapacity>
   <RWAutoSell.FilterSerum>Serum-Fähigkeit</RWAutoSell.FilterSerum>
+  <RWAutoSell.FilterWeapon>Waffe</RWAutoSell.FilterWeapon>  <!-- Weapon -->
+  <RWAutoSell.FilterSmelt>Kann riechen</RWAutoSell.FilterSmelt>  <!-- Smeltable -->
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Beim Hinzufügen einer Kategorie Unterkategorien einbeziehen</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
@@ -123,6 +125,14 @@
   <RWAutoSell.FilterPerishDays>Tage</RWAutoSell.FilterPerishDays>
   <RWAutoSell.FilterCapacityRange>Tragfähigkeit innerhalb von {0} kg</RWAutoSell.FilterCapacityRange>
   <RWAutoSell.FilterCapacityIncNull>Schließen Sie Tiere / Bauern mit einer Kapazität von Null ein</RWAutoSell.FilterCapacityIncNull>
+  <RWAutoSell.FilterWepCkBio>Überprüfen Sie die Biokodierung</RWAutoSell.FilterWepCkBio>  <!-- Check Biocoding -->
+  <RWAutoSell.FilterWepBio>Ist biocodiert</RWAutoSell.FilterWepBio>  <!-- Is Biocoded -->
+  <RWAutoSell.FilterWepNotBio>nicht biocodiert</RWAutoSell.FilterWepNotBio>  <!-- Not Biocoded -->
+  <RWAutoSell.FilterWepCkTp>Waffentyp überprüfen</RWAutoSell.FilterWepCkTp>  <!-- Check Weapon Type -->
+  <RWAutoSell.FilterWepRanged>ist Fernkampf</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
+  <RWAutoSell.FilterWepMelee>ist Nahkampf</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
+  <RWAutoSell.FilterSmeltAny>Alles, was geschmolzen werden kann</RWAutoSell.FilterSmeltAny>  <!--Any that can be smelted-->
+  <RWAutoSell.FilterSmeltProduce>Schmelzen erzeugt Produkt</RWAutoSell.FilterSmeltProduce>  <!--Smelting produces product-->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>

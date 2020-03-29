@@ -85,6 +85,8 @@
   <RWAutoSell.FilterPerish>Time until rot</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>Carrying Capacity</RWAutoSell.FilterCapacity>
   <RWAutoSell.FilterSerum>Serum Skill</RWAutoSell.FilterSerum>
+  <RWAutoSell.FilterWeapon>Weapon</RWAutoSell.FilterWeapon>
+  <RWAutoSell.FilterSmelt>Smeltable</RWAutoSell.FilterSmelt>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Include Sub-categories when adding a Category</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biological Years</RWAutoSell.FilterAgeBio>
@@ -123,6 +125,14 @@
   <RWAutoSell.FilterPerishDays>Days</RWAutoSell.FilterPerishDays>
   <RWAutoSell.FilterCapacityRange>Carry Capacity Within {0} kg</RWAutoSell.FilterCapacityRange>
   <RWAutoSell.FilterCapacityIncNull>Include zero capacity animals/pawns</RWAutoSell.FilterCapacityIncNull>
+  <RWAutoSell.FilterWepCkBio>Check Biocoding</RWAutoSell.FilterWepCkBio>
+  <RWAutoSell.FilterWepBio>Is Biocoded</RWAutoSell.FilterWepBio>
+  <RWAutoSell.FilterWepNotBio>Not Biocoded</RWAutoSell.FilterWepNotBio>
+  <RWAutoSell.FilterWepCkTp>Check Weapon Type</RWAutoSell.FilterWepCkTp>
+  <RWAutoSell.FilterWepRanged>Is Ranged</RWAutoSell.FilterWepRanged>
+  <RWAutoSell.FilterWepMelee>Is Melee</RWAutoSell.FilterWepMelee>
+  <RWAutoSell.FilterSmeltAny>Any that can be smelted</RWAutoSell.FilterSmeltAny>
+  <RWAutoSell.FilterSmeltProduce>Smelting Produces Product</RWAutoSell.FilterSmeltProduce>
   <!-- New -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animals</RWAutoSell.TagAnimals>

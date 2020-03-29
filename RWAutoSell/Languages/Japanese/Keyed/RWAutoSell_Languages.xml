@@ -85,6 +85,8 @@
   <RWAutoSell.FilterPerish>腐敗するまでの時間</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>運搬能力</RWAutoSell.FilterCapacity>
   <RWAutoSell.FilterSerum>血清スキル</RWAutoSell.FilterSerum>
+  <RWAutoSell.FilterWeapon>武器</RWAutoSell.FilterWeapon>  <!-- Weapon -->
+  <RWAutoSell.FilterSmelt>精錬することができます</RWAutoSell.FilterSmelt>  <!-- Smeltable -->
   <!-- Filters WidgetLabels -->  
   <RWAutoSell.SubCat>カテゴリを追加するときにサブカテゴリを含める</RWAutoSell.SubCat>  <!--old text サブカテゴリを含む  / old english: Include Subcategories / current english: Include subcategories when adding a category-->
   <RWAutoSell.FilterAgeBio>生体上の年齢</RWAutoSell.FilterAgeBio>
@@ -123,6 +125,14 @@
   <RWAutoSell.FilterPerishDays>日々</RWAutoSell.FilterPerishDays>
   <RWAutoSell.FilterCapacityRange>{0}キログラム以内のキャパシティ</RWAutoSell.FilterCapacityRange>
   <RWAutoSell.FilterCapacityIncNull>容量がゼロの動物/ポーンを含める</RWAutoSell.FilterCapacityIncNull>
+  <RWAutoSell.FilterWepCkBio>バイオコーディングを確認する</RWAutoSell.FilterWepCkBio>  <!-- Check Biocoding -->
+  <RWAutoSell.FilterWepBio>バイオコードされています</RWAutoSell.FilterWepBio>  <!-- Is Biocoded -->
+  <RWAutoSell.FilterWepNotBio>バイオコードされていません</RWAutoSell.FilterWepNotBio>  <!-- Not Biocoded -->
+  <RWAutoSell.FilterWepCkTp>武器の種類を確認する</RWAutoSell.FilterWepCkTp>  <!-- Check Weapon Type -->
+  <RWAutoSell.FilterWepRanged>遠ざかる</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
+  <RWAutoSell.FilterWepMelee>乱闘です</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
+  <RWAutoSell.FilterSmeltAny>精錬できるもの</RWAutoSell.FilterSmeltAny> <!--Any that can be smelted-->
+  <RWAutoSell.FilterSmeltProduce>製錬が製品を生み出す</RWAutoSell.FilterSmeltProduce> <!--Smelting produces product-->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>動物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人間</RWAutoSell.TagPeople>

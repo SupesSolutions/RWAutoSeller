@@ -85,6 +85,8 @@
   <RWAutoSell.FilterPerish>temps jusqu'à la pourriture</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>Capacite de transport</RWAutoSell.FilterCapacity>  <!-- Carry Capacity -->
   <RWAutoSell.FilterSerum>Compétence de sérum</RWAutoSell.FilterSerum>
+  <RWAutoSell.FilterWeapon>Arme</RWAutoSell.FilterWeapon>  <!-- Weapon -->
+  <RWAutoSell.FilterSmelt>Peut fondre</RWAutoSell.FilterSmelt>  <!-- Smeltable -->
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Inclure des sous-catégories lors de l'ajout d'une catégorie</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Années biologiques</RWAutoSell.FilterAgeBio>
@@ -123,6 +125,14 @@
   <RWAutoSell.FilterPerishDays>Journées</RWAutoSell.FilterPerishDays>
   <RWAutoSell.FilterCapacityRange>Capacité de charge dans {0} kg</RWAutoSell.FilterCapacityRange>
   <RWAutoSell.FilterCapacityIncNull>Inclure des animaux / pions de capacité nulle</RWAutoSell.FilterCapacityIncNull>
+  <RWAutoSell.FilterWepCkBio>vérifier le biocodage</RWAutoSell.FilterWepCkBio>  <!-- Check Biocoding -->
+  <RWAutoSell.FilterWepBio>est biocodé</RWAutoSell.FilterWepBio>  <!-- Is Biocoded -->
+  <RWAutoSell.FilterWepNotBio>non biocodé</RWAutoSell.FilterWepNotBio>  <!-- Not Biocoded -->
+  <RWAutoSell.FilterWepCkTp>vérifier le type d'arme</RWAutoSell.FilterWepCkTp>  <!-- Check Weapon Type -->
+  <RWAutoSell.FilterWepRanged>est à distance</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
+  <RWAutoSell.FilterWepMelee>est en mêlée</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
+  <RWAutoSell.FilterSmeltAny>Tout ce qui peut être fondu</RWAutoSell.FilterSmeltAny>  <!--Any that can be smelted-->
+  <RWAutoSell.FilterSmeltProduce>La fusion produit un produit</RWAutoSell.FilterSmeltProduce>  <!--Smelting produces product-->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animaux</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Gens</RWAutoSell.TagPeople>

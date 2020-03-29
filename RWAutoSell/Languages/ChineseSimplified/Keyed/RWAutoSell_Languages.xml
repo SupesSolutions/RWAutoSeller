@@ -85,6 +85,8 @@
   <RWAutoSell.FilterPerish>时间直到腐烂</RWAutoSell.FilterPerish>
   <RWAutoSell.FilterCapacity>承载能力</RWAutoSell.FilterCapacity> <!-- Carry Capacity -->
   <RWAutoSell.FilterSerum>血清技能</RWAutoSell.FilterSerum>
+  <RWAutoSell.FilterWeapon>武器</RWAutoSell.FilterWeapon>  <!-- Weapon -->
+  <RWAutoSell.FilterSmelt>可以闻到</RWAutoSell.FilterSmelt> <!-- Smeltable -->
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>添加分类时包括子分类</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>生物年龄</RWAutoSell.FilterAgeBio>
@@ -123,6 +125,14 @@
   <RWAutoSell.FilterPerishDays>天</RWAutoSell.FilterPerishDays>
   <RWAutoSell.FilterCapacityRange>承载容量在{0}千克内</RWAutoSell.FilterCapacityRange>
   <RWAutoSell.FilterCapacityIncNull>包括零容量动物/兵</RWAutoSell.FilterCapacityIncNull>
+  <RWAutoSell.FilterWepCkBio>检查生物密码</RWAutoSell.FilterWepCkBio> <!-- Check Biocoding -->
+  <RWAutoSell.FilterWepBio>被生物编码</RWAutoSell.FilterWepBio> <!-- Is Biocoded -->
+  <RWAutoSell.FilterWepNotBio>未经生物编码</RWAutoSell.FilterWepNotBio> <!-- Not Biocoded -->
+  <RWAutoSell.FilterWepCkTp>检查武器类型</RWAutoSell.FilterWepCkTp> <!-- Check Weapon Type -->
+  <RWAutoSell.FilterWepRanged>范围</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
+  <RWAutoSell.FilterWepMelee>近战</RWAutoSell.FilterWepMelee> <!-- Is Melee -->
+  <RWAutoSell.FilterSmeltAny>任何可以冶炼的</RWAutoSell.FilterSmeltAny>  <!-- any that can be smelted -->
+  <RWAutoSell.FilterSmeltProduce>冶炼产品</RWAutoSell.FilterSmeltProduce>  <!-- Smelting Produces Product -->
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>动物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人类</RWAutoSell.TagPeople>
