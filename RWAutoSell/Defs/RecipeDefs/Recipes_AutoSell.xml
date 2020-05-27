@@ -6,7 +6,7 @@
     <label>make shopping list</label>
     <description>Create a Shopping List that can be carried.</description>
     <jobString>Making Shopping List.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>WorkSpeedGlobal</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <allowMixingIngredients>true</allowMixingIngredients>
@@ -45,7 +45,7 @@
     <label>recycle shopping list</label>
     <description>shred an old Shopping List to regain some of its resources.</description>
     <jobString>Recycling Shopping List.</jobString>
-    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workSpeedStat>WorkSpeedGlobal</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <allowMixingIngredients>true</allowMixingIngredients>

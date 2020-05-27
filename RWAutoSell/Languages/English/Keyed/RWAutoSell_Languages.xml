@@ -5,6 +5,11 @@
   <RWAutoSell.AutoSellButton>Auto Sell</RWAutoSell.AutoSellButton>
   <RWAutoSell.Undo>Undo</RWAutoSell.Undo> <!--Undo-->
   <RWAutoSell.Redo>Redo</RWAutoSell.Redo> <!--Redo-->
+  <RWAutoSell.SelectSorter>Sort By: {0}</RWAutoSell.SelectSorter>
+  <RWAutoSell.Ascending>Ascending</RWAutoSell.Ascending>
+  <RWAutoSell.Descending>Descending</RWAutoSell.Descending>
+  <RWAutoSell.Unsorted>Unsorted</RWAutoSell.Unsorted>
+  <RWAutoSell.Cloned>Cloned</RWAutoSell.Cloned>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Root</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>New Group</RWAutoSell.GroupLabel>
@@ -40,6 +45,7 @@
   <RWAutoSell.PasteGroup>Paste Group</RWAutoSell.PasteGroup>
   <RWAutoSell.OperatorOr>Change Group Operator to OR</RWAutoSell.OperatorOr>
   <RWAutoSell.OperatorAnd>Change Group Operator to AND</RWAutoSell.OperatorAnd>
+  <RWAutoSell.OperatorXor>Change Group Operator to XOR</RWAutoSell.OperatorXor>
   <RWAutoSell.TogActive>Toggle Active</RWAutoSell.TogActive>
   <RWAutoSell.TogInactive>Toggle Inactive</RWAutoSell.TogInactive>
   <RWAutoSell.TogNegateOff>Toggle Negate Off</RWAutoSell.TogNegateOff>
@@ -74,7 +80,13 @@
   <RWAutoSell.FilterWorkTag>Work Capable</RWAutoSell.FilterWorkTag>
   <RWAutoSell.FilterSkill>Skill Level</RWAutoSell.FilterSkill>
   <RWAutoSell.FilterStatistics>Statistic</RWAutoSell.FilterStatistics>
-  <RWAutoSell.FilterAnimal>Animal</RWAutoSell.FilterAnimal>  
+  <RWAutoSell.FilterAnimal>Animal</RWAutoSell.FilterAnimal>
+  <RWAutoSell.FilterTime>Time</RWAutoSell.FilterTime>
+  <RWAutoSell.FilterPerish>Time until rot</RWAutoSell.FilterPerish>
+  <RWAutoSell.FilterCapacity>Carrying Capacity</RWAutoSell.FilterCapacity>
+  <RWAutoSell.FilterSerum>Serum Skill</RWAutoSell.FilterSerum>
+  <RWAutoSell.FilterWeapon>Weapon</RWAutoSell.FilterWeapon>
+  <RWAutoSell.FilterSmelt>Smeltable</RWAutoSell.FilterSmelt>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Include Sub-categories when adding a Category</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biological Years</RWAutoSell.FilterAgeBio>
@@ -104,8 +116,29 @@
   <RWAutoSell.FilterPregnant>Check Pregnancy</RWAutoSell.FilterPregnant>
   <RWAutoSell.FilterIntelligence>Minimum Intelligence</RWAutoSell.FilterIntelligence>
   <RWAutoSell.FilterTraining>Has Training</RWAutoSell.FilterTraining>
-  <RWAutoSell.FilterLowRowDef>Row Def</RWAutoSell.FilterLowRowDef>        <!-- new -->
-  <RWAutoSell.FilterLowSpecDef>Specific Def</RWAutoSell.FilterLowSpecDef> <!-- new -->
+  <RWAutoSell.FilterLowRowDef>Row Def</RWAutoSell.FilterLowRowDef>
+  <RWAutoSell.FilterLowSpecDef>Specific Def</RWAutoSell.FilterLowSpecDef>
+  <RWAutoSell.FilterLowIncEqip>Include Equipment and Inventories</RWAutoSell.FilterLowIncEqip>
+  <RWAutoSell.FilterTimeTip>Use Left Mouse to activate, Use Right Mouse to deactivate</RWAutoSell.FilterTimeTip>
+  <RWAutoSell.FilterPerishIgnRfg>Ignore Temperature/Refrigeration</RWAutoSell.FilterPerishIgnRfg> <!-- New -->
+  <RWAutoSell.FilterPerishHours>Hours</RWAutoSell.FilterPerishHours>
+  <RWAutoSell.FilterPerishDays>Days</RWAutoSell.FilterPerishDays>
+  <RWAutoSell.FilterCapacityRange>Carry Capacity Within {0} kg</RWAutoSell.FilterCapacityRange>
+  <RWAutoSell.FilterCapacityIncNull>Include zero capacity animals/pawns</RWAutoSell.FilterCapacityIncNull>
+  <RWAutoSell.FilterWepCkBio>Check Biocoding</RWAutoSell.FilterWepCkBio>
+  <RWAutoSell.FilterWepBio>Is Biocoded</RWAutoSell.FilterWepBio>
+  <RWAutoSell.FilterWepNotBio>Not Biocoded</RWAutoSell.FilterWepNotBio>
+  <RWAutoSell.FilterWepCkTp>Check Weapon Type</RWAutoSell.FilterWepCkTp>
+  <RWAutoSell.FilterWepRanged>Is Ranged</RWAutoSell.FilterWepRanged>
+  <RWAutoSell.FilterWepMelee>Is Melee</RWAutoSell.FilterWepMelee>
+  <RWAutoSell.FilterSmeltAny>Any that can be smelted</RWAutoSell.FilterSmeltAny>
+  <RWAutoSell.FilterSmeltProduce>Smelting Produces Product</RWAutoSell.FilterSmeltProduce>
+  
+  <RWAutoSell.FilterSkillHas>Has selected skill</RWAutoSell.FilterSkillHas>
+  <RWAutoSell.FilterSkillHasNull>Has selected skill but no interest</RWAutoSell.FilterSkillHasNull>
+  <RWAutoSell.FilterSkillHasMinor>Has selected skill with some interest</RWAutoSell.FilterSkillHasMinor>
+  <RWAutoSell.FilterSkillHasMajor>Has selected skill with passionate interest</RWAutoSell.FilterSkillHasMajor>
+  
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animals</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>People</RWAutoSell.TagPeople>
@@ -129,10 +162,24 @@
   <RWAutoSell.IncludeUnavailable>Include Unavailable Items</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Repetition</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Negotiator</RWAutoSell.Negotiator>
+  <RWAutoSell.IncEqip>Include Equipped Items</RWAutoSell.IncEqip>
+  <RWAutoSell.IncInv>Include Inventory Items</RWAutoSell.IncInv>
+  <RWAutoSell.AltShop>Alternate Shopping List Behaviour</RWAutoSell.AltShop>
+  <RWAutoSell.PostFractionCheck>Post checking of fractions</RWAutoSell.PostFractionCheck>  <!-- new -->
+  <RWAutoSell.NotifyZeroTrades>Notify of AI zero valued trades</RWAutoSell.NotifyZeroTrades>  <!-- new -->
+  <RWAutoSell.NotifyTrades>Notify of AI trades</RWAutoSell.NotifyTrades>
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>Import/Export Rules</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Import</RWAutoSell.Import>
-    
+  <!-- Merger Control -->
+  <RWAutoSell.MergeControl>Merge Control</RWAutoSell.MergeControl>
+  <RWAutoSell.MergeControlDesc>Here you can enable more conditions for how items are merged.  This can allow the use of filters that would normally not be possible due to the way rimworld merges rows.</RWAutoSell.MergeControlDesc>
+  
+  <RWAutoSell.MergerRequired>Merge Controller Required</RWAutoSell.MergerRequired>
+  <RWAutoSell.MergerRequiredDesc>The {0} merge controller is required for the {1} filter, click accept to enable the required merge controller (merge controllers can be enabled/disabled at anytime by going into trading behavior)</RWAutoSell.MergerRequiredDesc>
+  <!-- Mergers -->
+  <RWAutoSell.MergerPerishables>Perishables</RWAutoSell.MergerPerishables>
+  
   <!-- Misc -->  
   <!--Report Label Order
   0 = Negotiator
@@ -155,4 +202,6 @@
   <RWAutoSell.AdvancedMenu>Advanced Rule Options</RWAutoSell.AdvancedMenu>  <!-- new -->
   <RWAutoSell.Chain>Chain Rule</RWAutoSell.Chain>  <!-- new -->
   <RWAutoSell.ChainDesc>A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule.</RWAutoSell.ChainDesc>  <!-- new -->
+
+
 </LanguageData>

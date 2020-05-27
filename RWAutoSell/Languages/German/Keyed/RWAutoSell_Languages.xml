@@ -5,6 +5,11 @@
   <RWAutoSell.AutoSellButton>Auto Verkaufen</RWAutoSell.AutoSellButton>
   <RWAutoSell.Undo>Rückgängig machen</RWAutoSell.Undo>  <!--Undo-->
   <RWAutoSell.Redo>Wiederholen</RWAutoSell.Redo>  <!--Redo-->
+  <RWAutoSell.SelectSorter>Sortiere nach: {0}</RWAutoSell.SelectSorter>
+  <RWAutoSell.Ascending>Aufsteigend</RWAutoSell.Ascending>
+  <RWAutoSell.Descending>Absteigend</RWAutoSell.Descending>
+  <RWAutoSell.Unsorted>Unsortiert</RWAutoSell.Unsorted>
+  <RWAutoSell.Cloned>Geklont</RWAutoSell.Cloned>
   <!-- Rule Data Strings -->
   <RWAutoSell.RootLabel>Wurzel</RWAutoSell.RootLabel>
   <RWAutoSell.GroupLabel>Neue Gruppe</RWAutoSell.GroupLabel>
@@ -39,7 +44,8 @@
   <RWAutoSell.CopyGroup>Gruppe kopieren</RWAutoSell.CopyGroup>
   <RWAutoSell.PasteGroup>Gruppe einfügen</RWAutoSell.PasteGroup>
   <RWAutoSell.OperatorOr>Ändern Sie den Gruppenoperator in OR</RWAutoSell.OperatorOr>
-  <RWAutoSell.OperatorAnd>Ändern Sie den Gruppenoperator in AND</RWAutoSell.OperatorAnd>  
+  <RWAutoSell.OperatorAnd>Ändern Sie den Gruppenoperator in AND</RWAutoSell.OperatorAnd>
+  <RWAutoSell.OperatorXor>Ändern Sie den Gruppenoperator in XOR</RWAutoSell.OperatorXor>
   <RWAutoSell.TogActive>Aktiv schalten</RWAutoSell.TogActive>
   <RWAutoSell.TogInactive>Inaktiv schalten</RWAutoSell.TogInactive>
   <RWAutoSell.TogNegateOff>Toggle Negate Aus</RWAutoSell.TogNegateOff>
@@ -75,6 +81,12 @@
   <RWAutoSell.FilterSkill>Fähigkeits Level</RWAutoSell.FilterSkill>
   <RWAutoSell.FilterStatistics>Statistik</RWAutoSell.FilterStatistics>
   <RWAutoSell.FilterAnimal>Tier</RWAutoSell.FilterAnimal>
+  <RWAutoSell.FilterTime>Zeit</RWAutoSell.FilterTime>  <!-- Time -->
+  <RWAutoSell.FilterPerish>Zeit bis zum Verrotten</RWAutoSell.FilterPerish>
+  <RWAutoSell.FilterCapacity>Tragfähigkeit</RWAutoSell.FilterCapacity>
+  <RWAutoSell.FilterSerum>Serum-Fähigkeit</RWAutoSell.FilterSerum>
+  <RWAutoSell.FilterWeapon>Waffe</RWAutoSell.FilterWeapon>  <!-- Weapon -->
+  <RWAutoSell.FilterSmelt>Kann riechen</RWAutoSell.FilterSmelt>  <!-- Smeltable -->
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Beim Hinzufügen einer Kategorie Unterkategorien einbeziehen</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
@@ -106,6 +118,27 @@
   <RWAutoSell.FilterTraining>Hat Training</RWAutoSell.FilterTraining>
   <RWAutoSell.FilterLowRowDef>Row Def</RWAutoSell.FilterLowRowDef>  <!-- Row Def -->
   <RWAutoSell.FilterLowSpecDef>Spezifische Def</RWAutoSell.FilterLowSpecDef>  <!-- Specific Def -->
+  <RWAutoSell.FilterLowIncEqip>Ausrüstung und Inventar einschließen</RWAutoSell.FilterLowIncEqip>  <!-- Include equipment and inventory -->
+  <RWAutoSell.FilterTimeTip>Zum Aktivieren die linke Maustaste verwenden, zum Deaktivieren die rechte Maustaste verwenden</RWAutoSell.FilterTimeTip>  <!-- Use Left Mouse to activate, Use Right Mouse to deactivate -->
+  <RWAutoSell.FilterPerishIgnRfg>Temperatur / Kühlung ignorieren</RWAutoSell.FilterPerishIgnRfg>  <!-- Ignore Temperature/Refrigeration -->
+  <RWAutoSell.FilterPerishHours>Std</RWAutoSell.FilterPerishHours>
+  <RWAutoSell.FilterPerishDays>Tage</RWAutoSell.FilterPerishDays>
+  <RWAutoSell.FilterCapacityRange>Tragfähigkeit innerhalb von {0} kg</RWAutoSell.FilterCapacityRange>
+  <RWAutoSell.FilterCapacityIncNull>Schließen Sie Tiere / Bauern mit einer Kapazität von Null ein</RWAutoSell.FilterCapacityIncNull>
+  <RWAutoSell.FilterWepCkBio>Überprüfen Sie die Biokodierung</RWAutoSell.FilterWepCkBio>  <!-- Check Biocoding -->
+  <RWAutoSell.FilterWepBio>Ist biocodiert</RWAutoSell.FilterWepBio>  <!-- Is Biocoded -->
+  <RWAutoSell.FilterWepNotBio>nicht biocodiert</RWAutoSell.FilterWepNotBio>  <!-- Not Biocoded -->
+  <RWAutoSell.FilterWepCkTp>Waffentyp überprüfen</RWAutoSell.FilterWepCkTp>  <!-- Check Weapon Type -->
+  <RWAutoSell.FilterWepRanged>ist Fernkampf</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
+  <RWAutoSell.FilterWepMelee>ist Nahkampf</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
+  <RWAutoSell.FilterSmeltAny>Alles, was geschmolzen werden kann</RWAutoSell.FilterSmeltAny>  <!--Any that can be smelted-->
+  <RWAutoSell.FilterSmeltProduce>Schmelzen erzeugt Produkt</RWAutoSell.FilterSmeltProduce>  <!--Smelting produces product-->
+  
+  <RWAutoSell.FilterSkillHas>Hat Fähigkeit ausgewählt</RWAutoSell.FilterSkillHas>
+  <RWAutoSell.FilterSkillHasNull>Hat ausgewählte Fähigkeiten, aber kein Interesse</RWAutoSell.FilterSkillHasNull>
+  <RWAutoSell.FilterSkillHasMinor>Hat Fähigkeiten mit einigem Interesse ausgewählt</RWAutoSell.FilterSkillHasMinor>
+  <RWAutoSell.FilterSkillHasMajor>Hat Fähigkeiten mit leidenschaftlichem Interesse ausgewählt</RWAutoSell.FilterSkillHasMajor>
+  
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>
@@ -129,9 +162,23 @@
   <RWAutoSell.IncludeUnavailable>Nicht verfügbare Elemente einschließen</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Wiederholung</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Unterhändler</RWAutoSell.Negotiator>
+  <RWAutoSell.IncEqip>Ausgestattete Gegenstände einschließen</RWAutoSell.IncEqip>  <!-- Include Equiped Items -->
+  <RWAutoSell.IncInv>Inventargegenstände einbeziehen</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
+  <RWAutoSell.AltShop>Alternatives Einkaufslistenverhalten</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->
+  <RWAutoSell.PostFractionCheck>Nachprüfung von Brüchen</RWAutoSell.PostFractionCheck>  <!-- Post checking of fractions -->
+  <RWAutoSell.NotifyZeroTrades>Benachrichtigen Sie über AI-Geschäfte mit dem Wert Null</RWAutoSell.NotifyZeroTrades>  <!-- Notify of AI zero valued trades -->
+  <RWAutoSell.NotifyTrades>Benachrichtigen Sie über KI-Trades</RWAutoSell.NotifyTrades>  <!-- Notify of AI trades -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>importieren/exportieren Regeln</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Einführen</RWAutoSell.Import>
+  <!-- Merger Control -->
+  <RWAutoSell.MergeControl>Steuerung zusammenführen</RWAutoSell.MergeControl>
+  <RWAutoSell.MergeControlDesc>Hier können Sie weitere Bedingungen für das Zusammenführen von Elementen aktivieren. Dies kann die Verwendung von Filtern ermöglichen, die normalerweise aufgrund der Art und Weise, wie rimworld Zeilen zusammenfügt, nicht möglich sind.</RWAutoSell.MergeControlDesc>
+
+  <RWAutoSell.MergerRequired>Zusammenführungscontroller erforderlich</RWAutoSell.MergerRequired>
+  <RWAutoSell.MergerRequiredDesc>Der {0} Merge-Controller ist für den {1} -Filter erforderlich. Klicken Sie auf Akzeptieren, um den erforderlichen Merge-Controller zu aktivieren.</RWAutoSell.MergerRequiredDesc>
+  <!-- Mergers -->
+  <RWAutoSell.MergerPerishables>Verderbliche Güter</RWAutoSell.MergerPerishables>
   
   <!-- Misc -->  
   <!--Report Label Order
