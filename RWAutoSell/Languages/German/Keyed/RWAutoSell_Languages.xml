@@ -162,6 +162,9 @@
   <RWAutoSell.IncludeUnavailable>Nicht verfügbare Elemente einschließen</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Wiederholung</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Unterhändler</RWAutoSell.Negotiator>
+  <RWAutoSell.Prefered>(P) Bevorzugter Verhandlungsführer</RWAutoSell.Prefered>
+  <RWAutoSell.WardenSet>(W) Ist Warden</RWAutoSell.WardenSet>
+  <RWAutoSell.HasPermits>(T) Hat Titelgenehmigungen</RWAutoSell.HasPermits>
   <RWAutoSell.IncEqip>Ausgestattete Gegenstände einschließen</RWAutoSell.IncEqip>  <!-- Include Equiped Items -->
   <RWAutoSell.IncInv>Inventargegenstände einbeziehen</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>Alternatives Einkaufslistenverhalten</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->

@@ -162,6 +162,9 @@
   <RWAutoSell.IncludeUnavailable>Include Unavailable Items</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Repetition</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Negotiator</RWAutoSell.Negotiator>
+  <RWAutoSell.Prefered>(P) Preferred Negotiator</RWAutoSell.Prefered>
+  <RWAutoSell.WardenSet>(W) Is Warden</RWAutoSell.WardenSet>
+  <RWAutoSell.HasPermits>(T) Has Title Permits</RWAutoSell.HasPermits>
   <RWAutoSell.IncEqip>Include Equipped Items</RWAutoSell.IncEqip>
   <RWAutoSell.IncInv>Include Inventory Items</RWAutoSell.IncInv>
   <RWAutoSell.AltShop>Alternate Shopping List Behaviour</RWAutoSell.AltShop>

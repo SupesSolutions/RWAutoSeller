@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <WorkGiverDef>
+    <defName>ASBargain</defName>
+	  <label>bargain with trader</label>
+    <giverClass>RWAutoSell.AI.ASWorkGiver_Bargain</giverClass>
+    <workType>Warden</workType>
+	  <priorityInType>80</priorityInType>
+    <verb>bargain</verb>
+    <gerund>bargaining</gerund>
+    <requiredCapacities>
+	  <li>Talking</li>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>ASPawnBargain</defName>
+	  <label>bargain with trader</label>
+    <giverClass>RWAutoSell.AI.ASWorkGiver_PawnBargain</giverClass>
+    <workType>Warden</workType>
+	  <priorityInType>40</priorityInType>
+    <verb>bargain</verb>
+    <gerund>bargaining</gerund>
+    <requiredCapacities>
+	  <li>Talking</li>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+    <WorkGiverDef>
+    <defName>ASDoBillsShoppingLists</defName>
+    <label>create shopping lists at trading printer</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <priorityInType>95</priorityInType>
+    <fixedBillGiverDefs>
+      <li>ASReportsPrinter</li>
+	  <li>ASReportsLog</li>
+    </fixedBillGiverDefs>
+    <verb>print</verb>
+    <gerund>printing</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+</Defs>
