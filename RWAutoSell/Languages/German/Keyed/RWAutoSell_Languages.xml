@@ -133,6 +133,12 @@
   <RWAutoSell.FilterWepMelee>ist Nahkampf</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
   <RWAutoSell.FilterSmeltAny>Alles, was geschmolzen werden kann</RWAutoSell.FilterSmeltAny>  <!--Any that can be smelted-->
   <RWAutoSell.FilterSmeltProduce>Schmelzen erzeugt Produkt</RWAutoSell.FilterSmeltProduce>  <!--Smelting produces product-->
+  
+  <RWAutoSell.FilterSkillHas>Hat Fähigkeit ausgewählt</RWAutoSell.FilterSkillHas>
+  <RWAutoSell.FilterSkillHasNull>Hat ausgewählte Fähigkeiten, aber kein Interesse</RWAutoSell.FilterSkillHasNull>
+  <RWAutoSell.FilterSkillHasMinor>Hat Fähigkeiten mit einigem Interesse ausgewählt</RWAutoSell.FilterSkillHasMinor>
+  <RWAutoSell.FilterSkillHasMajor>Hat Fähigkeiten mit leidenschaftlichem Interesse ausgewählt</RWAutoSell.FilterSkillHasMajor>
+  
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Menschen</RWAutoSell.TagPeople>
@@ -156,11 +162,15 @@
   <RWAutoSell.IncludeUnavailable>Nicht verfügbare Elemente einschließen</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Wiederholung</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Unterhändler</RWAutoSell.Negotiator>
+  <RWAutoSell.Prefered>(P) Bevorzugter Verhandlungsführer</RWAutoSell.Prefered>
+  <RWAutoSell.WardenSet>(W) Ist Warden</RWAutoSell.WardenSet>
+  <RWAutoSell.HasPermits>(T) Hat Titelgenehmigungen</RWAutoSell.HasPermits>
   <RWAutoSell.IncEqip>Ausgestattete Gegenstände einschließen</RWAutoSell.IncEqip>  <!-- Include Equiped Items -->
   <RWAutoSell.IncInv>Inventargegenstände einbeziehen</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>Alternatives Einkaufslistenverhalten</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->
   <RWAutoSell.PostFractionCheck>Nachprüfung von Brüchen</RWAutoSell.PostFractionCheck>  <!-- Post checking of fractions -->
   <RWAutoSell.NotifyZeroTrades>Benachrichtigen Sie über AI-Geschäfte mit dem Wert Null</RWAutoSell.NotifyZeroTrades>  <!-- Notify of AI zero valued trades -->
+  <RWAutoSell.NotifyTrades>Benachrichtigen Sie über KI-Trades</RWAutoSell.NotifyTrades>  <!-- Notify of AI trades -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>importieren/exportieren Regeln</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Einführen</RWAutoSell.Import>

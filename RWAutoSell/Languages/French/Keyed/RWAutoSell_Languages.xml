@@ -133,6 +133,12 @@
   <RWAutoSell.FilterWepMelee>est en mêlée</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
   <RWAutoSell.FilterSmeltAny>Tout ce qui peut être fondu</RWAutoSell.FilterSmeltAny>  <!--Any that can be smelted-->
   <RWAutoSell.FilterSmeltProduce>La fusion produit un produit</RWAutoSell.FilterSmeltProduce>  <!--Smelting produces product-->
+  
+  <RWAutoSell.FilterSkillHas>Possède une compétence sélectionnée</RWAutoSell.FilterSkillHas>
+  <RWAutoSell.FilterSkillHasNull>Possède une compétence sélectionnée mais aucun intérêt</RWAutoSell.FilterSkillHasNull>
+  <RWAutoSell.FilterSkillHasMinor>A sélectionné une compétence avec un certain intérêt</RWAutoSell.FilterSkillHasMinor>
+  <RWAutoSell.FilterSkillHasMajor>Possède une compétence sélectionnée avec un intérêt passionné</RWAutoSell.FilterSkillHasMajor>
+  
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animaux</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>Gens</RWAutoSell.TagPeople>
@@ -156,11 +162,15 @@
   <RWAutoSell.IncludeUnavailable>Inclure les éléments non disponibles</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Répétition</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Négociateur</RWAutoSell.Negotiator>
+  <RWAutoSell.Prefered>(P) Négociateur préféré</RWAutoSell.Prefered>
+  <RWAutoSell.WardenSet>(W) Est le directeur</RWAutoSell.WardenSet>
+  <RWAutoSell.HasPermits>(T) Possède des permis de titre</RWAutoSell.HasPermits>
   <RWAutoSell.IncEqip>Inclure les articles équipés</RWAutoSell.IncEqip>  <!-- Include Equipped Items -->
   <RWAutoSell.IncInv>Inclure les articles d'inventaire</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>Autre comportement de liste de courses</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->
   <RWAutoSell.PostFractionCheck>Vérification postérieure des fractions</RWAutoSell.PostFractionCheck>  <!-- Post checking of fractions -->
   <RWAutoSell.NotifyZeroTrades>Avertir des transactions à valeur zéro de l'AI</RWAutoSell.NotifyZeroTrades>  <!-- Notify of AI zero valued trades -->
+  <RWAutoSell.NotifyTrades>Informer des métiers de l'AI</RWAutoSell.NotifyTrades>  <!-- Notify of AI trades -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>Règles d'importation/exportation</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Importer</RWAutoSell.Import>

@@ -133,7 +133,12 @@
   <RWAutoSell.FilterWepMelee>Is Melee</RWAutoSell.FilterWepMelee>
   <RWAutoSell.FilterSmeltAny>Any that can be smelted</RWAutoSell.FilterSmeltAny>
   <RWAutoSell.FilterSmeltProduce>Smelting Produces Product</RWAutoSell.FilterSmeltProduce>
-  <!-- New -->
+  
+  <RWAutoSell.FilterSkillHas>Has selected skill</RWAutoSell.FilterSkillHas>
+  <RWAutoSell.FilterSkillHasNull>Has selected skill but no interest</RWAutoSell.FilterSkillHasNull>
+  <RWAutoSell.FilterSkillHasMinor>Has selected skill with some interest</RWAutoSell.FilterSkillHasMinor>
+  <RWAutoSell.FilterSkillHasMajor>Has selected skill with passionate interest</RWAutoSell.FilterSkillHasMajor>
+  
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animals</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>People</RWAutoSell.TagPeople>
@@ -157,11 +162,15 @@
   <RWAutoSell.IncludeUnavailable>Include Unavailable Items</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>Repetition</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>Negotiator</RWAutoSell.Negotiator>
+  <RWAutoSell.Prefered>(P) Preferred Negotiator</RWAutoSell.Prefered>
+  <RWAutoSell.WardenSet>(W) Is Warden</RWAutoSell.WardenSet>
+  <RWAutoSell.HasPermits>(T) Has Title Permits</RWAutoSell.HasPermits>
   <RWAutoSell.IncEqip>Include Equipped Items</RWAutoSell.IncEqip>
   <RWAutoSell.IncInv>Include Inventory Items</RWAutoSell.IncInv>
   <RWAutoSell.AltShop>Alternate Shopping List Behaviour</RWAutoSell.AltShop>
   <RWAutoSell.PostFractionCheck>Post checking of fractions</RWAutoSell.PostFractionCheck>  <!-- new -->
   <RWAutoSell.NotifyZeroTrades>Notify of AI zero valued trades</RWAutoSell.NotifyZeroTrades>  <!-- new -->
+  <RWAutoSell.NotifyTrades>Notify of AI trades</RWAutoSell.NotifyTrades>
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>Import/Export Rules</RWAutoSell.ImportRules>
   <RWAutoSell.Import>Import</RWAutoSell.Import>

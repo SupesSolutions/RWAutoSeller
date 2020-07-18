@@ -133,6 +133,12 @@
   <RWAutoSell.FilterWepMelee>近战</RWAutoSell.FilterWepMelee> <!-- Is Melee -->
   <RWAutoSell.FilterSmeltAny>任何可以冶炼的</RWAutoSell.FilterSmeltAny>  <!-- any that can be smelted -->
   <RWAutoSell.FilterSmeltProduce>冶炼产品</RWAutoSell.FilterSmeltProduce>  <!-- Smelting Produces Product -->
+  
+  <RWAutoSell.FilterSkillHas>选择了技能</RWAutoSell.FilterSkillHas>
+  <RWAutoSell.FilterSkillHasNull>有选择的技能，但没有兴趣</RWAutoSell.FilterSkillHasNull>
+  <RWAutoSell.FilterSkillHasMinor>有兴趣地选择了技能</RWAutoSell.FilterSkillHasMinor>
+  <RWAutoSell.FilterSkillHasMajor>选择了充满热情的技能</RWAutoSell.FilterSkillHasMajor>
+  
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>动物</RWAutoSell.TagAnimals>
   <RWAutoSell.TagPeople>人类</RWAutoSell.TagPeople>
@@ -156,11 +162,15 @@
   <RWAutoSell.IncludeUnavailable>包括不可用物品</RWAutoSell.IncludeUnavailable>
   <RWAutoSell.Repitition>重复</RWAutoSell.Repitition>
   <RWAutoSell.Negotiator>谈判者</RWAutoSell.Negotiator>
+  <RWAutoSell.Prefered>(P) 首选谈判代表</RWAutoSell.Prefered>
+  <RWAutoSell.WardenSet>(W) 是监狱长</RWAutoSell.WardenSet>
+  <RWAutoSell.HasPermits>(T) 有产权证</RWAutoSell.HasPermits>
   <RWAutoSell.IncEqip>包括设备</RWAutoSell.IncEqip>  <!-- Include Equipped Items -->
   <RWAutoSell.IncInv>包括持有的物品</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>备用购物清单行为</RWAutoSell.AltShop>    <!-- Alternate Shopping List Behaviour -->
   <RWAutoSell.PostFractionCheck>分数后检查</RWAutoSell.PostFractionCheck>  <!-- Post checking of fractions -->
   <RWAutoSell.NotifyZeroTrades>通知人工智能零值交易</RWAutoSell.NotifyZeroTrades>  <!-- Notify of AI zero valued trades -->
+  <RWAutoSell.NotifyTrades>通知人工智能交易</RWAutoSell.NotifyTrades>  <!-- Notify of AI trades -->
   <!-- new -->
   <!-- Import Dialog -->
   <RWAutoSell.ImportRules>导入/导出规则</RWAutoSell.ImportRules>
