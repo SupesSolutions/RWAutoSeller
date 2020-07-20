@@ -164,7 +164,8 @@
   <RWAutoSell.Negotiator>交渉者</RWAutoSell.Negotiator>
   <RWAutoSell.Prefered>(P) 優先交渉者</RWAutoSell.Prefered> <!-- Preferred Negotiator-->
   <RWAutoSell.WardenSet>(W) 監視員です</RWAutoSell.WardenSet> <!-- Is Warden -->
-  <RWAutoSell.HasPermits>(T) タイトル許可あり</RWAutoSell.HasPermits> <!-- Has Title Permits -->  
+  <RWAutoSell.HasPermits>(T) タイトル許可あり</RWAutoSell.HasPermits> <!-- Has Title Permits -->
+  <RWAutoSell.NeedsPermit>船での取引はできません。許可が必要です。</RWAutoSell.NeedsPermit> <!-- Cannot Trade with Ship, Permit Required. -->
   <RWAutoSell.IncEqip>装備品を含める</RWAutoSell.IncEqip>  <!-- Include Equiped Items -->
   <RWAutoSell.IncInv>在庫品目を含める</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>別の買い物リストの動作</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->

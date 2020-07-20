@@ -165,6 +165,7 @@
   <RWAutoSell.Prefered>(P) Bevorzugter Verhandlungsführer</RWAutoSell.Prefered>
   <RWAutoSell.WardenSet>(W) Ist Warden</RWAutoSell.WardenSet>
   <RWAutoSell.HasPermits>(T) Hat Titelgenehmigungen</RWAutoSell.HasPermits>
+  <RWAutoSell.NeedsPermit>Kann nicht mit Schiff handeln, Erlaubnis erforderlich.</RWAutoSell.NeedsPermit>
   <RWAutoSell.IncEqip>Ausgestattete Gegenstände einschließen</RWAutoSell.IncEqip>  <!-- Include Equiped Items -->
   <RWAutoSell.IncInv>Inventargegenstände einbeziehen</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>Alternatives Einkaufslistenverhalten</RWAutoSell.AltShop>  <!-- Alternate Shopping List Behaviour -->

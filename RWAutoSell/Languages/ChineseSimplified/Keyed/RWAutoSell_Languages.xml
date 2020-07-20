@@ -165,6 +165,7 @@
   <RWAutoSell.Prefered>(P) 首选谈判代表</RWAutoSell.Prefered>
   <RWAutoSell.WardenSet>(W) 是监狱长</RWAutoSell.WardenSet>
   <RWAutoSell.HasPermits>(T) 有产权证</RWAutoSell.HasPermits>
+  <RWAutoSell.NeedsPermit>无法与船舶交易，需要许可证。</RWAutoSell.NeedsPermit>
   <RWAutoSell.IncEqip>包括设备</RWAutoSell.IncEqip>  <!-- Include Equipped Items -->
   <RWAutoSell.IncInv>包括持有的物品</RWAutoSell.IncInv>  <!-- Include Inventory Items -->
   <RWAutoSell.AltShop>备用购物清单行为</RWAutoSell.AltShop>    <!-- Alternate Shopping List Behaviour -->
