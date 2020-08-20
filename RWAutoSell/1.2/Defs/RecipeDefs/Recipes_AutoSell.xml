@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef>
+    <defName>ASMakeShoppingList</defName>
+    <label>make shopping list</label>
+    <description>Create a Shopping List that can be carried.</description>
+    <jobString>Making Shopping List.</jobString>
+    <workSpeedStat>WorkSpeedGlobal</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>300</workAmount>
+    <targetCountAdjustment>1</targetCountAdjustment>
+	<ingredients>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>WoodLog</li>
+				</thingDefs>
+			</filter>
+			<count>5</count>
+		</li>
+	</ingredients>
+	<fixedIngredientFilter>
+		<thingDefs>
+			<li>WoodLog</li>
+		</thingDefs>
+	</fixedIngredientFilter>
+	<skillRequirements>
+		<Crafting>2</Crafting>
+	</skillRequirements>
+    <products>
+		<ASShoppingList>1</ASShoppingList>
+    </products>
+    <workSkill>Crafting</workSkill>
+	<recipeUsers>
+		<li>ASReportsPrinter</li>
+		<li>ASReportsLog</li>
+	</recipeUsers>
+  </RecipeDef>
+  
+	<RecipeDef>
+    <defName>ASRecycleShoppingList</defName>
+    <label>recycle shopping list</label>
+    <description>shred an old Shopping List to regain some of its resources.</description>
+    <jobString>Recycling Shopping List.</jobString>
+    <workSpeedStat>WorkSpeedGlobal</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>300</workAmount>
+    <targetCountAdjustment>1</targetCountAdjustment>
+	<ingredients>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>ASShoppingList</li>
+				</thingDefs>
+			</filter>
+			<count>1</count>
+		</li>
+	</ingredients>
+	<fixedIngredientFilter>
+		<thingDefs>
+			<li>ASShoppingList</li>
+		</thingDefs>
+	</fixedIngredientFilter>
+	<skillRequirements>
+		<Crafting>3</Crafting>
+	</skillRequirements>
+    <products>
+		<WoodLog>4</WoodLog>
+    </products>
+    <workSkill>Crafting</workSkill>
+	<recipeUsers>
+		<li>ASReportsPrinter</li>
+		<li>ASReportsLog</li>
+	</recipeUsers>
+  </RecipeDef>
+  
+  
+</Defs>
