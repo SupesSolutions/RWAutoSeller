@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Dialogs (Common) -->
+	<RWAutoSell.Add>Добавить</RWAutoSell.Add>
+	<RWAutoSell.AutoSellButton>Автоматическая продажа</RWAutoSell.AutoSellButton>
+	<RWAutoSell.Undo>Шаг назад</RWAutoSell.Undo>
+	<!--Undo-->
+	<RWAutoSell.Redo>Шаг вперед</RWAutoSell.Redo>
+	<!--Redo-->
+	<RWAutoSell.SelectSorter>Сортировка по: {0}</RWAutoSell.SelectSorter>
+	<RWAutoSell.Ascending>По возрастанию</RWAutoSell.Ascending>
+	<RWAutoSell.Descending>По убыванию</RWAutoSell.Descending>
+	<RWAutoSell.Unsorted>Без сортировки</RWAutoSell.Unsorted>
+	<RWAutoSell.Cloned>Дублированный</RWAutoSell.Cloned>
+	<!-- Rule Data Strings -->
+	<RWAutoSell.RootLabel/>
+	<RWAutoSell.GroupLabel>Новая группа</RWAutoSell.GroupLabel>
+	<RWAutoSell.RuleDesc>Описание правила</RWAutoSell.RuleDesc>
+	<RWAutoSell.Quantity>Количество</RWAutoSell.Quantity>
+	<RWAutoSell.SellPoint>Продать если больше, чем</RWAutoSell.SellPoint>
+	<RWAutoSell.BuyPoint>Купить, если ниже</RWAutoSell.BuyPoint>
+	<RWAutoSell.BuyLevel>Докупить до</RWAutoSell.BuyLevel>
+	<RWAutoSell.TreatDefSeperate>Считать предметы по отдельности</RWAutoSell.TreatDefSeperate>
+	<!-- Rule Data Descriptions -->
+	<RWAutoSell.DescRuleDesc>Описание, которое видно на главной панели.</RWAutoSell.DescRuleDesc>
+	<RWAutoSell.DescSellPoint>Продавать предметы со склада, если его больше указанного количества.</RWAutoSell.DescSellPoint>
+	<RWAutoSell.DescBuyPoint>Покупать предметы, если количество меньше, чем указанное.</RWAutoSell.DescBuyPoint>
+	<RWAutoSell.DescBuyLevel>Докупить предметы до указанного количества.</RWAutoSell.DescBuyLevel>
+	<RWAutoSell.DescTreatDefSeperate>Если флаг установлен, каждый предмет учитывается отдельно, и имеет свой собственный счетчик, иначе все предметы имеют общий счетчик и считаются вместе.</RWAutoSell.DescTreatDefSeperate>
+	<!-- Root Names -->
+	<RWAutoSell.Trade>Торговля</RWAutoSell.Trade>
+	<RWAutoSell.Colony>Множитель колонии</RWAutoSell.Colony>
+	<!-- Node Dialog -->
+	<!--Properties Tabs-->
+	<RWAutoSell.DescGroupName>Название данной группы. Полезно, если у вас много различных групп, которые нужно быстро идентифицировать.</RWAutoSell.DescGroupName>
+	<RWAutoSell.PropGroup>Группа</RWAutoSell.PropGroup>
+	<RWAutoSell.PropTest>Проверка</RWAutoSell.PropTest>
+	<RWAutoSell.PropFilter>Фильтр</RWAutoSell.PropFilter>
+	<RWAutoSell.DescPropGroup>Показывает существующие подгруппы и фильтры и позволяет создавать новые.</RWAutoSell.DescPropGroup>
+	<RWAutoSell.DescPropTest>Позволяет проверить, какие предметы возвращаются вашим правилом для фильтра.</RWAutoSell.DescPropTest>
+	<RWAutoSell.DescPropFilter>Позволяет указывать настройки фильтров через двойной клик на выбранном фильтре.</RWAutoSell.DescPropFilter>
+	<!--Group/Filter Menu Options-->
+	<RWAutoSell.DeleteGroup>Удалить группу</RWAutoSell.DeleteGroup>
+	<RWAutoSell.DeleteFilter>Удалить фильтр</RWAutoSell.DeleteFilter>
+	<RWAutoSell.AddGroup>Добавить новую группу</RWAutoSell.AddGroup>
+	<RWAutoSell.CutGroup>Вырезать группу</RWAutoSell.CutGroup>
+	<RWAutoSell.CopyGroup>Копировать группу</RWAutoSell.CopyGroup>
+	<RWAutoSell.PasteGroup>Вставить группу</RWAutoSell.PasteGroup>
+	<RWAutoSell.OperatorOr>Изменение оператора группы на ИЛИ (OR)</RWAutoSell.OperatorOr>
+	<RWAutoSell.OperatorAnd>Изменение оператора группы на И (AND)</RWAutoSell.OperatorAnd>
+	<RWAutoSell.OperatorXor>Изменение оператора группы на исключающее ИЛИ (XOR)</RWAutoSell.OperatorXor>
+	<RWAutoSell.TogActive>Переключить акт.</RWAutoSell.TogActive>
+	<RWAutoSell.TogInactive>Переключить неакт.</RWAutoSell.TogInactive>
+	<RWAutoSell.TogNegateOff>Инвертирование выкл.</RWAutoSell.TogNegateOff>
+	<RWAutoSell.TogNegateOn>Инвертирование вкл.</RWAutoSell.TogNegateOn>
+	<RWAutoSell.ConvertFilters>Перевести фильтры в подгруппу</RWAutoSell.ConvertFilters>
+	<RWAutoSell.AddFilter>Добавить новый фильтр</RWAutoSell.AddFilter>
+	<RWAutoSell.Unknown>Неизвестное</RWAutoSell.Unknown>
+	<RWAutoSell.Unnamed>Без имени</RWAutoSell.Unnamed>
+	<!--Group Properties List ToolTips-->
+	<RWAutoSell.DescGroupNavigate>Двойной клик для навигации в панели групп</RWAutoSell.DescGroupNavigate>
+	<RWAutoSell.DescGroupSelect>Двойной клик для навигации в этой подгруппе</RWAutoSell.DescGroupSelect>
+	<RWAutoSell.DescFilterSelect>Двойной клик для изменений фильтра</RWAutoSell.DescFilterSelect>
+	<!-- Main Tab -->
+	<RWAutoSell.AutoSellTitle>Настройки Автопродажи</RWAutoSell.AutoSellTitle>
+	<RWAutoSell.CreateRuleShort>Создать правило</RWAutoSell.CreateRuleShort>
+	<RWAutoSell.Delete>Удалить</RWAutoSell.Delete>
+	<RWAutoSell.TabTrading>Торговля</RWAutoSell.TabTrading>
+	<!-- Filters Names -->
+	<RWAutoSell.FilterAge>Возраст</RWAutoSell.FilterAge>
+	<RWAutoSell.FilterBonded>Привязанность животного</RWAutoSell.FilterBonded>
+	<RWAutoSell.FilterCat>Категории</RWAutoSell.FilterCat>
+	<RWAutoSell.FilterGender>Пол</RWAutoSell.FilterGender>
+	<RWAutoSell.FilterHp>Прочность</RWAutoSell.FilterHp>
+	<RWAutoSell.FilterLow>Низкий запас</RWAutoSell.FilterLow>
+	<RWAutoSell.FilterNamed>Имя</RWAutoSell.FilterNamed>
+	<RWAutoSell.FilterRace>Раса</RWAutoSell.FilterRace>
+	<RWAutoSell.FilterIll>Болезни</RWAutoSell.FilterIll>
+	<RWAutoSell.FilterStuff>Материал</RWAutoSell.FilterStuff>
+	<RWAutoSell.FilterTrait>Черты</RWAutoSell.FilterTrait>
+	<RWAutoSell.FilterApparel>Одежда</RWAutoSell.FilterApparel>
+	<RWAutoSell.FilterBuyPrice>Цена покупки</RWAutoSell.FilterBuyPrice>
+	<RWAutoSell.FilterWorkTag>Работоспособность</RWAutoSell.FilterWorkTag>
+	<RWAutoSell.FilterSkill>Уровень навыков</RWAutoSell.FilterSkill>
+	<RWAutoSell.FilterStatistics>Статистика</RWAutoSell.FilterStatistics>
+	<RWAutoSell.FilterAnimal>Животное</RWAutoSell.FilterAnimal>
+	<RWAutoSell.FilterTime>Время</RWAutoSell.FilterTime>
+	<RWAutoSell.FilterPerish>Время до порчи</RWAutoSell.FilterPerish>
+	<RWAutoSell.FilterCapacity>Способность переноски</RWAutoSell.FilterCapacity>
+	<RWAutoSell.FilterSerum>Нейротренер</RWAutoSell.FilterSerum>
+	<RWAutoSell.FilterWeapon>Оружие</RWAutoSell.FilterWeapon>
+	<RWAutoSell.FilterSmelt>Переплавляемое</RWAutoSell.FilterSmelt>
+	<RWAutoSell.FilterZone>В пределах зоны</RWAutoSell.FilterZone>
+	<RWAutoSell.FilterArea>Ограничено областью</RWAutoSell.FilterArea>
+	<RWAutoSell.FilterIngredient>Ингредиент</RWAutoSell.FilterIngredient>
+	<RWAutoSell.FilterAddiction>Привыкание</RWAutoSell.FilterAddiction>
+	<!-- Filters WidgetLabels -->
+	<RWAutoSell.SubCat>Включать подкатегории при добавлении категории</RWAutoSell.SubCat>
+	<RWAutoSell.FilterAgeBio>Биологический возраст</RWAutoSell.FilterAgeBio>
+	<RWAutoSell.FilterAgeChr>Хронологический возраст</RWAutoSell.FilterAgeChr>
+	<RWAutoSell.Minimum>Минимум</RWAutoSell.Minimum>
+	<RWAutoSell.Maximum>Максимум</RWAutoSell.Maximum>
+	<RWAutoSell.FilterBondedIs>Привязанное</RWAutoSell.FilterBondedIs>
+	<RWAutoSell.FilterLowFlagIf>Истинно, если на складе меньше, чем</RWAutoSell.FilterLowFlagIf>
+	<RWAutoSell.FilterNamedCol>Колонисты</RWAutoSell.FilterNamedCol>
+	<RWAutoSell.FilterNamedPrs>Заключенные</RWAutoSell.FilterNamedPrs>
+	<RWAutoSell.FilterNamedAnm>Животные</RWAutoSell.FilterNamedAnm>
+	<RWAutoSell.FilterRaceHumi>Любой гуманоид</RWAutoSell.FilterRaceHumi>
+	<RWAutoSell.FilterRaceAnm>Любое животное</RWAutoSell.FilterRaceAnm>
+	<RWAutoSell.FilterRaceMech>Любой механоид</RWAutoSell.FilterRaceMech>
+	<RWAutoSell.FilterIllChkInf>Есть ли инфекции/болезни</RWAutoSell.FilterIllChkInf>
+	<RWAutoSell.FilterIllChkBld>Есть ли кровотечение</RWAutoSell.FilterIllChkBld>
+	<RWAutoSell.FilterIllIgrRcv>Игнорировать восстановление</RWAutoSell.FilterIllIgrRcv>
+	<RWAutoSell.FilterStuffNone>Нет материала</RWAutoSell.FilterStuffNone>
+	<RWAutoSell.FilterStuffAny>Любое из {0}</RWAutoSell.FilterStuffAny>
+	<RWAutoSell.FilterAppCkTainted>Проверить чистоту</RWAutoSell.FilterAppCkTainted>
+	<RWAutoSell.FilterAppIsTainted>С трупа</RWAutoSell.FilterAppIsTainted>
+	<RWAutoSell.FilterAppNotTainted>Не с трупа</RWAutoSell.FilterAppNotTainted>
+	<RWAutoSell.FilterAppCkDamage>Проверить повреждения</RWAutoSell.FilterAppCkDamage>
+	<RWAutoSell.FilterAppIsTattered>Лохмотья</RWAutoSell.FilterAppIsTattered>
+	<RWAutoSell.FilterAppIsFrayed>Изношенное</RWAutoSell.FilterAppIsFrayed>
+	<RWAutoSell.FilterSearch>Поиск</RWAutoSell.FilterSearch>
+	<RWAutoSell.FilterPregnant>Беременность</RWAutoSell.FilterPregnant>
+	<RWAutoSell.FilterIntelligence>Минимальный интеллект</RWAutoSell.FilterIntelligence>
+	<RWAutoSell.FilterTraining>Обучен</RWAutoSell.FilterTraining>
+	<RWAutoSell.FilterLowRowDef>Все предметы</RWAutoSell.FilterLowRowDef>
+	<RWAutoSell.FilterLowSpecDef>Определенный предмет</RWAutoSell.FilterLowSpecDef>
+	<RWAutoSell.FilterLowIncEqip>Включая носимое и экипированное</RWAutoSell.FilterLowIncEqip>
+	<RWAutoSell.FilterTimeTip>Левой кнопкой мыши активировать, правой - деактивировать</RWAutoSell.FilterTimeTip>
+	<RWAutoSell.FilterPerishIgnRfg>Игнорировать температуру/заморозку</RWAutoSell.FilterPerishIgnRfg>
+	<!-- New -->
+	<RWAutoSell.FilterPerishHours>Часов</RWAutoSell.FilterPerishHours>
+	<RWAutoSell.FilterPerishDays>Дней</RWAutoSell.FilterPerishDays>
+	<RWAutoSell.FilterCapacityRange>Грузоподъемность в пределах {0} кг</RWAutoSell.FilterCapacityRange>
+	<RWAutoSell.FilterCapacityIncNull>Включить животных/пешек с нулевой грузоподьемностью</RWAutoSell.FilterCapacityIncNull>
+	<RWAutoSell.FilterWepCkBio>Проверить биокодирование</RWAutoSell.FilterWepCkBio>
+	<RWAutoSell.FilterWepBio>Биокодированное</RWAutoSell.FilterWepBio>
+	<RWAutoSell.FilterWepNotBio>Не биокодированное</RWAutoSell.FilterWepNotBio>
+	<RWAutoSell.FilterWepCkTp>Проверить тип оружия</RWAutoSell.FilterWepCkTp>
+	<RWAutoSell.FilterWepRanged>Дальнего боя</RWAutoSell.FilterWepRanged>
+	<RWAutoSell.FilterWepMelee>Ближнего боя</RWAutoSell.FilterWepMelee>
+	<RWAutoSell.FilterSmeltAny>Все, что может быть переплавлено</RWAutoSell.FilterSmeltAny>
+	<RWAutoSell.FilterSmeltProduce>При плавке производится</RWAutoSell.FilterSmeltProduce>
+	<RWAutoSell.FilterSkillHas>Имеет выбранный навык</RWAutoSell.FilterSkillHas>
+	<RWAutoSell.FilterSkillHasNull>Имеет выбранный навык, но отсутствует интерес</RWAutoSell.FilterSkillHasNull>
+	<RWAutoSell.FilterSkillHasMinor>Имеет выбранный навык, средний интерес</RWAutoSell.FilterSkillHasMinor>
+	<RWAutoSell.FilterSkillHasMajor>Имеет выбранный навык, горячий интерес</RWAutoSell.FilterSkillHasMajor>
+	<RWAutoSell.FilterAreaRestricted>Колонист привязан к области</RWAutoSell.FilterAreaRestricted>
+	<RWAutoSell.FilterAreaIn>Пешка или Предмет находяться в зоне</RWAutoSell.FilterAreaIn>
+	<!-- Filters Tags -->
+	<RWAutoSell.TagAnimals>Животные</RWAutoSell.TagAnimals>
+	<RWAutoSell.TagPeople>Люди</RWAutoSell.TagPeople>
+	<RWAutoSell.TagItems>Предметы</RWAutoSell.TagItems>
+	<RWAutoSell.TagFood>Еда</RWAutoSell.TagFood>
+	<!-- Quick Create Dialog-->
+	<RWAutoSell.QuickCreate>Быстрое создание</RWAutoSell.QuickCreate>
+	<RWAutoSell.QuickExisting>Существующие правила</RWAutoSell.QuickExisting>
+	<RWAutoSell.QuickNew>Новое правило с выбранными фильтрами</RWAutoSell.QuickNew>
+	<!--Legacy-->
+	<RWAutoSell.NoTP>Требуется торговый принтер</RWAutoSell.NoTP>
+	<RWAutoSell.SellValue>Максимальное значение элемента</RWAutoSell.SellValue>
+	<!-- Trading Behaviour Dialog -->
+	<RWAutoSell.TradeBehaviour>Настройки торговли</RWAutoSell.TradeBehaviour>
+	<RWAutoSell.MapBehaviour>Настройки на карте: {0}</RWAutoSell.MapBehaviour>
+	<RWAutoSell.Stacktoggle>Улучшенное поведение продажи</RWAutoSell.Stacktoggle>
+	<RWAutoSell.AIToggle>ИИ может торговать</RWAutoSell.AIToggle>
+	<RWAutoSell.Allowpartial>Разрешить торговлю порциями</RWAutoSell.Allowpartial>
+	<RWAutoSell.IncludeUnavailable>Разрешить недоступные предметы</RWAutoSell.IncludeUnavailable>
+	<RWAutoSell.Repitition>Повторить раз</RWAutoSell.Repitition>
+	<RWAutoSell.Negotiator>Переговорщик</RWAutoSell.Negotiator>
+	<RWAutoSell.Prefered>(P) Предпочтительный переговорщик</RWAutoSell.Prefered>
+	<RWAutoSell.WardenSet>(W) Занимается надзором</RWAutoSell.WardenSet>
+	<RWAutoSell.HasPermits>(T) Имеет титул</RWAutoSell.HasPermits>
+	<RWAutoSell.NeedsPermit>Не может торговать с кораблем, необходимо разрешение.</RWAutoSell.NeedsPermit>
+	<RWAutoSell.IncEqip>Разрешить экипированные предметы</RWAutoSell.IncEqip>
+	<RWAutoSell.IncInv>Разрешить предметы в инвентаре</RWAutoSell.IncInv>
+	<RWAutoSell.AltShop>Альтернативное поведение списка покупок</RWAutoSell.AltShop>
+	<RWAutoSell.PostFractionCheck>Постпроверка дробей</RWAutoSell.PostFractionCheck>
+	<!-- new -->
+	<RWAutoSell.NotifyZeroTrades>Создавать уведомление о сделках с нулевой стоимостью (если включена торговля ИИ)</RWAutoSell.NotifyZeroTrades>
+	<!-- new -->
+	<RWAutoSell.NotifyTrades>Создавать уведомление о сделках (если включена торговля ИИ)</RWAutoSell.NotifyTrades>
+	<!-- Import Dialog -->
+	<RWAutoSell.ImportRules>Импортировать/экспортировать правила</RWAutoSell.ImportRules>
+	<RWAutoSell.Import>Импорт</RWAutoSell.Import>
+	<!-- Merger Control -->
+	<RWAutoSell.MergeControl>Настройки обьединения</RWAutoSell.MergeControl>
+	<RWAutoSell.MergeControlDesc>Здесь вы можете включить дополнительные условия для объединения элементов. Это может позволить использовать фильтры, которые обычно были бы невозможны из-за того, как rimworld объединяет строки.</RWAutoSell.MergeControlDesc>
+	<RWAutoSell.MergerRequired>Требуется включенные настройки обьединения</RWAutoSell.MergerRequired>
+	<RWAutoSell.MergerRequiredDesc>Для фильтра "{1}" требуется включить настройку "{0}" в панели обьединения. Кликнине для того, чтобы включить её (вы всегда можете настроить их отдельно в настройках торговли)</RWAutoSell.MergerRequiredDesc>
+	<!-- Mergers -->
+	<RWAutoSell.MergerPerishables>Время порчи</RWAutoSell.MergerPerishables>
+	<RWAutoSell.MergerZone>Зоны</RWAutoSell.MergerZone>
+	<RWAutoSell.MergerArea>Области</RWAutoSell.MergerArea>
+	<RWAutoSell.MergerAll>Разделить всё</RWAutoSell.MergerAll>
+	<!-- Misc -->
+	<!--Report Label Order
+  0 = Negotiator
+  1 = earned/spent
+  2 = silver number
+  3 = Sold List
+  4 = bought list
+  -->
+	<RWAutoSell.BargainReport>{0} было {1} {2} серебра в этой транзакции.\n\n{3}\n\n{4}</RWAutoSell.BargainReport>
+	<RWAutoSell.BargainReportSold>Проданные предметы</RWAutoSell.BargainReportSold>
+	<RWAutoSell.BargainReportBought>Купленные предметы</RWAutoSell.BargainReportBought>
+	<RWAutoSell.BargainReportGained>заработано</RWAutoSell.BargainReportGained>
+	<RWAutoSell.BargainReportLost>потрачено</RWAutoSell.BargainReportLost>
+	<RWAutoSell.BargainReportTitle>Отчет о торговле ({0})</RWAutoSell.BargainReportTitle>
+	<RWAutoSell.PWOnlyOne>Доступно только одно</RWAutoSell.PWOnlyOne>
+	<RWAutoSell.AutoSellMerge>Обьединить с {0}</RWAutoSell.AutoSellMerge>
+	<RWAutoSell.SetAsChain>Сделать цепным</RWAutoSell.SetAsChain>
+	<!-- new -->
+	<RWAutoSell.SetAsNormal>Сделать обычным</RWAutoSell.SetAsNormal>
+	<!-- new -->
+	<RWAutoSell.AdvancedMenu>Расширенные настройки правил</RWAutoSell.AdvancedMenu>
+	<!-- new -->
+	<RWAutoSell.ShowAdvanced>Показать расширенные настройки</RWAutoSell.ShowAdvanced>
+	<!-- new -->
+	<RWAutoSell.HideAdvanced>Спрятать расширенные настройки</RWAutoSell.HideAdvanced>
+	<!-- new -->
+	<RWAutoSell.Chain>Цепочки правил</RWAutoSell.Chain>
+	<!-- new -->
+	<RWAutoSell.ChainDesc>Сами по себе цепочки правил ничего не делают, однако, если первое правило связано цепочкой с другим, его правило будет дополнительно отфильтровано, используя его результат.</RWAutoSell.ChainDesc>
+	<!-- new -->
+</LanguageData>
