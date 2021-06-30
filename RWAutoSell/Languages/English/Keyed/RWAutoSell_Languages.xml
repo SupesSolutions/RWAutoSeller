@@ -26,7 +26,8 @@
   <RWAutoSell.DescBuyLevel>When buying, you will end up with this amount in your stockpile.</RWAutoSell.DescBuyLevel>
   <RWAutoSell.DescTreatDefSeperate>With this checked, each different type of item is treated separately with their own count for each, but when unchecked, all filtered items are combined into one big shared count.</RWAutoSell.DescTreatDefSeperate>
   <!-- Root Names -->
-  <RWAutoSell.Trade>Trade</RWAutoSell.Trade>  
+  <RWAutoSell.Trade>Trade</RWAutoSell.Trade>
+  <RWAutoSell.Colony>Colony Multiplier</RWAutoSell.Colony>
   <!-- Node Dialog -->
   <!--Properties Tabs-->
   <RWAutoSell.DescGroupName>Type here to name the current group.  Useful if working with many groups and you need to uniquely identify a group.</RWAutoSell.DescGroupName>
@@ -87,6 +88,10 @@
   <RWAutoSell.FilterSerum>Serum Skill</RWAutoSell.FilterSerum>
   <RWAutoSell.FilterWeapon>Weapon</RWAutoSell.FilterWeapon>
   <RWAutoSell.FilterSmelt>Smeltable</RWAutoSell.FilterSmelt>
+  <RWAutoSell.FilterZone>Within Zone</RWAutoSell.FilterZone>
+  <RWAutoSell.FilterArea>Restricted to Area</RWAutoSell.FilterArea>
+  <RWAutoSell.FilterIngredient>Ingredient</RWAutoSell.FilterIngredient>
+  <RWAutoSell.FilterAddiction>Chemical Addictions</RWAutoSell.FilterAddiction>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Include Sub-categories when adding a Category</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biological Years</RWAutoSell.FilterAgeBio>
@@ -132,12 +137,13 @@
   <RWAutoSell.FilterWepRanged>Is Ranged</RWAutoSell.FilterWepRanged>
   <RWAutoSell.FilterWepMelee>Is Melee</RWAutoSell.FilterWepMelee>
   <RWAutoSell.FilterSmeltAny>Any that can be smelted</RWAutoSell.FilterSmeltAny>
-  <RWAutoSell.FilterSmeltProduce>Smelting Produces Product</RWAutoSell.FilterSmeltProduce>
-  
+  <RWAutoSell.FilterSmeltProduce>Smelting Produces Product</RWAutoSell.FilterSmeltProduce>  
   <RWAutoSell.FilterSkillHas>Has selected skill</RWAutoSell.FilterSkillHas>
   <RWAutoSell.FilterSkillHasNull>Has selected skill but no interest</RWAutoSell.FilterSkillHasNull>
   <RWAutoSell.FilterSkillHasMinor>Has selected skill with some interest</RWAutoSell.FilterSkillHasMinor>
   <RWAutoSell.FilterSkillHasMajor>Has selected skill with passionate interest</RWAutoSell.FilterSkillHasMajor>
+  <RWAutoSell.FilterAreaRestricted>Colonist Restricted to Area</RWAutoSell.FilterAreaRestricted>
+  <RWAutoSell.FilterAreaIn>Pawn or Item in Area</RWAutoSell.FilterAreaIn>
   
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animals</RWAutoSell.TagAnimals>
@@ -148,8 +154,7 @@
   <!-- Quick Create Dialog-->
   <RWAutoSell.QuickCreate>Quick Create</RWAutoSell.QuickCreate>
   <RWAutoSell.QuickExisting>Existing Rules</RWAutoSell.QuickExisting>  
-  <RWAutoSell.QuickNew>New Rule with selected filters</RWAutoSell.QuickNew>
-  
+  <RWAutoSell.QuickNew>New Rule with selected filters</RWAutoSell.QuickNew>  
   <!--Legacy-->
   <RWAutoSell.NoTP>Trade Printer Required</RWAutoSell.NoTP>
   <RWAutoSell.SellValue>Unit Value Maximum</RWAutoSell.SellValue>  
@@ -177,13 +182,14 @@
   <RWAutoSell.Import>Import</RWAutoSell.Import>
   <!-- Merger Control -->
   <RWAutoSell.MergeControl>Merge Control</RWAutoSell.MergeControl>
-  <RWAutoSell.MergeControlDesc>Here you can enable more conditions for how items are merged.  This can allow the use of filters that would normally not be possible due to the way rimworld merges rows.</RWAutoSell.MergeControlDesc>
-  
+  <RWAutoSell.MergeControlDesc>Here you can enable more conditions for how items are merged.  This can allow the use of filters that would normally not be possible due to the way rimworld merges rows.</RWAutoSell.MergeControlDesc>  
   <RWAutoSell.MergerRequired>Merge Controller Required</RWAutoSell.MergerRequired>
   <RWAutoSell.MergerRequiredDesc>The {0} merge controller is required for the {1} filter, click accept to enable the required merge controller (merge controllers can be enabled/disabled at anytime by going into trading behavior)</RWAutoSell.MergerRequiredDesc>
   <!-- Mergers -->
   <RWAutoSell.MergerPerishables>Perishables</RWAutoSell.MergerPerishables>
-  
+  <RWAutoSell.MergerZone>Zones</RWAutoSell.MergerZone>
+  <RWAutoSell.MergerArea>Areas</RWAutoSell.MergerArea>
+  <RWAutoSell.MergerAll>Separate All</RWAutoSell.MergerAll>
   <!-- Misc -->  
   <!--Report Label Order
   0 = Negotiator
@@ -200,10 +206,12 @@
   <RWAutoSell.BargainReportTitle>Trade Report for {0}</RWAutoSell.BargainReportTitle>    
   <RWAutoSell.PWOnlyOne>Only one allowed</RWAutoSell.PWOnlyOne>
   <RWAutoSell.AutoSellMerge>Merge with {0}</RWAutoSell.AutoSellMerge>
-
+  
   <RWAutoSell.SetAsChain>Set as Chain</RWAutoSell.SetAsChain>  <!-- new -->
   <RWAutoSell.SetAsNormal>Set as Normal</RWAutoSell.SetAsNormal>  <!-- new -->
   <RWAutoSell.AdvancedMenu>Advanced Rule Options</RWAutoSell.AdvancedMenu>  <!-- new -->
+  <RWAutoSell.ShowAdvanced>Show Advanced Fields</RWAutoSell.ShowAdvanced>  <!-- new -->
+  <RWAutoSell.HideAdvanced>Hide Advanced Fields</RWAutoSell.HideAdvanced>  <!-- new -->  
   <RWAutoSell.Chain>Chain Rule</RWAutoSell.Chain>  <!-- new -->
   <RWAutoSell.ChainDesc>A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule.</RWAutoSell.ChainDesc>  <!-- new -->
 

@@ -27,6 +27,7 @@
   <RWAutoSell.DescTreatDefSeperate>Lorsque cette case est cochée, chaque type d'élément est traité séparément avec son propre nombre, mais lorsqu'il n'est pas coché, tous les éléments filtrés sont combinés en un seul grand nombre partagé.</RWAutoSell.DescTreatDefSeperate>
   <!-- Root Names -->
   <RWAutoSell.Trade>Commerce</RWAutoSell.Trade>
+  <RWAutoSell.Colony>Multiplicateur de colonies</RWAutoSell.Colony>
   <!-- Node Dialog -->
   <!--Properties Tabs-->
   <RWAutoSell.DescGroupName>Tapez ici pour nommer le groupe actuel. Utile si vous travaillez avec plusieurs groupes et que vous devez identifier un groupe de manière unique.</RWAutoSell.DescGroupName>
@@ -87,6 +88,10 @@
   <RWAutoSell.FilterSerum>Compétence de sérum</RWAutoSell.FilterSerum>
   <RWAutoSell.FilterWeapon>Arme</RWAutoSell.FilterWeapon>  <!-- Weapon -->
   <RWAutoSell.FilterSmelt>Peut fondre</RWAutoSell.FilterSmelt>  <!-- Smeltable -->
+  <RWAutoSell.FilterZone>Dans la zone</RWAutoSell.FilterZone> <!-- Within zone -->
+  <RWAutoSell.FilterArea>Restreint à la zone</RWAutoSell.FilterArea>  <!-- Restricted to Area -->
+  <RWAutoSell.FilterIngredient>Ingrédient</RWAutoSell.FilterIngredient>  <!-- Ingredient -->
+  <RWAutoSell.FilterAddiction>Dépendances chimiques</RWAutoSell.FilterAddiction>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Inclure des sous-catégories lors de l'ajout d'une catégorie</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Années biologiques</RWAutoSell.FilterAgeBio>
@@ -138,6 +143,8 @@
   <RWAutoSell.FilterSkillHasNull>Possède une compétence sélectionnée mais aucun intérêt</RWAutoSell.FilterSkillHasNull>
   <RWAutoSell.FilterSkillHasMinor>A sélectionné une compétence avec un certain intérêt</RWAutoSell.FilterSkillHasMinor>
   <RWAutoSell.FilterSkillHasMajor>Possède une compétence sélectionnée avec un intérêt passionné</RWAutoSell.FilterSkillHasMajor>
+  <RWAutoSell.FilterAreaRestricted>Colonne restreint à la zone</RWAutoSell.FilterAreaRestricted>
+  <RWAutoSell.FilterAreaIn>Pion ou objet dans la zone</RWAutoSell.FilterAreaIn>
   
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Animaux</RWAutoSell.TagAnimals>
@@ -183,7 +190,9 @@
   <RWAutoSell.MergerRequiredDesc>Le contrôleur de fusion {0} est requis pour le filtre {1}. Cliquez sur Accepter pour activer le contrôleur de fusion requis (les contrôleurs de fusion peuvent être activés / désactivés à tout moment en adoptant un comportement d'échange).</RWAutoSell.MergerRequiredDesc>
   <!-- Mergers -->
   <RWAutoSell.MergerPerishables>Périssables</RWAutoSell.MergerPerishables>
-  
+  <RWAutoSell.MergerZone>Zones</RWAutoSell.MergerZone>
+  <RWAutoSell.MergerArea>Pawn Zones</RWAutoSell.MergerArea>  <!-- Pawn Areas-->
+  <RWAutoSell.MergerAll>Séparer tout</RWAutoSell.MergerAll>
   <!-- Misc -->  
   <!--Report Label Order
   0 = Negotiator
@@ -204,6 +213,8 @@
   <RWAutoSell.SetAsChain>Définir comme chaîne</RWAutoSell.SetAsChain>  <!-- Set as Chain -->
   <RWAutoSell.SetAsNormal>Définir comme normal</RWAutoSell.SetAsNormal>  <!-- Set as Normal -->
   <RWAutoSell.AdvancedMenu>Options de règle avancées</RWAutoSell.AdvancedMenu>  <!-- Advanced Rule Options -->
+  <RWAutoSell.ShowAdvanced>Afficher les champs avancés</RWAutoSell.ShowAdvanced>  <!-- Show Advanced Fields -->
+  <RWAutoSell.HideAdvanced>Masquer les champs avancés</RWAutoSell.HideAdvanced>  <!-- Hide Advanced Fields -->
   <RWAutoSell.Chain>Règle de la chaîne</RWAutoSell.Chain>  <!-- Chain Rule -->
   <RWAutoSell.ChainDesc>Une règle de chaîne ne fait rien par elle-même. Cependant, si une règle normale est connectée à la règle de chaîne (vous pouvez le faire en glissant-déposant une règle normale sur la règle de chaîne dans l'aperçu principal), ces règles seront filtrées davantage en utilisant le résultat de la règle de chaîne.</RWAutoSell.ChainDesc>  <!-- A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule. -->
 </LanguageData>

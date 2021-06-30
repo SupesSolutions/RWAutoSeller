@@ -3,10 +3,8 @@
 	<!-- Dialogs (Common) -->
 	<RWAutoSell.Add>Добавить</RWAutoSell.Add>
 	<RWAutoSell.AutoSellButton>Автоматическая продажа</RWAutoSell.AutoSellButton>
-	<RWAutoSell.Undo>Шаг назад</RWAutoSell.Undo>
-	<!--Undo-->
-	<RWAutoSell.Redo>Шаг вперед</RWAutoSell.Redo>
-	<!--Redo-->
+	<RWAutoSell.Undo>Шаг назад</RWAutoSell.Undo>	<!--Undo-->
+	<RWAutoSell.Redo>Шаг вперед</RWAutoSell.Redo>	<!--Redo-->
 	<RWAutoSell.SelectSorter>Сортировка по: {0}</RWAutoSell.SelectSorter>
 	<RWAutoSell.Ascending>По возрастанию</RWAutoSell.Ascending>
 	<RWAutoSell.Descending>По убыванию</RWAutoSell.Descending>
@@ -127,8 +125,7 @@
 	<RWAutoSell.FilterLowSpecDef>Определенный предмет</RWAutoSell.FilterLowSpecDef>
 	<RWAutoSell.FilterLowIncEqip>Включая носимое и экипированное</RWAutoSell.FilterLowIncEqip>
 	<RWAutoSell.FilterTimeTip>Левой кнопкой мыши активировать, правой - деактивировать</RWAutoSell.FilterTimeTip>
-	<RWAutoSell.FilterPerishIgnRfg>Игнорировать температуру/заморозку</RWAutoSell.FilterPerishIgnRfg>
-	<!-- New -->
+	<RWAutoSell.FilterPerishIgnRfg>Игнорировать температуру/заморозку</RWAutoSell.FilterPerishIgnRfg>	<!-- New -->
 	<RWAutoSell.FilterPerishHours>Часов</RWAutoSell.FilterPerishHours>
 	<RWAutoSell.FilterPerishDays>Дней</RWAutoSell.FilterPerishDays>
 	<RWAutoSell.FilterCapacityRange>Грузоподъемность в пределах {0} кг</RWAutoSell.FilterCapacityRange>
@@ -147,11 +144,13 @@
 	<RWAutoSell.FilterSkillHasMajor>Имеет выбранный навык, горячий интерес</RWAutoSell.FilterSkillHasMajor>
 	<RWAutoSell.FilterAreaRestricted>Колонист привязан к области</RWAutoSell.FilterAreaRestricted>
 	<RWAutoSell.FilterAreaIn>Пешка или Предмет находяться в зоне</RWAutoSell.FilterAreaIn>
+  
 	<!-- Filters Tags -->
 	<RWAutoSell.TagAnimals>Животные</RWAutoSell.TagAnimals>
 	<RWAutoSell.TagPeople>Люди</RWAutoSell.TagPeople>
 	<RWAutoSell.TagItems>Предметы</RWAutoSell.TagItems>
 	<RWAutoSell.TagFood>Еда</RWAutoSell.TagFood>
+  
 	<!-- Quick Create Dialog-->
 	<RWAutoSell.QuickCreate>Быстрое создание</RWAutoSell.QuickCreate>
 	<RWAutoSell.QuickExisting>Существующие правила</RWAutoSell.QuickExisting>
@@ -175,10 +174,8 @@
 	<RWAutoSell.IncEqip>Разрешить экипированные предметы</RWAutoSell.IncEqip>
 	<RWAutoSell.IncInv>Разрешить предметы в инвентаре</RWAutoSell.IncInv>
 	<RWAutoSell.AltShop>Альтернативное поведение списка покупок</RWAutoSell.AltShop>
-	<RWAutoSell.PostFractionCheck>Постпроверка дробей</RWAutoSell.PostFractionCheck>
-	<!-- new -->
-	<RWAutoSell.NotifyZeroTrades>Создавать уведомление о сделках с нулевой стоимостью (если включена торговля ИИ)</RWAutoSell.NotifyZeroTrades>
-	<!-- new -->
+	<RWAutoSell.PostFractionCheck>Постпроверка дробей</RWAutoSell.PostFractionCheck>	<!-- new -->
+	<RWAutoSell.NotifyZeroTrades>Создавать уведомление о сделках с нулевой стоимостью (если включена торговля ИИ)</RWAutoSell.NotifyZeroTrades>	<!-- new -->
 	<RWAutoSell.NotifyTrades>Создавать уведомление о сделках (если включена торговля ИИ)</RWAutoSell.NotifyTrades>
 	<!-- Import Dialog -->
 	<RWAutoSell.ImportRules>Импортировать/экспортировать правила</RWAutoSell.ImportRules>
@@ -209,18 +206,12 @@
 	<RWAutoSell.BargainReportTitle>Отчет о торговле ({0})</RWAutoSell.BargainReportTitle>
 	<RWAutoSell.PWOnlyOne>Доступно только одно</RWAutoSell.PWOnlyOne>
 	<RWAutoSell.AutoSellMerge>Обьединить с {0}</RWAutoSell.AutoSellMerge>
-	<RWAutoSell.SetAsChain>Сделать цепным</RWAutoSell.SetAsChain>
-	<!-- new -->
-	<RWAutoSell.SetAsNormal>Сделать обычным</RWAutoSell.SetAsNormal>
-	<!-- new -->
-	<RWAutoSell.AdvancedMenu>Расширенные настройки правил</RWAutoSell.AdvancedMenu>
-	<!-- new -->
-	<RWAutoSell.ShowAdvanced>Показать расширенные настройки</RWAutoSell.ShowAdvanced>
-	<!-- new -->
-	<RWAutoSell.HideAdvanced>Спрятать расширенные настройки</RWAutoSell.HideAdvanced>
-	<!-- new -->
-	<RWAutoSell.Chain>Цепочки правил</RWAutoSell.Chain>
-	<!-- new -->
-	<RWAutoSell.ChainDesc>Сами по себе цепочки правил ничего не делают, однако, если первое правило связано цепочкой с другим, его правило будет дополнительно отфильтровано, используя его результат.</RWAutoSell.ChainDesc>
-	<!-- new -->
+  
+	<RWAutoSell.SetAsChain>Сделать цепным</RWAutoSell.SetAsChain>	<!-- new -->
+	<RWAutoSell.SetAsNormal>Сделать обычным</RWAutoSell.SetAsNormal>	<!-- new -->
+	<RWAutoSell.AdvancedMenu>Расширенные настройки правил</RWAutoSell.AdvancedMenu>	<!-- new -->
+	<RWAutoSell.ShowAdvanced>Показать расширенные настройки</RWAutoSell.ShowAdvanced>	<!-- new -->
+	<RWAutoSell.HideAdvanced>Спрятать расширенные настройки</RWAutoSell.HideAdvanced>	<!-- new -->
+	<RWAutoSell.Chain>Цепочки правил</RWAutoSell.Chain>	<!-- new -->
+	<RWAutoSell.ChainDesc>Сами по себе цепочки правил ничего не делают, однако, если первое правило связано цепочкой с другим, его правило будет дополнительно отфильтровано, используя его результат.</RWAutoSell.ChainDesc>	<!-- new -->
 </LanguageData>

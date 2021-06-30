@@ -27,6 +27,7 @@
   <RWAutoSell.DescTreatDefSeperate>Wenn diese Option aktiviert ist, wird jeder unterschiedliche Elementtyp separat mit einer eigenen Anzahl für jedes Element behandelt. Wenn diese Option deaktiviert ist, werden alle gefilterten Elemente zu einem großen gemeinsamen Wert zusammengefasst.</RWAutoSell.DescTreatDefSeperate>
   <!-- Root Names -->  
   <RWAutoSell.Trade>Handel</RWAutoSell.Trade>
+  <RWAutoSell.Colony>Kolonie-Multiplikator</RWAutoSell.Colony>
   <!-- Node Dialog -->
   <!--Properties Tabs-->
   <RWAutoSell.DescGroupName>Geben Sie hier ein, um die aktuelle Gruppe zu benennen. Nützlich, wenn Sie mit vielen Gruppen arbeiten und eine Gruppe eindeutig identifizieren müssen.</RWAutoSell.DescGroupName>
@@ -87,6 +88,10 @@
   <RWAutoSell.FilterSerum>Serum-Fähigkeit</RWAutoSell.FilterSerum>
   <RWAutoSell.FilterWeapon>Waffe</RWAutoSell.FilterWeapon>  <!-- Weapon -->
   <RWAutoSell.FilterSmelt>Kann riechen</RWAutoSell.FilterSmelt>  <!-- Smeltable -->
+  <RWAutoSell.FilterZone>Innerhalb der Zone</RWAutoSell.FilterZone> <!-- Within Zone -->
+  <RWAutoSell.FilterArea>Auf den Bereich beschränkt</RWAutoSell.FilterArea>  <!-- Restricted to Area -->
+  <RWAutoSell.FilterIngredient>Zutat</RWAutoSell.FilterIngredient>  <!-- Ingredient -->
+  <RWAutoSell.FilterAddiction>Chemische Sucht</RWAutoSell.FilterAddiction>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>Beim Hinzufügen einer Kategorie Unterkategorien einbeziehen</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>Biologische Jahre</RWAutoSell.FilterAgeBio>
@@ -138,6 +143,8 @@
   <RWAutoSell.FilterSkillHasNull>Hat ausgewählte Fähigkeiten, aber kein Interesse</RWAutoSell.FilterSkillHasNull>
   <RWAutoSell.FilterSkillHasMinor>Hat Fähigkeiten mit einigem Interesse ausgewählt</RWAutoSell.FilterSkillHasMinor>
   <RWAutoSell.FilterSkillHasMajor>Hat Fähigkeiten mit leidenschaftlichem Interesse ausgewählt</RWAutoSell.FilterSkillHasMajor>
+  <RWAutoSell.FilterAreaRestricted>Kolonist auf Gebiet beschränkt</RWAutoSell.FilterAreaRestricted>
+  <RWAutoSell.FilterAreaIn>Bauer oder Gegenstand im Bereich</RWAutoSell.FilterAreaIn>
   
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>Tiere</RWAutoSell.TagAnimals>
@@ -183,7 +190,9 @@
   <RWAutoSell.MergerRequiredDesc>Der {0} Merge-Controller ist für den {1} -Filter erforderlich. Klicken Sie auf Akzeptieren, um den erforderlichen Merge-Controller zu aktivieren.</RWAutoSell.MergerRequiredDesc>
   <!-- Mergers -->
   <RWAutoSell.MergerPerishables>Verderbliche Güter</RWAutoSell.MergerPerishables>
-  
+  <RWAutoSell.MergerZone>Zones</RWAutoSell.MergerZone>
+  <RWAutoSell.MergerArea>Bereiche</RWAutoSell.MergerArea>
+  <RWAutoSell.MergerAll>Alle trennen</RWAutoSell.MergerAll>
   <!-- Misc -->  
   <!--Report Label Order
   0 = Negotiator
@@ -204,6 +213,8 @@
   <RWAutoSell.SetAsChain>Als Kette einstellen</RWAutoSell.SetAsChain>  <!-- Set as Chain -->
   <RWAutoSell.SetAsNormal>Als Normal einstellen</RWAutoSell.SetAsNormal>  <!-- Set as Normal -->
   <RWAutoSell.AdvancedMenu>Erweiterte Regeloptionen</RWAutoSell.AdvancedMenu>  <!-- Advanced Rule Options -->
+  <RWAutoSell.ShowAdvanced>Erweiterte Felder anzeigen</RWAutoSell.ShowAdvanced>  <!-- Show Advanced Fields -->
+  <RWAutoSell.HideAdvanced>Erweiterte Felder ausblenden</RWAutoSell.HideAdvanced>  <!-- Hide Advanced Fields -->
   <RWAutoSell.Chain>Kettenregel</RWAutoSell.Chain>  <!-- Chain Rule -->
   <RWAutoSell.ChainDesc>Eine Kettenregel führt selbst nichts aus. Wenn jedoch eine normale Regel mit der Kettenregel verbunden ist (dies kann durch Ziehen und Ablegen einer normalen Regel auf die Kettenregel aus der Hauptübersicht erfolgen), werden diese Regeln weiter gefiltert mit dem Ergebnis der Kettenregel.</RWAutoSell.ChainDesc>  <!-- A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule. -->
 </LanguageData>

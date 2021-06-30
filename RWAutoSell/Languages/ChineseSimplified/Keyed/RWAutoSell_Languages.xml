@@ -27,6 +27,7 @@
   <RWAutoSell.DescTreatDefSeperate>选中此项后，不同的材质将分别处理，每种材质的物品都有自己的计数，但如果未选中，则所有材质的该物品将共享计数。</RWAutoSell.DescTreatDefSeperate>
   <!-- Root Names -->
   <RWAutoSell.Trade>交易</RWAutoSell.Trade>
+  <RWAutoSell.Colony>菌落倍增</RWAutoSell.Colony>
   <!-- Node Dialog -->
   <!--Properties Tabs-->
   <RWAutoSell.DescGroupName>在此输入当前分组的名称. 如果分组太多，命名会很有帮助.</RWAutoSell.DescGroupName>
@@ -87,6 +88,10 @@
   <RWAutoSell.FilterSerum>血清技能</RWAutoSell.FilterSerum>
   <RWAutoSell.FilterWeapon>武器</RWAutoSell.FilterWeapon>  <!-- Weapon -->
   <RWAutoSell.FilterSmelt>可以闻到</RWAutoSell.FilterSmelt> <!-- Smeltable -->
+  <RWAutoSell.FilterZone>区域内</RWAutoSell.FilterZone>  <!-- Within Zone -->
+  <RWAutoSell.FilterArea>仅限区域</RWAutoSell.FilterArea> <!-- Restricted to Area -->
+  <RWAutoSell.FilterIngredient>成分</RWAutoSell.FilterIngredient> <!-- Ingredient -->
+  <RWAutoSell.FilterAddiction>化学成瘾</RWAutoSell.FilterAddiction>
   <!-- Filters WidgetLabels -->
   <RWAutoSell.SubCat>添加分类时包括子分类</RWAutoSell.SubCat>
   <RWAutoSell.FilterAgeBio>生物年龄</RWAutoSell.FilterAgeBio>
@@ -138,6 +143,8 @@
   <RWAutoSell.FilterSkillHasNull>有选择的技能，但没有兴趣</RWAutoSell.FilterSkillHasNull>
   <RWAutoSell.FilterSkillHasMinor>有兴趣地选择了技能</RWAutoSell.FilterSkillHasMinor>
   <RWAutoSell.FilterSkillHasMajor>选择了充满热情的技能</RWAutoSell.FilterSkillHasMajor>
+  <RWAutoSell.FilterAreaRestricted>殖民者仅限区域</RWAutoSell.FilterAreaRestricted>
+  <RWAutoSell.FilterAreaIn>区域中的典当或物品</RWAutoSell.FilterAreaIn>
   
   <!-- Filters Tags -->
   <RWAutoSell.TagAnimals>动物</RWAutoSell.TagAnimals>
@@ -185,7 +192,9 @@
   <RWAutoSell.MergerRequiredDesc>{1}过滤器需要{0}合并控制器，单击“接受”以启用所需的合并控制器（您可以通过输入事务行为随时启用/禁用合并控制器）</RWAutoSell.MergerRequiredDesc>
   <!-- Mergers -->
   <RWAutoSell.MergerPerishables>易腐</RWAutoSell.MergerPerishables>
-
+  <RWAutoSell.MergerZone>区域</RWAutoSell.MergerZone> <!-- Zones      might need correcting-->
+  <RWAutoSell.MergerArea>地区</RWAutoSell.MergerArea>  <!-- Areas      might need correcting-->
+  <RWAutoSell.MergerAll>全部分开</RWAutoSell.MergerAll>
   <!-- Misc -->
   <!--Report Label Order
   0 = Negotiator
@@ -206,6 +215,8 @@
   <RWAutoSell.SetAsChain>设为链</RWAutoSell.SetAsChain>  <!-- Set as Chain -->  
   <RWAutoSell.SetAsNormal>设置正常</RWAutoSell.SetAsNormal>  <!-- Set as Normal -->
   <RWAutoSell.AdvancedMenu>高级规则选项</RWAutoSell.AdvancedMenu>  <!-- Advanced Rule Options -->
+  <RWAutoSell.ShowAdvanced>显示高级字段</RWAutoSell.ShowAdvanced>  <!-- Show Advanced Fields -->
+  <RWAutoSell.HideAdvanced>隐藏高级字段</RWAutoSell.HideAdvanced>  <!-- Hide Advanced Fields -->
   <RWAutoSell.Chain>连锁规则</RWAutoSell.Chain>  <!-- Chain Rule -->
   <RWAutoSell.ChainDesc>链规则本身不做任何事情，但是如果正常规则连接到链规则（可以通过将正常规则从主要概述拖放到链规则上来完成）那么这些规则将被进一步过滤使用链规则的结果。</RWAutoSell.ChainDesc>  <!-- A chain rule doesn't do anything by itself, however if a normal rule is connected to the chain rule (which can be done by dragging and dropping a normal rule onto the chain rule from the main overview) then those rules will be further filtered using the result from the chain rule. -->
 </LanguageData>
