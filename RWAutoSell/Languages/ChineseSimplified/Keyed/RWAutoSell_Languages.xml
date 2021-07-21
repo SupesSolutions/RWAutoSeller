@@ -136,6 +136,7 @@
   <RWAutoSell.FilterWepCkTp>检查武器类型</RWAutoSell.FilterWepCkTp> <!-- Check Weapon Type -->
   <RWAutoSell.FilterWepRanged>范围</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
   <RWAutoSell.FilterWepMelee>近战</RWAutoSell.FilterWepMelee> <!-- Is Melee -->
+  <RWAutoSell.FilterWepCat>仅限武器类别</RWAutoSell.FilterWepCat>
   <RWAutoSell.FilterSmeltAny>任何可以冶炼的</RWAutoSell.FilterSmeltAny>  <!-- any that can be smelted -->
   <RWAutoSell.FilterSmeltProduce>冶炼产品</RWAutoSell.FilterSmeltProduce>  <!-- Smelting Produces Product -->
   

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<ASBargain.label>торгуйтесь с трейдером </ASBargain.label>
+	<ASBargain.verb>сделка</ASBargain.verb>
+	<ASBargain.gerund>торг</ASBargain.gerund>
+	<ASPawnBargain.label>торгуйтесь с трейдером</ASPawnBargain.label>
+	<ASPawnBargain.verb>сделка</ASPawnBargain.verb>
+	<ASPawnBargain.gerund>торг</ASPawnBargain.gerund>
+	<ASDoBillsShoppingLists.label>создавать списки покупок на торговом принтере</ASDoBillsShoppingLists.label>
+	<ASDoBillsShoppingLists.verb>Распечатать</ASDoBillsShoppingLists.verb>
+	<ASDoBillsShoppingLists.gerund>печать</ASDoBillsShoppingLists.gerund>
+</LanguageData>

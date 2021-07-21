@@ -136,6 +136,7 @@
   <RWAutoSell.FilterWepCkTp>vérifier le type d'arme</RWAutoSell.FilterWepCkTp>  <!-- Check Weapon Type -->
   <RWAutoSell.FilterWepRanged>est à distance</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
   <RWAutoSell.FilterWepMelee>est en mêlée</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
+  <RWAutoSell.FilterWepCat>Dans la catégorie d'armes uniquement</RWAutoSell.FilterWepCat>
   <RWAutoSell.FilterSmeltAny>Tout ce qui peut être fondu</RWAutoSell.FilterSmeltAny>  <!--Any that can be smelted-->
   <RWAutoSell.FilterSmeltProduce>La fusion produit un produit</RWAutoSell.FilterSmeltProduce>  <!--Smelting produces product-->
   

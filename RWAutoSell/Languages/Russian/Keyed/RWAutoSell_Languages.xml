@@ -136,6 +136,7 @@
 	<RWAutoSell.FilterWepCkTp>Проверить тип оружия</RWAutoSell.FilterWepCkTp>
 	<RWAutoSell.FilterWepRanged>Дальнего боя</RWAutoSell.FilterWepRanged>
 	<RWAutoSell.FilterWepMelee>Ближнего боя</RWAutoSell.FilterWepMelee>
+  <RWAutoSell.FilterWepCat>Только в категории оружия</RWAutoSell.FilterWepCat> <!-- New -->
 	<RWAutoSell.FilterSmeltAny>Все, что может быть переплавлено</RWAutoSell.FilterSmeltAny>
 	<RWAutoSell.FilterSmeltProduce>При плавке производится</RWAutoSell.FilterSmeltProduce>
 	<RWAutoSell.FilterSkillHas>Имеет выбранный навык</RWAutoSell.FilterSkillHas>

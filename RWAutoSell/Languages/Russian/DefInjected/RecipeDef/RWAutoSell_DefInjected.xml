@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<ASMakeShoppingList.label>создать список покупок</ASMakeShoppingList.label>
+	<ASMakeShoppingList.description> Создайте список покупок, который можно переносить.</ASMakeShoppingList.description>
+	<ASMakeShoppingList.jobString> Создание списка покупок.</ASMakeShoppingList.jobString>
+	<ASRecycleShoppingList.label>список покупок для повторного использования</ASRecycleShoppingList.label>
+	<ASRecycleShoppingList.description>уничтожает старый список покупок, чтобы восстановить некоторые из его ресурсов.</ASRecycleShoppingList.description>
+	<ASRecycleShoppingList.jobString>Переработка списка покупок.</ASRecycleShoppingList.jobString>
+</LanguageData>

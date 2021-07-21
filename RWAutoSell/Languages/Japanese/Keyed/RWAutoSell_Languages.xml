@@ -136,6 +136,7 @@
   <RWAutoSell.FilterWepCkTp>武器の種類を確認</RWAutoSell.FilterWepCkTp>  <!-- Check Weapon Type -->
   <RWAutoSell.FilterWepRanged>遠距離武器</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
   <RWAutoSell.FilterWepMelee>格闘武器</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
+  <RWAutoSell.FilterWepCat>武器カテゴリ内のみ</RWAutoSell.FilterWepCat>
   <RWAutoSell.FilterSmeltAny>溶かせる物</RWAutoSell.FilterSmeltAny>  <!--Any that can be smelted-->
   <RWAutoSell.FilterSmeltProduce>溶かせる製品</RWAutoSell.FilterSmeltProduce>  <!--Smelting produces product-->
 

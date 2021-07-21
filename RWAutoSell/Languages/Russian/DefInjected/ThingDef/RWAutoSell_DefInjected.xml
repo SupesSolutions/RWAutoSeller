@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ASReportsPrinter.label>принтер торговых отчетов</ASReportsPrinter.label>
+  <ASReportsPrinter.description>Записывает и применяет правила торговли для этой колонии. В каждой колонии может быть только один торговый принтер или журнал.</ASReportsPrinter.description>
+
+  <ASReportsLog.label>журнал торговых отчетов</ASReportsLog.label>
+  <ASReportsLog.description>Примитивный журнал, в котором записываются и применяются правила торговли для этой колонии. В каждой колонии может быть только один торговый принтер или журнал.</ASReportsLog.description>
+
+  <ASShoppingList.label>Список покупок</ASShoppingList.label>
+  <ASShoppingList.description>Список покупок, который можно нести караванами.</ASShoppingList.description>
+
+</LanguageData>

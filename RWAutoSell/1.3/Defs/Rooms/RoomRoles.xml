@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <RoomRoleDef>
+    <defName>ASCommsRoom</defName>
+    <label>Communications Hub</label>
+    <workerClass>RWAutoSell.RoomRoleWorker_CommsRoom</workerClass>
+  </RoomRoleDef>
+</Defs>

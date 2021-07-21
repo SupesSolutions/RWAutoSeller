@@ -136,6 +136,7 @@
   <RWAutoSell.FilterWepCkTp>Check Weapon Type</RWAutoSell.FilterWepCkTp>
   <RWAutoSell.FilterWepRanged>Is Ranged</RWAutoSell.FilterWepRanged>
   <RWAutoSell.FilterWepMelee>Is Melee</RWAutoSell.FilterWepMelee>
+  <RWAutoSell.FilterWepCat>Within Weapon Category Only</RWAutoSell.FilterWepCat>
   <RWAutoSell.FilterSmeltAny>Any that can be smelted</RWAutoSell.FilterSmeltAny>
   <RWAutoSell.FilterSmeltProduce>Smelting Produces Product</RWAutoSell.FilterSmeltProduce>  
   <RWAutoSell.FilterSkillHas>Has selected skill</RWAutoSell.FilterSkillHas>

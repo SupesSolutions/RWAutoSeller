@@ -136,6 +136,7 @@
   <RWAutoSell.FilterWepCkTp>Waffentyp überprüfen</RWAutoSell.FilterWepCkTp>  <!-- Check Weapon Type -->
   <RWAutoSell.FilterWepRanged>ist Fernkampf</RWAutoSell.FilterWepRanged>  <!-- Is Ranged -->
   <RWAutoSell.FilterWepMelee>ist Nahkampf</RWAutoSell.FilterWepMelee>  <!-- Is Melee -->
+  <RWAutoSell.FilterWepCat>Nur innerhalb der Waffenkategorie</RWAutoSell.FilterWepCat>
   <RWAutoSell.FilterSmeltAny>Alles, was geschmolzen werden kann</RWAutoSell.FilterSmeltAny>  <!--Any that can be smelted-->
   <RWAutoSell.FilterSmeltProduce>Schmelzen erzeugt Produkt</RWAutoSell.FilterSmeltProduce>  <!--Smelting produces product-->
   
